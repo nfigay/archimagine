@@ -7,12 +7,72 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ecd83278-b1e5-4ea4-a2d8-ce1546db44ab">
     <bounds
-        x="82"
-        y="74"
+        x="48"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Location"
         href="Location_1ffbe242-cfd2-4147-93d3-93557a8df2be.xml#1ffbe242-cfd2-4147-93d3-93557a8df2be"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e72d4b15-4ee1-4415-b28c-021c04e98620">
+    <bounds
+        x="179"
+        y="184"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_ddb06d5f-6aef-4aea-900c-23623f73c376.xml#ddb06d5f-6aef-4aea-900c-23623f73c376"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fd966b03-5571-435b-a1c5-51f4c7a3f207">
+    <bounds
+        x="323"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_95a457d4-ac72-4a01-b4d1-80ce476f998a.xml#95a457d4-ac72-4a01-b4d1-80ce476f998a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="abcd32f8-5ea8-4574-aab0-df55b822bb57">
+    <bounds
+        x="246"
+        y="326"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_16bbb643-b443-4e3d-8860-dab3277d5aa2.xml#16bbb643-b443-4e3d-8860-dab3277d5aa2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="70c0c871-6fcf-4c87-bd8b-cd73de8486da">
+    <bounds
+        x="68"
+        y="161"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_e7a5f3de-d19b-44c0-81c9-105b818e9a12.xml#e7a5f3de-d19b-44c0-81c9-105b818e9a12"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d89e73ba-8007-4757-b842-f8395deac409">
+    <bounds
+        x="196"
+        y="279"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Deliverable"
+        href="Deliverable_553d1d00-4271-40e2-8b15-1a22708e477c.xml#553d1d00-4271-40e2-8b15-1a22708e477c"/>
   </children>
 </archimate:ArchimateDiagramModel>
