@@ -9,27 +9,13 @@
       id="2afa842c-98b7-4a03-bc55-c6288847b983"
       name="Sticky"
       lineColor="#5c5c5c"
-      fillColor="#ffffff"
-      content="Identifiers: IRI"
+      fillColor="#66ff66"
+      content="The WEB Platform: IRI, HTTP, Auth..."
       textPosition="1">
     <bounds
-        x="240"
-        y="384"
-        width="169"
-        height="49"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="b26d052a-5891-4e72-89fd-7a923fed9755"
-      name="Sticky"
-      lineColor="#5c5c5c"
-      fillColor="#ffffff"
-      content="Character Set: Unicode"
-      textPosition="1">
-    <bounds
-        x="420"
-        y="384"
-        width="157"
+        x="20"
+        y="456"
+        width="773"
         height="49"/>
   </children>
   <children
@@ -37,13 +23,13 @@
       id="46abeb06-747f-4895-84d6-394e4c596332"
       name="Sticky"
       lineColor="#5c5c5c"
-      fillColor="#ffffff"
-      content="Syntaxes: XML, RDF-XML, JSON LD, N3, Turtle, micro formats ..."
+      fillColor="#66ff66"
+      content="Syntaxes: XML, RDF-XML, JSON LD, N3, Turtle, micro formats ...&#xA;Technology capabilities: APIs, GRDDL,Technical Solutions (Triple stores, Engines ...)"
       textPosition="1">
     <bounds
-        x="240"
-        y="324"
-        width="445"
+        x="262"
+        y="396"
+        width="531"
         height="49"/>
   </children>
   <children
@@ -51,13 +37,13 @@
       id="a65d86a6-1c06-4abe-adab-e3985ba3ce27"
       name="Sticky"
       lineColor="#5c5c5c"
-      fillColor="#ffffff"
+      fillColor="#b5ffff"
       content="Distributed Semantic Graphs: RDF"
       textPosition="1">
     <bounds
-        x="216"
-        y="264"
-        width="445"
+        x="444"
+        y="288"
+        width="342"
         height="49"/>
   </children>
   <children
@@ -65,12 +51,12 @@
       id="36132d8b-7a34-4e9f-8f19-a3451e1dc1d8"
       name="Sticky"
       lineColor="#5c5c5c"
-      fillColor="#ffffff"
-      content="Taxonomies and Semantic Graphs with Descriptive Logic: OWL"
+      fillColor="#b5ffff"
+      content="Taxonomies and Semantic Graphs with Descriptive Logic: OWL&#xA;Upper ontologies: SUMO, DOLCE, IDEAS..."
       textPosition="1">
     <bounds
-        x="276"
-        y="204"
+        x="384"
+        y="228"
         width="409"
         height="49"/>
   </children>
@@ -79,27 +65,13 @@
       id="41412d8e-5994-4822-9e43-a1089ca36932"
       name="Sticky"
       lineColor="#5c5c5c"
-      fillColor="#ffffff"
+      fillColor="#b5ffff"
       content="Unifying Logic&#xA;Interoperability when using heterogeneous logics of the lower layers"
       textPosition="1">
     <bounds
-        x="180"
-        y="144"
+        x="288"
+        y="168"
         width="433"
-        height="49"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="faacee0e-68c3-4092-a57c-683c17af7b3b"
-      name="Sticky"
-      lineColor="#5c5c5c"
-      fillColor="#ffffff"
-      content="Proof&#xA;Are answers correct? Logic derivation? Data sources?&#xA;"
-      textPosition="1">
-    <bounds
-        x="240"
-        y="84"
-        width="445"
         height="49"/>
   </children>
   <children
@@ -107,24 +79,24 @@
       id="df4041c2-c3ca-4d3b-980b-f60343bf3359"
       name="Sticky"
       lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#b5ffff"
+      textPosition="1">
     <bounds
-        x="624"
-        y="84"
+        x="732"
+        y="144"
         width="61"
-        height="109"/>
+        height="73"/>
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
       id="804e7c27-d841-4aaa-a21e-01dafd7748e1"
       name="Sticky"
       lineColor="#5c5c5c"
-      fillColor="#ffffff"
+      fillColor="#ffff66"
       content="Trust&#xA;By Whom: chain of data providers to be considered">
     <bounds
-        x="348"
-        y="24"
+        x="456"
+        y="48"
         width="469"
         height="49"/>
   </children>
@@ -133,40 +105,26 @@
       id="4f95a21e-551b-42b3-8eab-38f5f3250392"
       name="Sticky"
       lineColor="#5c5c5c"
-      fillColor="#ffffff"
+      fillColor="#66ff66"
       content="Cryptography"
       textPosition="1">
     <bounds
-        x="709"
-        y="85"
+        x="817"
+        y="109"
         width="108"
-        height="348"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
-      id="25e0a9fa-e40d-4ac3-8c86-a478b4ee76cc"
-      name="Sticky"
-      lineColor="#5c5c5c"
-      fillColor="#ffffff"
-      content="HTTP"
-      textPosition="1">
-    <bounds
-        x="598"
-        y="383"
-        width="99"
-        height="50"/>
+        height="396"/>
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
       id="aae70372-375d-47c1-bfc7-682c3ec73cdc"
       name="Sticky"
       lineColor="#5c5c5c"
-      fillColor="#ffffff"
-      content="Querying: SParQL"
-      textPosition="1">
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Querying:&#xA;SPARQL, SPASQL">
     <bounds
-        x="46"
-        y="264"
+        x="154"
+        y="288"
         width="135"
         height="49"/>
   </children>
@@ -175,12 +133,133 @@
       id="a919e56e-c0c9-4671-9174-2e4ca062a2ea"
       name="Sticky"
       lineColor="#5c5c5c"
-      fillColor="#ffffff"
-      content="Querying: DL"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Querying: DL&#xA;Inferencing/Reasoning">
+    <bounds
+        x="154"
+        y="228"
+        width="183"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="6ad1cb1e-78dc-4fc2-a47b-a052facd98a8"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff"
+      content="Rules&#xA;&#xA;RIF, SWRL, DL&#xA;&#xA;&#xA;&#xA;SPIN">
+    <bounds
+        x="20"
+        y="207"
+        width="123"
+        height="130"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="630597d2-0fa9-4e6f-a730-b4e7da59c7a1"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="16"
+        y="48"
+        width="131"
+        height="119"/>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="e46f92d6-5867-44d5-a076-2635676cd5cc"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff"
+        content="APPLICATION"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="109"
+          height="26"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="73786db3-7e88-4146-bd5e-6f9fcb075bf3"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        fillColor="#ffff66"
+        content="BUSINESS">
+      <bounds
+          x="12"
+          y="12"
+          width="109"
+          height="26"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="f2ee88c1-fbb8-4061-84a2-3a465f1fdeee"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        fillColor="#66ff66"
+        content="TECHNOLOGY"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="83"
+          width="109"
+          height="26"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="ed10a082-19b6-4510-825a-8de25fe99874"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      fillColor="#66ff66"
+      content="Schemas"
       textPosition="1">
     <bounds
-        x="46"
-        y="204"
+        x="262"
+        y="348"
+        width="531"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="faacee0e-68c3-4092-a57c-683c17af7b3b"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      fillColor="#ffff66"
+      content="Proof&#xA;Are answers correct? Logic derivation? Data sources?&#xA;">
+    <bounds
+        x="348"
+        y="108"
+        width="445"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="91637812-bb7f-4307-b6d9-0674b97768b5"
+      name="Sticky"
+      font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
+      lineColor="#5c5c5c"
+      fillColor="#ffffff"
+      content="An Enterprise View of the Semantic Web and Linked Data Stack">
+    <bounds
+        x="14"
+        width="911"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="c45bdb28-ae85-41cd-943a-635984e9a611"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Shaping:&#xA;SHACL">
+    <bounds
+        x="300"
+        y="288"
         width="135"
         height="49"/>
   </children>
