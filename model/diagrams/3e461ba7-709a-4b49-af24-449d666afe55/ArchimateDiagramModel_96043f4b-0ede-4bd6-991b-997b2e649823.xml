@@ -1,0 +1,28 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Whole-Part definitions for DOLCE"
+    id="96043f4b-0ede-4bd6-991b-997b2e649823">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="cd6efb1a-a216-42d9-840e-120dd9e8e3d8"
+      textAlignment="1"
+      content="Not sure that we have aggregation">
+    <bounds
+        x="24"
+        y="24"
+        width="259"
+        height="53"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="001c59fa-1e8c-494b-9c1d-d8d8ca7d24be"
+      textAlignment="1"
+      content="Parts are relation objects">
+    <bounds
+        x="24"
+        y="84"
+        width="259"
+        height="53"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -263,4 +263,29 @@
         width="135"
         height="49"/>
   </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="f012165c-4bec-4f78-a1ac-b228db2cfc8e"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff"
+      content="Semantic Web Services">
+    <bounds
+        x="146"
+        y="108"
+        width="131"
+        height="106"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="2bcb42a3-6741-46dc-be0f-64e27057b035">
+      <bounds
+          x="12"
+          y="36"
+          width="109"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_f88bd846-6ea9-46be-ba08-a6f1498cf44d.xml#f88bd846-6ea9-46be-ba08-a6f1498cf44d"/>
+    </children>
+  </children>
 </archimate:SketchModel>

@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ISO 15926"
-    id="74a7de77-a078-44bb-a971-6e816c0ef7d1"/>
+    name="ISO 15926 -2"
+    id="74a7de77-a078-44bb-a971-6e816c0ef7d1"
+    documentation="ISO 15926-2:2003: Industrial automation systems and integration -- Integration of life-cycle data for process plants including oil and gas production facilities -- Part 2: Data model.&#xA;This ontology is based on the EXPRESS schema lifecycle_integration_schema.exp, http://www.steptools.com/sc4/archive/oil-and-gas/15926-0002-lifecycle_integration.exp?rev=1.1&amp;content-type=text/vnd.viewcvs-markup, which ISO 15926-2 annex B references.&#xA;1741 axioms&#xA;203 classes&#xA;106 object properties&#xA;10 data type properties&#xA;DL Expressivity ALCN(D)&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;1741 "/>

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Upper Ontologies"
-    id="3a1ee66c-c729-4c58-bb88-949086247093">
+    id="3a1ee66c-c729-4c58-bb88-949086247093"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="dfe34cc2-2694-46c4-973a-6afe08facdc1">

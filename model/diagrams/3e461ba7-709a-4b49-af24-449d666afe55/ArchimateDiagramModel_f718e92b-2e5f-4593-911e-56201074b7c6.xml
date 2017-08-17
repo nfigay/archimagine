@@ -1,0 +1,39 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Whole-Part definitions for General Formal Ontology"
+    id="f718e92b-2e5f-4593-911e-56201074b7c6">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4c6ef0c6-8d0a-4dc1-abe7-32c0d6c1b73f"
+      textAlignment="1"
+      content="Not sure that we have aggregation.&#xA;In fact, let's have a look at BFO2-Reference.pdf where aggregation is defined.">
+    <bounds
+        x="24"
+        y="24"
+        width="253"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a07721a5-062a-4e6a-92b8-e6093caf2499"
+      textAlignment="1"
+      content="Parts are relation objects">
+    <bounds
+        x="24"
+        y="108"
+        width="259"
+        height="29"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="783ab601-00d2-4f2d-8562-a96b437279e6"
+      textAlignment="1"
+      content="No properties defined part relationship (e.g. symetric, etc.)">
+    <bounds
+        x="24"
+        y="144"
+        width="259"
+        height="61"/>
+  </children>
+</archimate:ArchimateDiagramModel>

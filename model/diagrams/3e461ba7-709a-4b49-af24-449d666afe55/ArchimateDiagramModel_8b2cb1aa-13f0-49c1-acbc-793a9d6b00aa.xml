@@ -1,0 +1,39 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Whole-Part definitions for ISO 15926 Part 2"
+    id="8b2cb1aa-13f0-49c1-acbc-793a9d6b00aa">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="854c7d46-f1fb-4fdd-b7ae-fe19e20b15b5"
+      textAlignment="1"
+      content="There is a definition in EXPRESS of the data model">
+    <bounds
+        x="54"
+        y="12"
+        width="187"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="83d62daf-f279-41b1-a238-c9660d396060"
+      textAlignment="1"
+      content="A translation is provided in OWL">
+    <bounds
+        x="55"
+        y="96"
+        width="186"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ba4391dc-ef65-4de5-b737-d94b7ceba6dd"
+      textAlignment="1"
+      content="It defines whole and part with composition of individuals and arrangement of individual">
+    <bounds
+        x="55"
+        y="168"
+        width="186"
+        height="73"/>
+  </children>
+</archimate:ArchimateDiagramModel>
