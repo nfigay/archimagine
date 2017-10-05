@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open source free solution"
+    id="3b4f54f8-2b52-468d-9591-c838a8277617"
+    documentation="This requirements is related both to financial constraints (free) and to principle related to interoperability building (no black box, but white boxes in order ensuring to be able to resolve issues for used components."/>

@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="React v16"
+    id="d4c189cb-9b7a-4719-a896-0800d1616e93">
+  <properties
+      key="Web Site"
+      value="https://reactjs.org/"/>
+</archimate:Product>

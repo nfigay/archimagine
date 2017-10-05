@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AlloyUI"
+    id="49d4f804-a9c3-4f1b-bff9-7e55396e982d"
+    documentation="AlloyUI was developed on top of YUI, which is not anymore maintained.&#xA;An initial direction was to rely on JQuery but it seems that it is not anymore the direction, if referring to https://web.liferay.com/fr/web/nathan.cavanaugh/blog/-/blogs/the-status-and-direction-of-the-frontend-infrastructure-in-liferay-7-dxp.">
+  <properties
+      key="Web Site"
+      value="https://alloyui.com/"/>
+</archimate:Product>

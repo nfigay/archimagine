@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bootstrap 3"
+    id="c229f76a-56cd-4213-ad0f-7ac564677a57"
+    documentation="Build responsive, mobile-first projects on the web with the world's most popular front-end component library.&#xA;&#xA;Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.&#xA;&#xA;Get started&#xA;Download&#xA;">
+  <properties
+      key="Web Site"
+      value="http://getbootstrap.com/"/>
+</archimate:Product>

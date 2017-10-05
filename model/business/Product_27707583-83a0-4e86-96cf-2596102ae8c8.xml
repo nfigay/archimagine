@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaadin 7"
+    id="27707583-83a0-4e86-96cf-2596102ae8c8"
+    documentation="Development environment based on GWT and supporting UI development: it is consequently not based on Javascripts, even if some can be integretated (e.g. case of vis.js).&#xA;So it could be a component to be used with the elected javascript library for UI."/>

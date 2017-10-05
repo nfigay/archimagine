@@ -1,0 +1,7 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vue v2"
+    id="f3ee252f-eea0-44af-8228-b169121d5020">
+  <properties
+      value="https://vuejs.org/"/>
+</archimate:Product>

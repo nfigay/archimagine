@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Easy to learn"
+    id="f01db817-170c-4394-a697-7adb4d0c308f"
+    documentation="The used framework should be simple to learn and to apply, for fast prototyping by people who don't have to much time for learning it.&#xA;It should not be complicated, but it should allow developing fast good quality components."/>

@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materialize 0.1"
+    id="d1243fa6-80fc-4efd-9bad-20468ffb5508">
+  <properties
+      key="Web Site"
+      value="http://materializecss.com/"/>
+</archimate:Product>

@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JQuery UI v1.12"
+    id="b29eb2de-c7c1-4e67-bf6d-5ee66ae84dcf"
+    documentation="An initial direction was to rely on JQuery but it seems that it is not anymore the direction, if referring to https://web.liferay.com/fr/web/nathan.cavanaugh/blog/-/blogs/the-status-and-direction-of-the-frontend-infrastructure-in-liferay-7-dxp."/>

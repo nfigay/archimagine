@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Other alternative studied solutions"
+    id="0ee0385e-b7d0-480a-9684-419b1c40d6d4"
+    documentation="Some others were studied, in order ensuring that boostrap is really the best one in terms of functionalities.&#xA;These solutions can highlight some missing interesting components, to be considered for extension.&#xA;Eventually, their integration can be envisage as something to be useable with Liferay, which is structured in order to allow evolution and usag of several components."/>

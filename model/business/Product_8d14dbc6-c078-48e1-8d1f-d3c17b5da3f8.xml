@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Foundation 6.4"
+    id="8d14dbc6-c078-48e1-8d1f-d3c17b5da3f8">
+  <properties
+      key="Web Site"
+      value="https://foundation.zurb.com/"/>
+</archimate:Product>

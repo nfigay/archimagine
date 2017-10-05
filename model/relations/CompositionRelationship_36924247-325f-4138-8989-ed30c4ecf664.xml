@@ -1,0 +1,14 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="36924247-325f-4138-8989-ed30c4ecf664">
+  <properties
+      key="Web Site"
+      value="https://dev.liferay.com/fr/develop/tutorials/-/knowledge_base/7-0/metal-js"/>
+  <source
+      xsi:type="archimate:Product"
+      href="Product_6dcc746c-fc3f-40fd-90ce-08d5cc3aba8b.xml#6dcc746c-fc3f-40fd-90ce-08d5cc3aba8b"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_fa1362a0-3cdd-4e2f-b10f-460b85754711.xml#fa1362a0-3cdd-4e2f-b10f-460b85754711"/>
+</archimate:CompositionRelationship>

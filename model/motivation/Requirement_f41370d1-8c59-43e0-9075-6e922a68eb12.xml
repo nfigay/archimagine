@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Responsive Web User Interface that can be used with a collection of devices (smart phones, computers, etc.)"
+    id="f41370d1-8c59-43e0-9075-6e922a68eb12"
+    documentation="The used framework shoud respond to the need of responsiveness, i.e. automated adaptation to most of the devices from smart phone to computers."/>
