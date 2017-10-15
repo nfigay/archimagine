@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stardog http server"
+    id="f9333c6b-4dbe-4b70-b23a-02f3c7306fb1">
+  <properties
+      key="Web Site"
+      value="http://www.stardog.com/"/>
+</archimate:Product>

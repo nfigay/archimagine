@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPARQL.js"
+    id="19f24dfd-71d1-4251-a942-586217c8a758">
+  <properties
+      key="Web Site"
+      value="https://github.com/RubenVerborgh/SPARQL.js"/>
+  <properties
+      key="Media type"
+      value="SPARQL 1.1"/>
+  <properties
+      key="Environment"
+      value="browser, node.js"/>
+  <properties
+      key="Interface"
+      value="Custom"/>
+</archimate:Product>

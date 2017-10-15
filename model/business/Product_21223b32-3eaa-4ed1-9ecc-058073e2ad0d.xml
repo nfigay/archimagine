@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="node-rdf"
+    id="21223b32-3eaa-4ed1-9ecc-058073e2ad0d">
+  <properties
+      key="Web Site"
+      value="https://github.com/Acubed/node-rdf"/>
+  <properties
+      key="Media type"
+      value="turtle"/>
+  <properties
+      key="Environment"
+      value="node.js"/>
+  <properties
+      key="Environment"
+      value="RDF Interfaces"/>
+</archimate:Product>

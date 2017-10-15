@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pellet"
+    id="bb7ab931-ea2c-48f4-b258-133b1de659ab">
+  <properties
+      key="Web Site"
+      value="https://github.com/stardog-union/pellet"/>
+</archimate:Product>

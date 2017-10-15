@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="green-turtle.js"
+    id="e83c7914-6c42-407e-8463-b0f16591f79e">
+  <properties
+      key="Web Site"
+      value="https://github.com/alexmilowski/green-turtle"/>
+  <properties
+      key="Media type"
+      value="RDFa, Turtle, Microdata (partial)"/>
+  <properties
+      key="Environment"
+      value="browser"/>
+  <properties
+      key="Interface"
+      value="RDFa API"/>
+</archimate:Product>

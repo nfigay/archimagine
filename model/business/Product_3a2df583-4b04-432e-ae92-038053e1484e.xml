@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="rdfquery"
+    id="3a2df583-4b04-432e-ae92-038053e1484e">
+  <properties
+      key="Web Site"
+      value="https://code.google.com/p/rdfquery/"/>
+  <properties
+      key="Interface"
+      value="Custom"/>
+  <properties
+      key="Environment"
+      value="browser"/>
+  <properties
+      key="Interface"
+      value="Custom"/>
+</archimate:Product>

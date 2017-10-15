@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linked Data Fragments Client"
+    id="2f42686b-af47-427d-b0a1-6d2589e53440">
+  <properties
+      key="Web Site"
+      value="https://github.com/LinkedDataFragments/Client.js"/>
+  <properties
+      key="Environment"
+      value="browser"/>
+</archimate:Product>

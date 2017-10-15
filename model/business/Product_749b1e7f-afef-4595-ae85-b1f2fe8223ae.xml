@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtuoso SPARQL HTTP Client for Node.js"
+    id="749b1e7f-afef-4595-ae85-b1f2fe8223ae">
+  <properties
+      key="Web Site"
+      value="https://github.com/crs4/virtuoso-sparql-client"/>
+  <properties
+      key="Environment"
+      value="node.js"/>
+</archimate:Product>

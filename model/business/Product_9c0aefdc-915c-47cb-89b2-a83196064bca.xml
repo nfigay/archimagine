@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linked Data Fragments Server"
+    id="9c0aefdc-915c-47cb-89b2-a83196064bca">
+  <properties
+      key="Web Site"
+      value="https://libraries.io/npm/ldf-server"/>
+  <properties
+      key="Environment"
+      value="node.js"/>
+</archimate:Product>

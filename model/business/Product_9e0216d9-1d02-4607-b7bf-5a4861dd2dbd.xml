@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="jsonld.js"
+    id="9e0216d9-1d02-4607-b7bf-5a4861dd2dbd">
+  <properties
+      key="Web Site"
+      value="https://github.com/digitalbazaar/jsonld.js"/>
+  <properties
+      key="Media type"
+      value="JSON-LD"/>
+  <properties
+      key="Environment"
+      value="browser, node.js"/>
+  <properties
+      key="Interface"
+      value="JSON-LD"/>
+</archimate:Product>

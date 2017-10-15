@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="d3sparql"
+    id="d4803cfa-81ec-48b9-b32d-594826ed0bd2">
+  <properties
+      key="Web Site"
+      value="https://github.com/ktym/d3sparql"/>
+  <properties
+      key="Interface"
+      value="D3 graphs"/>
+</archimate:Product>

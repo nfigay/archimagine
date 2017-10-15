@@ -1,0 +1,20 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="N3.js"
+    id="bad03c7a-c2d6-49db-9372-d18e6e56a76c">
+  <properties
+      key="Web Site"
+      value="https://github.com/RubenVerborgh/N3.js"/>
+  <properties
+      key="Media type"
+      value="Turtle, TriG, N-Triples, N-Quads&#x9;"/>
+  <properties
+      key="Environment"
+      value="browser, node.js"/>
+  <properties
+      key="Interface"
+      value="Custom, Node.js Streams"/>
+  <properties
+      key="Characteristics"
+      value="streaming"/>
+</archimate:Product>

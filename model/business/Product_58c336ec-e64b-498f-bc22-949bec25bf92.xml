@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDF-Ext"
+    id="58c336ec-e64b-498f-bc22-949bec25bf92">
+  <properties
+      key="Web Site"
+      value="https://github.com/bergos/rdf-ext"/>
+  <properties
+      key="Interface"
+      value="RDF Interfaces"/>
+  <properties
+      key="Environment"
+      value="browser, node.js"/>
+  <properties
+      key="Media type"
+      value="JSON-LD, RDF-XML, Turtle"/>
+</archimate:Product>

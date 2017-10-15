@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="rdflib.js"
+    id="92294d48-90d9-4b5e-aba8-c3ad18a9b5a4">
+  <properties
+      key="Web Site"
+      value="https://github.com/linkeddata/rdflib.js"/>
+  <properties
+      key="Media type"
+      value="RDF/XML, Turtle, N3, RDFa"/>
+  <properties
+      key="Environment"
+      value="browser, node.js"/>
+  <properties
+      key="Interface"
+      value="Custom"/>
+</archimate:Product>

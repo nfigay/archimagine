@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sparql-spin-js3"
+    id="8f9b2631-c1a0-4868-9c76-284fbf720075">
+  <properties
+      key="Web Site"
+      value="https://github.com/Acubed/sparql-spin-js3"/>
+  <properties
+      key="Media type"
+      value="SPARQL (parse into SPIN Vocabulary)"/>
+  <properties
+      key="Environment"
+      value="node.js"/>
+  <properties
+      key="Interface"
+      value="Custom"/>
+</archimate:Product>

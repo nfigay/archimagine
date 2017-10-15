@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Yet Another Sparql GUI"
+    id="e67535d1-4189-4af4-87fa-c864582a6c90">
+  <properties
+      key="Web Site"
+      value="http://doc.yasgui.org/"/>
+  <properties
+      key="Environment"
+      value="browser, node.js"/>
+</archimate:Product>

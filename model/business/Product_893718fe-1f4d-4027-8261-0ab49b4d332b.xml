@@ -1,0 +1,10 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="trifid"
+    id="893718fe-1f4d-4027-8261-0ab49b4d332b">
+  <properties
+      key="Web Site"/>
+  <properties
+      key="Environment"
+      value="node.js"/>
+</archimate:Product>

@@ -1,0 +1,17 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="rdfstore-js"
+    id="4ca46b00-ede9-4c66-b863-c8c929ba55fb">
+  <properties
+      key="Web Site"
+      value="https://github.com/antoniogarrote/rdfstore-js"/>
+  <properties
+      key="Media type"
+      value="SPARQL, turtle"/>
+  <properties
+      key="Environment"
+      value="browser, node.js"/>
+  <properties
+      key="Environment"
+      value="RDF Interfaces"/>
+</archimate:Product>

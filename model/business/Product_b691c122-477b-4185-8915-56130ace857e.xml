@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stardog.js"
+    id="b691c122-477b-4185-8915-56130ace857e">
+  <properties
+      key="Web Site"
+      value="https://github.com/stardog-union/stardog.js"/>
+</archimate:Product>
