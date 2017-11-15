@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Commercial of the Shelves platform components"
-    id="e0bf6bf1-354c-4044-91f3-480f4cf5582b">
+    name="Selection of COTS for full coverage of a javascript platforms for visual enteprise modeling"
+    id="e0bf6bf1-354c-4044-91f3-480f4cf5582b"
+    documentation="Some usefull resources:&#xA;https://www.tutorialspoint.com/reactjs/ : the basics of react, with clear explanation and resources&#xA;https://www.infoq.com/articles/no-more-mvc-frameworks#.WgwUp1sdEwo.linkedin : new emerging paradigms with State Action Model&#xA;https://medium.com/javascript-inside/what-if-react-was-really-only-the-v-in-mvc-5854fd6f601c: what are the real characteristic of React&#xA;https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f : a guide for making the link with CRUD and axios&#xA;https://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/ : A practical guide to redux with Axios call&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b252fa43-78ae-463c-b0d8-46a6339674c9">
@@ -41,9 +42,9 @@
     </sourceConnections>
     <bounds
         x="36"
-        y="229"
+        y="226"
         width="120"
-        height="55"/>
+        height="46"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_f0c43503-25eb-429a-9e3e-80c7a9e3c562.xml#f0c43503-25eb-429a-9e3e-80c7a9e3c562"/>
@@ -65,7 +66,7 @@
         x="39"
         y="312"
         width="120"
-        height="55"/>
+        height="46"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_28d4a0ad-e0d1-46ac-9868-c500baa2e12e.xml#28d4a0ad-e0d1-46ac-9868-c500baa2e12e"/>
@@ -91,7 +92,7 @@
         x="36"
         y="96"
         width="120"
-        height="55"/>
+        height="46"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_d4c189cb-9b7a-4719-a896-0800d1616e93.xml#d4c189cb-9b7a-4719-a896-0800d1616e93"/>
@@ -113,10 +114,10 @@
           href="RealizationRelationship_0320ee6c-8d85-467a-a0ea-575989a41fa1.xml#0320ee6c-8d85-467a-a0ea-575989a41fa1"/>
     </sourceConnections>
     <bounds
-        x="852"
-        y="7"
+        x="1034"
+        y="12"
         width="120"
-        height="55"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_c192607d-bd54-4ada-b461-346dd3239447.xml#c192607d-bd54-4ada-b461-346dd3239447"/>
@@ -134,10 +135,10 @@
           href="RealizationRelationship_de7d8b6b-fc70-4705-92f6-eb1693cfdbe7.xml#de7d8b6b-fc70-4705-92f6-eb1693cfdbe7"/>
     </sourceConnections>
     <bounds
-        x="564"
-        y="7"
+        x="746"
+        y="12"
         width="120"
-        height="55"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_bda1573b-cb42-44a7-a2b0-26438947c907.xml#bda1573b-cb42-44a7-a2b0-26438947c907"/>
@@ -155,10 +156,10 @@
           href="RealizationRelationship_a62799ae-2acd-47f0-a998-e0984ed0c4cd.xml#a62799ae-2acd-47f0-a998-e0984ed0c4cd"/>
     </sourceConnections>
     <bounds
-        x="720"
-        y="7"
+        x="902"
+        y="12"
         width="120"
-        height="55"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_32dde9cb-0c49-43c1-ba95-336f8c6d3f95.xml#32dde9cb-0c49-43c1-ba95-336f8c6d3f95"/>
@@ -177,8 +178,8 @@
           href="AggregationRelationship_546d5a1a-39db-45cc-9c64-19f91708ac7e.xml#546d5a1a-39db-45cc-9c64-19f91708ac7e"/>
     </sourceConnections>
     <bounds
-        x="643"
-        y="96"
+        x="825"
+        y="101"
         width="120"
         height="55"/>
     <archimateElement
@@ -190,8 +191,8 @@
       id="d5c9f6a3-0250-4e9f-a967-64ed01c23cd3"
       targetConnections="9d848f35-5ac9-4201-8bd0-0eb0c07c7ec6">
     <bounds
-        x="792"
-        y="108"
+        x="974"
+        y="113"
         width="120"
         height="55"/>
     <archimateElement
@@ -216,8 +217,8 @@
           href="AggregationRelationship_3fa9a38d-e702-4d0e-8c53-7e1543cbc602.xml#3fa9a38d-e702-4d0e-8c53-7e1543cbc602"/>
     </sourceConnections>
     <bounds
-        x="564"
-        y="283"
+        x="746"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -229,8 +230,8 @@
       id="771519d3-1cb9-4fc6-9bb0-781a5d791ce7"
       targetConnections="1414bad6-2285-4cca-a3bc-6c357203d46a 99084011-6290-41bc-8a56-f02de45d77b7">
     <bounds
-        x="720"
-        y="324"
+        x="902"
+        y="329"
         width="120"
         height="55"/>
     <archimateElement
@@ -242,8 +243,8 @@
       id="08b8f95c-e602-4496-8ae1-6e944f81d198"
       targetConnections="4fb6f060-9a8e-4aa9-b491-f9401f5a44af">
     <bounds
-        x="394"
-        y="283"
+        x="576"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -293,10 +294,10 @@
           href="RealizationRelationship_b5e46415-a02b-44ae-b5ba-f9db77467596.xml#b5e46415-a02b-44ae-b5ba-f9db77467596"/>
     </sourceConnections>
     <bounds
-        x="432"
-        y="7"
+        x="614"
+        y="12"
         width="120"
-        height="55"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_063f5c9d-8304-441b-8119-a58990435cea.xml#063f5c9d-8304-441b-8119-a58990435cea"/>
@@ -314,8 +315,8 @@
           href="RealizationRelationship_12f49f76-b135-41ef-aa55-2a912d96a799.xml#12f49f76-b135-41ef-aa55-2a912d96a799"/>
     </sourceConnections>
     <bounds
-        x="394"
-        y="144"
+        x="576"
+        y="149"
         width="120"
         height="55"/>
     <archimateElement
@@ -347,8 +348,8 @@
         source="0d83d0e3-2dd7-4dbb-a9d1-81a8abf2d059"
         target="04e34aa7-0647-4c25-a670-21725bc0b3a8"/>
     <bounds
-        x="228"
-        y="24"
+        x="384"
+        y="21"
         width="179"
         height="38"/>
   </children>
@@ -371,10 +372,10 @@
           href="RealizationRelationship_668790cb-d5a1-4d24-bcc7-1bd9f6e433bf.xml#668790cb-d5a1-4d24-bcc7-1bd9f6e433bf"/>
     </sourceConnections>
     <bounds
-        x="252"
-        y="96"
+        x="360"
+        y="92"
         width="120"
-        height="55"/>
+        height="46"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_a4ef0288-f33d-4754-ab29-d2db667f86c3.xml#a4ef0288-f33d-4754-ab29-d2db667f86c3"/>
@@ -382,7 +383,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ddbab5be-303b-4109-ba99-275c25a6e281"
-      targetConnections="dda21c83-2508-439f-9cd4-a0058a246ead e00d64ce-a45f-4b8d-9062-4176b9aa6aa9 54d0fa9e-fb36-424d-a383-95f7baeff355">
+      targetConnections="dda21c83-2508-439f-9cd4-a0058a246ead e00d64ce-a45f-4b8d-9062-4176b9aa6aa9 54d0fa9e-fb36-424d-a383-95f7baeff355 e35f6186-b046-4cf6-929d-ff0a36eca1b0">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="72ef86e5-7c0d-4c67-9bd3-78e4e229bb5e"
@@ -437,8 +438,8 @@
           href="RealizationRelationship_7717172a-c53d-40ba-85f8-af7bbe7c8123.xml#7717172a-c53d-40ba-85f8-af7bbe7c8123"/>
     </sourceConnections>
     <bounds
-        x="564"
-        y="396"
+        x="746"
+        y="401"
         width="120"
         height="55"/>
     <archimateElement
@@ -463,10 +464,10 @@
           href="RealizationRelationship_51565f53-a72d-41a6-8185-9ab5bada6db3.xml#51565f53-a72d-41a6-8185-9ab5bada6db3"/>
     </sourceConnections>
     <bounds
-        x="936"
-        y="132"
+        x="1118"
+        y="137"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_f0f9efff-b198-42c0-98c3-dd7bb6740191.xml#f0f9efff-b198-42c0-98c3-dd7bb6740191"/>
@@ -484,10 +485,10 @@
           href="RealizationRelationship_01ff2580-37cf-426e-b66a-be7f55f8aa2f.xml#01ff2580-37cf-426e-b66a-be7f55f8aa2f"/>
     </sourceConnections>
     <bounds
-        x="936"
-        y="194"
+        x="1118"
+        y="199"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_57513eae-d7ca-4b50-8919-cc84308c6c48.xml#57513eae-d7ca-4b50-8919-cc84308c6c48"/>
@@ -505,10 +506,10 @@
           href="RealizationRelationship_a695796e-7c7b-4ed5-aa1f-9980ace9c732.xml#a695796e-7c7b-4ed5-aa1f-9980ace9c732"/>
     </sourceConnections>
     <bounds
-        x="936"
-        y="254"
+        x="1118"
+        y="259"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_1e87fd35-5835-4fb4-90f0-1f7c40ab5242.xml#1e87fd35-5835-4fb4-90f0-1f7c40ab5242"/>
@@ -531,10 +532,10 @@
           href="RealizationRelationship_6f854b92-d7ff-4011-ad1d-24e984b9152f.xml#6f854b92-d7ff-4011-ad1d-24e984b9152f"/>
     </sourceConnections>
     <bounds
-        x="936"
-        y="314"
+        x="1118"
+        y="319"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_392dcc0d-bcae-4a5d-8f7a-c8d87726c2af.xml#392dcc0d-bcae-4a5d-8f7a-c8d87726c2af"/>
@@ -553,8 +554,8 @@
           href="AssociationRelationship_a393738a-5e76-4ac5-b8f3-03a4456a5728.xml#a393738a-5e76-4ac5-b8f3-03a4456a5728"/>
     </sourceConnections>
     <bounds
-        x="648"
-        y="216"
+        x="830"
+        y="221"
         width="120"
         height="55"/>
     <archimateElement
@@ -567,8 +568,8 @@
       textAlignment="1"
       content="Interactive graph with physics constraints">
     <bounds
-        x="1074"
-        y="147"
+        x="1256"
+        y="152"
         width="223"
         height="25"/>
   </children>
@@ -578,8 +579,8 @@
       textAlignment="1"
       content="Data visualisation">
     <bounds
-        x="1074"
-        y="205"
+        x="1256"
+        y="210"
         width="139"
         height="25"/>
   </children>
@@ -589,8 +590,8 @@
       textAlignment="1"
       content="Diagramming">
     <bounds
-        x="1080"
-        y="269"
+        x="1262"
+        y="274"
         width="139"
         height="25"/>
   </children>
@@ -600,8 +601,8 @@
       textAlignment="1"
       content="Graphs with nested elements and constraints">
     <bounds
-        x="1080"
-        y="327"
+        x="1262"
+        y="332"
         width="139"
         height="25"/>
   </children>
@@ -609,10 +610,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="af7e1ed4-b348-4867-a57d-86382ca57ebc">
     <bounds
-        x="936"
-        y="384"
+        x="1116"
+        y="480"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_e365c56b-29e4-4179-a5f3-e87a0b96c5bb.xml#e365c56b-29e4-4179-a5f3-e87a0b96c5bb"/>
@@ -621,10 +622,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7f8547eb-fc9f-4b1d-99bf-005bf73ead3a">
     <bounds
-        x="936"
-        y="450"
+        x="1116"
+        y="546"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_9a12ff3a-fcc9-4caa-9f4b-a36ba6e88915.xml#9a12ff3a-fcc9-4caa-9f4b-a36ba6e88915"/>
@@ -633,10 +634,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ef218632-f844-4922-a953-5a0f98be2ceb">
     <bounds
-        x="1068"
-        y="384"
+        x="1248"
+        y="480"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_6ae0593d-921d-45f2-b73e-d2dc8535a53c.xml#6ae0593d-921d-45f2-b73e-d2dc8535a53c"/>
@@ -645,10 +646,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c2b7bc31-8760-47c4-af91-282a2090cccb">
     <bounds
-        x="1068"
-        y="450"
+        x="1248"
+        y="546"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_9636d3cc-cebe-421f-a44c-7bfb94120aa9.xml#9636d3cc-cebe-421f-a44c-7bfb94120aa9"/>
@@ -659,8 +660,8 @@
       content="Considered standardised languages"
       textPosition="1">
     <bounds
-        x="795"
-        y="450"
+        x="944"
+        y="455"
         width="113"
         height="80"/>
   </children>
@@ -668,10 +669,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6180f241-f6b7-40e2-8ad9-a44e2cb1c514">
     <bounds
-        x="1200"
-        y="384"
+        x="1380"
+        y="480"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_f3218e97-2984-4fd5-8a7d-22c18785897c.xml#f3218e97-2984-4fd5-8a7d-22c18785897c"/>
@@ -680,10 +681,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="465d47b1-8bee-4d52-84a8-0f7e63a4005e">
     <bounds
-        x="1200"
-        y="450"
+        x="1380"
+        y="546"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_9df86ae1-7dfe-41e2-b34e-c429e76eeb5a.xml#9df86ae1-7dfe-41e2-b34e-c429e76eeb5a"/>
@@ -692,10 +693,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cfcbe16c-bb6a-4029-a0aa-ce5bad62c950">
     <bounds
-        x="936"
-        y="516"
+        x="1116"
+        y="612"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_ad495dbc-584a-4f47-9d6e-5c4476ef021b.xml#ad495dbc-584a-4f47-9d6e-5c4476ef021b"/>
@@ -704,12 +705,72 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b18a4d0a-9a37-4407-8a65-2328b0b88445">
     <bounds
-        x="1068"
-        y="516"
+        x="1248"
+        y="612"
         width="120"
-        height="55"/>
+        height="44"/>
     <archimateElement
         xsi:type="archimate:Representation"
         href="Representation_387918a8-2453-47e0-8e21-8699f0cbdfaf.xml#387918a8-2453-47e0-8e21-8699f0cbdfaf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c8af8eeb-8c57-44d9-9ddc-62df5ae6b030"
+      targetConnections="270b21e8-58a9-4c11-9ca6-dd69a9a93d7e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="e35f6186-b046-4cf6-929d-ff0a36eca1b0"
+        source="c8af8eeb-8c57-44d9-9ddc-62df5ae6b030"
+        target="ddbab5be-303b-4109-ba99-275c25a6e281">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_96e7ccb9-ed7e-4aeb-9ae6-1d2465507ebe.xml#96e7ccb9-ed7e-4aeb-9ae6-1d2465507ebe"/>
+    </sourceConnections>
+    <bounds
+        x="204"
+        y="92"
+        width="120"
+        height="46"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_54d5d07d-1143-42bf-8586-61b3172a421d.xml#54d5d07d-1143-42bf-8586-61b3172a421d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3e5cff80-8fd1-494f-a77b-6a6d3a8c10e7"
+      textAlignment="1"
+      content="predictable state container for JavaScript apps">
+    <sourceConnections
+        id="270b21e8-58a9-4c11-9ca6-dd69a9a93d7e"
+        source="3e5cff80-8fd1-494f-a77b-6a6d3a8c10e7"
+        target="c8af8eeb-8c57-44d9-9ddc-62df5ae6b030"/>
+    <bounds
+        x="204"
+        y="24"
+        width="169"
+        height="38"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6b2e5fd0-0b69-429a-9d33-b1aa95dcce05"
+      textAlignment="1"
+      content="In addition to collect the components, it is needed to understand the underlying architectural patterns that are not MVC oriented for React or Redux&#xA;1- Shift from &quot;just the UI&quot; to &quot;declarative&quot;&#xA;2- to write the UI as a function of its state, and reuse the functions&#xA;3- State Action Model (SAM) - introduced by Redux.js and Flow&#xA;Aggreting other libraries not based on the same pattern is important.">
+    <bounds
+        x="19"
+        y="576"
+        width="558"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fb6b95e2-b130-4344-83e2-63be80387fe0">
+    <bounds
+        x="900"
+        y="576"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_661a9676-22ea-41ae-ab53-b8051b53e8fc.xml#661a9676-22ea-41ae-ab53-b8051b53e8fc"/>
   </children>
 </archimate:ArchimateDiagramModel>
