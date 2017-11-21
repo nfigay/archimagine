@@ -608,4 +608,16 @@
         xsi:type="archimate:Resource"
         href="Resource_625314de-3a3b-4689-b2f1-d9bf0c25a60e.xml#625314de-3a3b-4689-b2f1-d9bf0c25a60e"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0d928add-ecca-4ad8-bd8c-dcdadc6f671a">
+    <bounds
+        x="696"
+        y="564"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_3e0ae6e3-397b-4837-983a-ece12463455a.xml#3e0ae6e3-397b-4837-983a-ece12463455a"/>
+  </children>
 </archimate:ArchimateDiagramModel>
