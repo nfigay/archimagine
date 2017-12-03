@@ -1,4 +1,30 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organizational capabilities"
-    id="e3266f7f-0157-4b1e-8a05-4213ad160577"/>
+    id="e3266f7f-0157-4b1e-8a05-4213ad160577"
+    viewpoint="capability">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3fd4618e-8bb5-4742-9394-29e233fc34c9"
+      content="The Capability map viewpoint allows the business architect to create a structured overview of the capabilities of the enterprise. A capability map typically shows two or three levels of capabilities across the entire enterprise. It can, for example, be used as a heat map to identify areas of investment. In some cases, a capability map may also show specific outcomes delivered by these capabilities."
+      textPosition="1">
+    <bounds
+        x="12"
+        y="26"
+        width="625"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="74177c6b-5807-40d7-8b3d-c249ba2eabd8">
+    <bounds
+        x="132"
+        y="132"
+        width="254"
+        height="34"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_30ba6c6b-2c9e-47c6-887d-22815df944c5.xml#30ba6c6b-2c9e-47c6-887d-22815df944c5"/>
+  </children>
+</archimate:ArchimateDiagramModel>

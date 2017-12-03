@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Recycling"
-    id="cea05a77-a3b1-4cc4-97bb-a3ce9cb5468f"/>
+    id="cea05a77-a3b1-4cc4-97bb-a3ce9cb5468f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="981f15ea-29f6-4ab7-9994-a46016d93a4e">
+    <bounds
+        x="83"
+        y="126"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_00ee0ee7-417c-4265-92e1-2d6b9aa5d41b.xml#00ee0ee7-417c-4265-92e1-2d6b9aa5d41b"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lobbying"
-    id="ff9ea12a-56f5-404e-b6a0-17f365ff6392"/>
+    id="ff9ea12a-56f5-404e-b6a0-17f365ff6392">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a145eda7-3a98-448b-a8fa-18d9bf387736">
+    <bounds
+        x="120"
+        y="146"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_1ec382c8-1c46-4174-8dfa-4e8e63faee02.xml#1ec382c8-1c46-4174-8dfa-4e8e63faee02"/>
+  </children>
+</archimate:ArchimateDiagramModel>

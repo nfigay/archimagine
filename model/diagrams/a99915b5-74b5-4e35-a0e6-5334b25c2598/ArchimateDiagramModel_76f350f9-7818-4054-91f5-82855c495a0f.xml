@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Product Design"
-    id="76f350f9-7818-4054-91f5-82855c495a0f"/>
+    id="76f350f9-7818-4054-91f5-82855c495a0f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="83ce19f6-7508-4749-99ef-bcbe4d6096d4">
+    <bounds
+        x="51"
+        y="123"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_79ab3399-ec92-4f5a-913c-64cccb632eaf.xml#79ab3399-ec92-4f5a-913c-64cccb632eaf"/>
+  </children>
+</archimate:ArchimateDiagramModel>

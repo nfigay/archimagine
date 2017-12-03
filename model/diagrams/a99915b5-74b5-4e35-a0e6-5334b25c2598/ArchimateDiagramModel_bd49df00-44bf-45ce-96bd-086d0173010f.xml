@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Remanufacturing"
-    id="bd49df00-44bf-45ce-96bd-086d0173010f"/>
+    id="bd49df00-44bf-45ce-96bd-086d0173010f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6d30c553-eba8-49e5-af57-d7b6d1b85e84">
+    <bounds
+        x="69"
+        y="47"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_57f8e4ff-9020-4692-9982-55024cd418d6.xml#57f8e4ff-9020-4692-9982-55024cd418d6"/>
+  </children>
+</archimate:ArchimateDiagramModel>

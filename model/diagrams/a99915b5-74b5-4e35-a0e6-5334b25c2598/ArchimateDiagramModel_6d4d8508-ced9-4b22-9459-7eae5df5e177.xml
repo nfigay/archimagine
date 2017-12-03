@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Virtualization of materials"
-    id="6d4d8508-ced9-4b22-9459-7eae5df5e177"/>
+    id="6d4d8508-ced9-4b22-9459-7eae5df5e177">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="64e32c6f-ab67-47a5-9ec7-8bc3032a5858">
+    <bounds
+        x="64"
+        y="52"
+        width="201"
+        height="33"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_ea98de8a-1a15-4e89-ad77-c121e8b786b1.xml#ea98de8a-1a15-4e89-ad77-c121e8b786b1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

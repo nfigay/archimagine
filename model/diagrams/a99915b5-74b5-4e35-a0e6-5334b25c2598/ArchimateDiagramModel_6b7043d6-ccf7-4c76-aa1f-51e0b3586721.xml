@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regeneration and restoring of natural capital"
-    id="6b7043d6-ccf7-4c76-aa1f-51e0b3586721"/>
+    id="6b7043d6-ccf7-4c76-aa1f-51e0b3586721">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="47e8cfdf-9902-4c58-8973-4496a5135f6d">
+    <bounds
+        x="36"
+        y="24"
+        width="177"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_37426470-2ea5-4d11-ab8a-2c089a07910f.xml#37426470-2ea5-4d11-ab8a-2c089a07910f"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technology Exchange"
-    id="00d1ab08-1b8d-41ce-b082-58ed0f7f402d"/>
+    id="00d1ab08-1b8d-41ce-b082-58ed0f7f402d">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0b0dd6d7-9f40-492e-95f6-ff075db2e633">
+    <bounds
+        x="117"
+        y="99"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_431907fe-3454-4492-9dd6-966c3a73c87f.xml#431907fe-3454-4492-9dd6-966c3a73c87f"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,4 +1,30 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Types of collaboration"
-    id="62ffde0b-69ef-453e-ab4b-9005eeede5c2"/>
+    id="62ffde0b-69ef-453e-ab4b-9005eeede5c2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="609b2505-227f-4860-9603-6c26ed8056bc">
+    <bounds
+        x="48"
+        y="109"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_21fb5971-dca3-4785-9335-261239f28986.xml#21fb5971-dca3-4785-9335-261239f28986"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6353c2bd-3f27-444a-ba4b-8943568dd787">
+    <bounds
+        x="204"
+        y="109"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_9269f28a-08cd-4dad-bd84-9fc0dd9bc368.xml#9269f28a-08cd-4dad-bd84-9fc0dd9bc368"/>
+  </children>
+</archimate:ArchimateDiagramModel>

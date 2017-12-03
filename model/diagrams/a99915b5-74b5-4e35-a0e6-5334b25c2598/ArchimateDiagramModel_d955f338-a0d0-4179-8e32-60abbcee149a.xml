@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Retrieved Resources (products, components, materials)"
-    id="d955f338-a0d0-4179-8e32-60abbcee149a"/>
+    id="d955f338-a0d0-4179-8e32-60abbcee149a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fdb70359-7386-4bc6-98dc-5a06d747d786">
+    <bounds
+        x="36"
+        y="24"
+        width="262"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_e7680423-ad4e-460c-955a-313800192d01.xml#e7680423-ad4e-460c-955a-313800192d01"/>
+  </children>
+</archimate:ArchimateDiagramModel>

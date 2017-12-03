@@ -1,5 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Optimizing performance"
     id="61fc3f2f-0190-44ec-9928-5bc182ba4798"
-    viewpoint="business_process_cooperation"/>
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="64779695-00c8-474c-b823-015675ab4069">
+    <bounds
+        x="129"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_d23cac32-baa2-49c6-a9ce-ae0845efb86f.xml#d23cac32-baa2-49c6-a9ce-ae0845efb86f"/>
+  </children>
+</archimate:ArchimateDiagramModel>

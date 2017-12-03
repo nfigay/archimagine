@@ -1,4 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Better Performing Material"
-    id="0a5e8b4a-7df8-4426-b374-ccb1c7b401ee"/>
+    id="0a5e8b4a-7df8-4426-b374-ccb1c7b401ee"
+    viewpoint="resource">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6cd9b6c5-88ac-4437-97f6-ef5a9046e983">
+    <bounds
+        x="48"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_278beb3e-233b-4de4-83b1-2adca36a3307.xml#278beb3e-233b-4de4-83b1-2adca36a3307"/>
+  </children>
+</archimate:ArchimateDiagramModel>
