@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AutomationML TestCenter"
+    id="b697c5da-3415-4849-b357-e65a9d638eab"
+    documentation="Description: Conformance test for IEC 62714-1 &quot;Engineering data exchange format for use in industrial automation systems engineering – Automation Markup Language - Part 1: Architecture and general requirements&quot;.&#xA;Web page: amltest.iosb.fraunhofer.de">
+  <properties
+      key="Web Site"
+      value="amltest.iosb.fraunhofer.de"/>
+</archimate:Product>

@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RF::Suite"
+    id="456719b4-a12c-4cb8-93c2-7e14dcb71ff2"
+    documentation="Description: RF::Suite („RobSim Fabrik Suite“) is a package of several software tools, which are used for the virtual commissioning of robots or complex production lines individually or in combination.&#xA;RF::RobSim is used to execute and debug robot programs.&#xA;RF::SGView is used to visualise and animate 3D geometry models.&#xA;RF::SGEdit is software with which the data structure within 3D geometry models can be adapted.&#xA;RF::HMI visualises the online data exchange between different robot programs.&#xA;AutomationML is used to import topology, geometry, and kinematics information into RF::Suite products.&#xA;Web page: www.robsim.de">
+  <properties
+      key="Web Site"
+      value="www.robsim.de"/>
+</archimate:Product>

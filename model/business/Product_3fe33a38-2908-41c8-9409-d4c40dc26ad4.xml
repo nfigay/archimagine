@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAEX Editor"
+    id="3fe33a38-2908-41c8-9409-d4c40dc26ad4"
+    documentation="Description: CAEX editor views, analyses, adapts, and creates CAEX (V1 or V2) and AutomationML descriptions.&#xA;Web page: www.iosb.fraunhofer.de">
+  <properties
+      key="Web Site"
+      value="www.iosb.fraunhofer.de"/>
+</archimate:Product>

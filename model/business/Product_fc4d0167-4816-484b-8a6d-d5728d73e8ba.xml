@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAEX Importer"
+    id="fc4d0167-4816-484b-8a6d-d5728d73e8ba"
+    documentation="Description: This tool can transform XML to CAEX (Computer Aided Engineering Exchange, IEC 62424).&#xA;Web page: www.iosb.fraunhofer.de">
+  <properties
+      key="Web Site"
+      value="www.iosb.fraunhofer.de"/>
+</archimate:Product>

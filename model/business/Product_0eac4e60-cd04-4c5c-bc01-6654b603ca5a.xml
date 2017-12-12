@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AutomationML Engine"
+    id="0eac4e60-cd04-4c5c-bc01-6654b603ca5a"
+    documentation="Description: AutomationML engine is a free software for developers developed by the AutomationML association. It exactly represents the CAEX data model in form of a C# class structure and contains classes and methods in order to manipulate CAEX objects (classes and instances).&#xA;AutomationML Engine is also available on nuget.org. With this, developers can include the AutomationML Engine in their development environment and get informed when there are updates available. An API documentation you can find here: github.com.&#xA;Web page: www.automationml.org">
+  <properties
+      key="Web Site"
+      value="www.automationml.org"/>
+</archimate:Product>

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cooperative Networks"
-    id="f06deba1-5141-4cd0-bd0d-c43677547290">
+    id="f06deba1-5141-4cd0-bd0d-c43677547290"
+    viewpoint="physical">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="13d35ce7-4b47-4316-8882-fcbdfc9b4a88"

@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Siemens TIA Portal V14"
+    id="47fd8648-2c02-480e-9057-cca0495b2abc"
+    documentation="Description: Siemens is expanding its engineering framework to include a range of new practical functions to shorten engineering times with Service Pack 1 for TIA Portal V14 (Totally Integrated Automation Portal). The main focus of the innovations in TIA Portal V14 SP1 is bringing openness to other systems. This includes the standardized, bi-directional exchange of hardware configuration and signal data via AutomationML (Automation Markup Language) using engineering software such as Eplan, the TIA Selection Tool or other CAE (Computer Aided Engineering) systems. This allows users to automate redundant functionality of ECAD and automation planning and benefit from shorter development times, as well as minimized error rates.&#xA;Web page: www.siemens.com">
+  <properties
+      key="Web Site"
+      value="www.siemens.com"/>
+</archimate:Product>

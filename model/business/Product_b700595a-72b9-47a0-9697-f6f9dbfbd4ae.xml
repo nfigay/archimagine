@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPC UA Modeller"
+    id="b700595a-72b9-47a0-9697-f6f9dbfbd4ae"
+    documentation="Description: This tool can graphically visualize and allows for the modelling of OPC UA information models based on the OPC UA XML format. It includes an AutomationML to OPC UA transformation which generates OPC UA XML out of AutomationML models.&#xA;Web page: www.iosb.fraunhofer.de">
+  <properties
+      key="Web Site"
+      value="www.iosb.fraunhofer.de"/>
+</archimate:Product>

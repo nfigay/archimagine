@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IDA System"
+    id="a653a642-511a-4ec0-9c98-da7fe1b97598"
+    documentation="Description: The IDA System evolved from the project &quot;Interoperable Semantic Data Fusion for automated generation of view-based process control visualization&quot; (briefly: IDA) which deals with the interoperability of process visualization as an interface between man and machine. The goal was to create a more efficient engineering process and to improve and simplify processes during the operation phase. Process visualization is therefore generated automatically out of existing information. It supports different views on the data. Existing data are interpreted and semantically linked.&#xA;Web page: www.iosb.fraunhofer.de">
+  <properties
+      key="Web Site"
+      value="www.iosb.fraunhofer.de"/>
+</archimate:Product>

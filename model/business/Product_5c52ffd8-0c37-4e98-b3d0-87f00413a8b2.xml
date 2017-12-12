@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAEX Mapping"
+    id="5c52ffd8-0c37-4e98-b3d0-87f00413a8b2"
+    documentation="Description: This tool can map two CAEX or AutomationML files to each other as well as it can integrate two CAEX or AutomationML descriptions.&#xA;Web page: www.iosb.fraunhofer.de">
+  <properties
+      key="Web Site"
+      value="www.iosb.fraunhofer.de"/>
+</archimate:Product>

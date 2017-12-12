@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AutomationML Analyzer"
+    id="55bfc74b-923a-4aa0-a822-60b866e5b676"
+    documentation="Description: AutomationML Analyzer is a tool that allows advanced data analytics on engineering data such as intuitive browsing of interlinked engineering models and queries for project-wide verification and validation activities. AutomationML Analyzer showcases some of the functionalities made possible by Semantic Web and Linked Data technologies in combination with AutomationML in the context of Industrie 4.0.&#xA;Web page: data.ifs.tuwien.ac.at/aml/analyzer">
+  <properties
+      key="Web Site"
+      value="data.ifs.tuwien.ac.at/aml/analyzer"/>
+</archimate:Product>

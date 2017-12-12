@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="COMAN"
+    id="c4bd152f-2216-41c4-b5f6-fe388eb43c91"
+    documentation="Description: COMAN is a software solution for layout based digital site management to accelerate project execution. It has been developed in cooperation with customers at Volkswagen, Daimler, ThyssenKrupp and Siemens at inpro. Currently COMAN is applied in many plant construction projects in the phases engineering, construction / reconstruction, commissioning and startup world. For COMAN data as quantity structure, CAD-layout and schedule from the upstream enginerring tools are processed. For direct bidirectional data exchange between the different tools AutomationML technology is used.&#xA;Web page: www.coman-software.com">
+  <properties
+      key="Web Site"
+      value="www.coman-software.com"/>
+</archimate:Product>

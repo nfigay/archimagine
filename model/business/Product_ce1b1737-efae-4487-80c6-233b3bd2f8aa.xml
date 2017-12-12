@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="taraVRControl"
+    id="ce1b1737-efae-4487-80c6-233b3bd2f8aa"
+    documentation="Description: taraVRControl is used to combine sensor data from real/virtual plants and installations with events of a 3D scene. In this way, it is possible to visualize a simulation of a virtual production system. Dynamic visualization components can also be set from an object library and their properties can be coupled with process variables. taraVRControl contains taraOPC2Control, an ActiveX component, in order to configure the 3D scene in an application which supports the integration of ActiveX components. This component enables the bidirectional communication between a 3D scene as an OPC client and an OPC server during runtime. Information, concerning the object characteristics, such as color, position, is read and changes in the process variables are visualized in the 3D scene. taraVRControl can import AML files to obtain topology and geometry information as well as COLLADA files as static geometry objects.&#xA;Web page: www.tarakos.de/taravrcontrol.html">
+  <properties
+      key="Web Site"
+      value="www.tarakos.de/taravrcontrol.html"/>
+</archimate:Product>

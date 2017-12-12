@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AML.hub"
+    id="321563a6-154b-494c-8457-b18cb6acbba2"
+    documentation="Description: The AML.hub, developed at logi.cals and the CDL-Flex research laboratory at TU Wien, systematically integrates engineering tool networks that use the AutomationML standard and supports the automation of engineering processes. The AML.hub provides function for the management of an integrated plant model that reflects the contributions of all involved disciplines in a structured way. The framework helps minimizing the risk of changes that are not addressed correctly across disciplines and reduces costs for change management and quality assurance in a project team significantly.&#xA;Web page: amlhub.de resp. amlhub.at">
+  <properties
+      key="Web Site"
+      value="amlhub.de"/>
+</archimate:Product>

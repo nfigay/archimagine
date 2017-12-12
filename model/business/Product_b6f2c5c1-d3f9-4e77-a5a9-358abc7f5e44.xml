@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AutomationML Engineer for Enterprise Architect"
+    id="b6f2c5c1-d3f9-4e77-a5a9-358abc7f5e44"
+    documentation="Description: The AutomationML Engineer for Enterprise Architect is a plugin for the modeling tool Enterprise Architect (EA). It enables importing and exporting of AutomationML data and comes with a graphical editor for editing and visualizing AutomationML-models. Via the integration in EA, AutomationML models can be easily linked to any other EA supported modeling language and dedicated viewpoints on AutomationML models can be defined.&#xA;Web page: www.sysml4industry.org">
+  <properties
+      key="Web Site"
+      value="www.sysml4industry.org"/>
+</archimate:Product>

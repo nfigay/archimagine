@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AutomationML Editor"
+    id="5cb7a0ea-49f7-4da3-97ab-069736c95dfb"
+    documentation="Description: This software has been developed by AutomationML association in order to visualise major AutomationML concepts and provides functionality to visualise, create and edit AutomationML/CAEX files. AutomationML editor is suited for educational purposes and a perfect entry point for learning, experimenting and understanding AutomationML. A tutorial you can find on AutomationML&quot;s YouTube channel.&#xA;With version 4.0.1 of the AutomationML Editor a new feature is available. This feature allows 3rd party developers to integrate plugins into the Editor. For this, the AutomationML Editor uses an Interface Contract, available from nuget.org which has to be implemented to get a plugin loaded into the Editor. More examples for plugin development are available on github.com.&#xA;Web page: www.automationml.org">
+  <properties
+      key="Web Site"
+      value="www.automationml.org"/>
+</archimate:Product>

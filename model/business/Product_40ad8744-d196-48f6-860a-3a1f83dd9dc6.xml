@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AutomationML Export Import Mapper"
+    id="40ad8744-d196-48f6-860a-3a1f83dd9dc6"
+    documentation="Description: The AutomationML Export Import Mapper is a utility to support developers of AutomationML exporters and importers to test and extend the tool abilities for the data exchange and data mapping. This tool supports the mapping between SystemUnitClass-Libraries, used to exchange data in the AutomationML format between exporters and importers.&#xA;Web page: automationmlmapper.codeplex.com">
+  <properties
+      key="Web Site"
+      value="automationmlmapper.codeplex.com"/>
+</archimate:Product>

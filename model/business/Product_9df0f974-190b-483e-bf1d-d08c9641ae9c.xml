@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="taraVRBuilder"
+    id="9df0f974-190b-483e-bf1d-d08c9641ae9c"
+    documentation="Description: The layout planning tool taraVRBuilder, is a 3D design software in the material flow, conveying technology and plant planning field. With the help of this tool, facilities can be configured from modules of a standard library. Besides the construction of production lines and factory buildings of material handling, it is also possible to represent external models, such as machines, vehicles, workers, etc. Material flow can be described with different goods moving in different ways through the facilities. Animated 3D scenes are the focus of taraVRBuilder, which is providing a solution for the configuration of animated machines and facilities up to a medium complexity in a virtual 3D space. taraVRBuilder can export plain AML files, or AML together with COLLADA as the graphical content. It can also import COLLADA files as static geometry objects.&#xA;Web page: www.tarakos.de/taravrbuilder">
+  <properties
+      key="Web Site"
+      value=" www.tarakos.de/taravrbuilder"/>
+</archimate:Product>
