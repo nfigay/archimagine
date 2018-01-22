@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
-    id="e9e2c1ec-4c18-4bd7-ae4c-f342b49a19fc">
+    name="Architecture underlying usage of Graphico"
+    id="e9e2c1ec-4c18-4bd7-ae4c-f342b49a19fc"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4c781e56-82e6-40fd-9885-5dd8ebc87f25">
