@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="xsd2jon"
+    id="29048445-d0e4-4d36-bc97-df4223b3b1f4">
+  <properties
+      key="Web Site"
+      value="https://www.npmjs.com/package/xsd2json"/>
+</archimate:Product>

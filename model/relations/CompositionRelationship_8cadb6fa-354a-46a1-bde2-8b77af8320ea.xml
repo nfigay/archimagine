@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IS is a set of interacting applications"
+    id="8cadb6fa-354a-46a1-bde2-8b77af8320ea">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_d8a214d1-513d-468e-9b53-2d579e3fef78.xml#d8a214d1-513d-468e-9b53-2d579e3fef78"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_df20a2c3-488a-450e-a043-34848a01d42a.xml#df20a2c3-488a-450e-a043-34848a01d42a"/>
+</archimate:CompositionRelationship>

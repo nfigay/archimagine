@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="jsckson"
+    id="0ac1095d-ddc4-4266-b099-db4b58b91137">
+  <properties
+      key="Web Site"
+      value="https://github.com/FasterXML/jackson"/>
+</archimate:Product>

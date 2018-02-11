@@ -205,9 +205,9 @@
     </sourceConnections>
     <bounds
         x="234"
-        y="183"
+        y="168"
         width="139"
-        height="58"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_2a629846-3dfd-4f79-8121-c866af1343a2.xml#2a629846-3dfd-4f79-8121-c866af1343a2"/>
@@ -246,7 +246,7 @@
         x="234"
         y="264"
         width="139"
-        height="73"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_e9967f20-b87d-4258-b628-2566476d590c.xml#e9967f20-b87d-4258-b628-2566476d590c"/>

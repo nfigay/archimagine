@@ -70,9 +70,9 @@
         id="25e1e46b-a85f-40e9-8097-9cc7212aa98f"
         targetConnections="4482b290-1a9f-46fb-82ba-a39f2fcee1c4">
       <bounds
-          x="42"
+          x="12"
           y="55"
-          width="120"
+          width="169"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
@@ -84,9 +84,9 @@
         targetConnections="4de38f21-aeb0-46c1-ac0b-d4ac2cb8199c">
       <bounds
           x="192"
-          y="55"
+          y="36"
           width="120"
-          height="55"/>
+          height="85"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_5f2b3a40-78ac-4190-b767-7b4732e152d6.xml#5f2b3a40-78ac-4190-b767-7b4732e152d6"/>
@@ -99,7 +99,7 @@
           x="336"
           y="55"
           width="133"
-          height="55"/>
+          height="66"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_d69ebae9-aa83-4e0e-85bb-19fc5d317af2.xml#d69ebae9-aa83-4e0e-85bb-19fc5d317af2"/>
@@ -123,9 +123,9 @@
         targetConnections="bc7dc6cc-1c30-4443-86cc-0aedb710d122">
       <bounds
           x="192"
-          y="144"
+          y="132"
           width="120"
-          height="55"/>
+          height="85"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_902336c0-7eea-4165-99d9-32f7955fcf68.xml#902336c0-7eea-4165-99d9-32f7955fcf68"/>
@@ -138,7 +138,7 @@
           x="343"
           y="144"
           width="120"
-          height="55"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_1f573f80-8426-4c4d-a12c-65a23c457dfd.xml#1f573f80-8426-4c4d-a12c-65a23c457dfd"/>
