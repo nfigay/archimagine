@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paddle"
+    id="fdcfdd3e-0c1b-4b8b-af80-1e46e9a6b4f5"
+    documentation="This is Baidu’s framework, based primarily in C++ and open-sourced in August 2016. &#xA;Baidu uses it for predicting click-through rates, classifying images, optical character recognition, &#xA;ranking search result, and detecting computer viruses."/>

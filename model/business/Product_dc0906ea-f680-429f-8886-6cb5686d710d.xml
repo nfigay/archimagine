@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neon"
+    id="dc0906ea-f680-429f-8886-6cb5686d710d"
+    documentation="Startup Nervana Systems published its Neon software under an open source back in May. &#xA;Some benchmarks suggest that Neon &#xA;— which is written mostly in Python and Sass &#xA;— could outperform Caffe, Torch, and Google’s TensorFlow."/>

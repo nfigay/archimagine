@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keras"
+    id="1b4ff54c-bf30-434d-82ec-9bfb24d9e88d"
+    documentation="Keras is a minimalist, highly modular neural networks library, written in Python, and capable of running on top of either TensorFlow or Theano. Keras was developed with a focus on enabling fast experimentation."/>

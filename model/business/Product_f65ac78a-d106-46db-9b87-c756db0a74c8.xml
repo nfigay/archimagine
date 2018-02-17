@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leaf"
+    id="f65ac78a-d106-46db-9b87-c756db0a74c8"
+    documentation="Leaf is a open Machine Learning Framework for hackers to build classical, deep or hybrid machine learning applications. It was inspired by the brilliant people behind TensorFlow, Torch, Caffe, Rust and numerous research papers and brings modularity, performance and portability to deep learning.&#xA;&#xA;Leaf has one of the simplest APIs, is lean and tries to introduce minimal technical debt to your stack."/>

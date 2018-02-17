@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Char rnn"
+    id="d9e7c009-2c35-4c18-a622-7e7572a0a931"
+    documentation="Okay, to be fair, this Torch/Lua-based neural net is 100% on this list because of Janelle Shane’s work. The researcher behind Postcards from the Frontier of Science, McShane has come up with some amazing fun projects with the character-level language models. Whether it’s recipes, planets, or Pokémon, her neural network is just trying its hardest to learn. We shouldn’t laugh.&#xA;&#xA;Torch in general is a great framework to learn, not in the least because it seems like FB is basically supporting this deep learning framework all by themselves."/>

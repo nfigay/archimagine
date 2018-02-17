@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marvin"
+    id="47a0ced3-115e-4295-8bf1-fcfac64552f4"
+    documentation="This new entrant from Princeton University’s Vision Group is written in C++. The team offers a file for converting Caffe models into a format that works in Marvin."/>

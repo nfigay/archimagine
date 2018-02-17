@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DSSTNE"
+    id="66737f61-d26e-44d3-9257-39bd1938a995"
+    documentation="Executed primarily in C++ and pronounced “destiny,” DSSTNE is Amazon’s from-the-ground-up effort that can be seen as a response to Google’s TensorFlow. At release time in May 2016 it did not support convolutional neural nets, and support for recurrent neural nets was limited, but it works across multiple GPUs, and Amazon is claiming a “2.1x speedup” over TensorFlow with a g2.8xlarge GPU instance from Amazon Web Services (AWS)."/>

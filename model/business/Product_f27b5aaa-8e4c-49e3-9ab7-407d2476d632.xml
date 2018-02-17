@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apache SINGA"
+    id="f27b5aaa-8e4c-49e3-9ab7-407d2476d632"
+    documentation="Written almost completely in C++, this one emerged as an Apache incubator project in March. The original work on Singa was done by six students and research fellows from the National University of Singapore and one professor at China’s Zhejiang University."/>

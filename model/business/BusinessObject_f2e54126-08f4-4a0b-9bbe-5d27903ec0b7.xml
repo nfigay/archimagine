@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Epic"
+    id="f2e54126-08f4-4a0b-9bbe-5d27903ec0b7"
+    documentation="Epic Owners are responsible for coordinating portfolio Epics through the Portfolio Kanban system. They define the epic, its Minimum Viable Product (MVP), and Lean business case, and when approved, facilitate implementation&#xA;&#xA;Read more at: http://www.scaledagileframework.com/glossary/&#xA;Copyright © 2010-2017 Scaled Agile, Inc.&#xA;Request permission to use text and graphics: http://www.scaledagile.com/permissions-form/"/>

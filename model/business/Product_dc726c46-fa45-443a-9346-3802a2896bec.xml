@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="convnet.js"
+    id="dc726c46-fa45-443a-9346-3802a2896bec"
+    documentation="This tool from Stanford University Ph.D. student Andrej Karpathy allows you to train neural nets right inside of your browser, using good old JavaScript. Karpathy has a great tutorial for getting started with ConvNetJS, as well as nifty browser-based demos."/>

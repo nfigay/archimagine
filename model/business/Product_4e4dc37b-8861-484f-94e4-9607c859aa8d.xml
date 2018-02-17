@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoooA"
+    id="4e4dc37b-8861-484f-94e4-9607c859aa8d"
+    documentation="SoooA is a C++ based open source software framework. SoooA supports a wide variety of distributed GPUs and offers excellent performance in speed / memory to work well in commercial environments. SoooA is distributed under the Apache 2.0 license and offers paid models such as subscription models with technical support for paid users. Currently, SoooA is developing a framework to run in embedded and mobile environment and will provide functions to analyze / design using GUI."/>

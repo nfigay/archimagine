@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chainer"
+    id="efe55b2c-6aa2-4637-a8a8-53a64677d55e"
+    documentation="Chainer is a deep learning framework that’s designed on the principle of define-by-run. Unlike frameworks that use the define-and-run approach, Chainer lets you modify networks during runtime, allowing you to use arbitrary control flow statements."/>

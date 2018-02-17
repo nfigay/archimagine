@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Theano"
+    id="5145b1c7-4e7c-46e2-80d1-14deafd82097"
+    documentation="Theano is a math expression compiler that efficiently defines, optimizes, and evaluates mathematical expressions involving multi-dimensional arrays."/>

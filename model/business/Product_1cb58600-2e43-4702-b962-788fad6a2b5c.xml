@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="paddle paddle"
+    id="1cb58600-2e43-4702-b962-788fad6a2b5c"
+    documentation="This is a new one for us here at JAXenter. PaddlePaddle is the work of the researchers over at Baidu, the Chinese Google (among other things). Baidu has a fairly advanced AI lab that’s being run by an ex-Stanford professor. PaddlePaddle is pretty much a direct shot at Google’s open-source deep learning dominance.&#xA;&#xA;Paddle stands for PArallel Distributed Deep LEarning, and it’s billed as an easy to use, efficient, flexible, and scalable deep learning platform.  Their getting started page is pretty well structured for deep learning beginners and walks newcomers through the initial steps with some problem sets."/>

@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brainstorm"
+    id="927cc188-474e-4566-98e3-864f11a5ff68"
+    documentation="A promising new library from a small team of researchers at the Swiss artificial intelligence lab Istituto Dalle Molle di Studi sull’Intelligenza Artificiale (IDSIA), Brainstorm can handle what are being called Highway Networks involving very deep networks with hundreds of layers. Like Theano, it’s written in Python."/>

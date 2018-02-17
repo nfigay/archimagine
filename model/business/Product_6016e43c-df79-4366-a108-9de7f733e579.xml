@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CNTK"
+    id="6016e43c-df79-4366-a108-9de7f733e579"
+    documentation="The Microsoft Cognitive Toolkit —previously known as CNTK— is a unified deep-learning toolkit from Microsoft Research that makes it easy to train and combine popular model types across multiple GPUs and servers. Microsoft Cognitive Toolkit implements highly efficient CNN and RNN training for speech, image and text data."/>
