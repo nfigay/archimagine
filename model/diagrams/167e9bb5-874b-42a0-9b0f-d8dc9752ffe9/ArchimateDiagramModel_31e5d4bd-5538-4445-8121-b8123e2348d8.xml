@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
-    id="31e5d4bd-5538-4445-8121-b8123e2348d8">
+    name="Safe Business Concepts and how it is realized by solutions"
+    id="31e5d4bd-5538-4445-8121-b8123e2348d8"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0a97effb-e454-418b-b2df-72ec25238887"
@@ -356,5 +357,53 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_b5acac85-7061-469c-9c59-eb1e15fb3f31.xml#b5acac85-7061-469c-9c59-eb1e15fb3f31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3013d6e2-ef2e-48d8-917d-e421f5cf0002">
+    <bounds
+        x="209"
+        y="546"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_2b91ac9e-c120-4def-b5db-6bcc0fb400f3.xml#2b91ac9e-c120-4def-b5db-6bcc0fb400f3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="702fe50b-a1af-4ad6-bd9b-73e64c4e9e7b">
+    <bounds
+        x="600"
+        y="468"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_a0ac1489-cc1f-4f2e-a366-07587c43648e.xml#a0ac1489-cc1f-4f2e-a366-07587c43648e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="65cec429-4112-40ff-b694-07e83309b063">
+    <bounds
+        x="672"
+        y="546"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_2a9cc879-ba57-464b-b693-de2832612d9e.xml#2a9cc879-ba57-464b-b693-de2832612d9e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0738271f-0d53-4b2b-948b-94607481df70">
+    <bounds
+        x="428"
+        y="527"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_78bf5f19-af23-4f3b-83d3-68b9e5ba7987.xml#78bf5f19-af23-4f3b-83d3-68b9e5ba7987"/>
   </children>
 </archimate:ArchimateDiagramModel>

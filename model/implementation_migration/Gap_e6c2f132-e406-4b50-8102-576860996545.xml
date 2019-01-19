@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gap"
+    id="e6c2f132-e406-4b50-8102-576860996545"
+    documentation="A Gap represents a statement of difference between two Plateaus&#xA;The Gap element is associated with two Plateaus (e.g., Baseline and Target Architectures, or two subsequent Transition Architectures), and represents the differences between these Plateaus."/>

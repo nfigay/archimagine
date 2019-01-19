@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project:Work Package"
+    id="3fd01082-45df-4e4f-8127-26cf85f257f9"
+    documentation="A Work Package represents a series of actions identified and designed to achieve specific results within specified time and resource constraints.&#xA;The central behavioural element is a Work Package. A Work Package is a behaviour element that has a clearly defined start and end date, and realizes a well-defined set of Goals or Deliverables. The Work Package element can be used to model sub-projects or tasks within a project, complete projects, programs, or project portfolios."/>
