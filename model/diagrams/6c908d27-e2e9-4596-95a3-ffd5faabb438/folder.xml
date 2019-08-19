@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Node.js complete reference guide"
-    id="6c908d27-e2e9-4596-95a3-ffd5faabb438"/>
+    id="6c908d27-e2e9-4596-95a3-ffd5faabb438"
+    documentation="Now that you've learned about Node.js modules, it's time to put this knowledge to work by building a simple Node.js web application. In this chapter, we'll keep to a simple application, enabling us to explore three different application frameworks for Node.js. In later chapters, we'll build some more complex applications, but before we can walk, we must learn to crawl.&#xA;We will cover the following topics in this chapter:&#xA;EventEmitters&#xA;Listening to HTTP events and the HTTP Server object HTTP request routing&#xA;ES2015 template strings&#xA;Building a simple web application with no frameworks The Express application framework&#xA;Express middleware functions&#xA;How to deal with computationally intensive code&#xA;The HTTP Client object&#xA;Creating a simple REST service with Express"/>

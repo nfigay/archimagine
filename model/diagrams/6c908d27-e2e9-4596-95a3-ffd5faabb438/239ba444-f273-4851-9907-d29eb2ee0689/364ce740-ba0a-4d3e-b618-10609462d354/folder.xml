@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="364ce740-ba0a-4d3e-b618-10609462d354"
+    documentation="The possibilities for using Bootstrap are endless. While we covered a lot of material, we only touched the surface, and we could have done much more to the Notes application.&#xA;You learned what the Twitter Bootstrap framework can do. Bootstrap's goal is to make mobile-responsive development easy. We used Bootstrap to make great improvements to the way the Notes app looks and feels. We customized Bootstrap, dipping our toes into generating a custom theme.&#xA;Now, we want to get back to writing Node.js code. We left off Chapter 5, Your First Express Application, with the problem of persistence so that the Notes application can be stopped and restarted without losing our notes. In Chapter 7, Data Storage and Retrieval, we'll dive into using databases to store our data.&#xA;To give ourselves some experience with the ES6 Module format, we'll rewrite the Notes application accordingly."/>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="8aab878d-eccf-4061-b16f-911a4b236253"
+    documentation="You learned a lot in this chapter about Node's HTTP support, implementing web applications, and REST service implementation.&#xA;Now we can move on to implementing a more complete application: one for taking notes. We will use the Notes application for several upcoming chapters as a vehicle to explore the Express application framework, database access, deployment to cloud services or on your own server, and user authentication.&#xA;In the next chapter, we will build the basic infrastructure.&#xA;"/>

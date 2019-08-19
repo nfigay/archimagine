@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Chapter 05 - Your First Express Application"
-    id="16b29117-15b2-4192-a6dd-e62506450663"/>
+    id="16b29117-15b2-4192-a6dd-e62506450663"
+    documentation="Now that we've got our feet wet building an Express application for Node.js, let's work on an application that performs a useful function. The application we'll build will keep a list of notes, and it will let us explore some aspects of a real application.&#xA;In this chapter, we'll only build the basic infrastructure of the application, and in the later chapters, we'll extend the application considerably.&#xA;The topics covered in this chapter includes&#xA;Using Promises and async functions in Express router functions Applying the MVC paradigm to Express applications&#xA;Building an Express application&#xA;JavaScript Class definitions&#xA;Implementing the CRUD paradigm Handlebars templates"/>

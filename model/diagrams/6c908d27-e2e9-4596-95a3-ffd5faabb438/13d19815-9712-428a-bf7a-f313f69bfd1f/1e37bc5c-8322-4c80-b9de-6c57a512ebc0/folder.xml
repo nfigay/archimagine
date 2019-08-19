@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="1e37bc5c-8322-4c80-b9de-6c57a512ebc0"
+    documentation="You've covered a lot of ground in this chapter, looking at not only user authentication in Express applications, but also microservice development.&#xA;Specifically, you covered session management in Express, using Passport for user authentication, including Twitter/OAuth, using router middleware to limit access, creating a REST service with Restify, and when to create a microservice.&#xA;In the next chapter, we'll take the Notes application to a new level-semi-real-time communication between application users. To do this, we'll write some browser-side JavaScript and explore how the Socket.io package can let us send messages between users."/>

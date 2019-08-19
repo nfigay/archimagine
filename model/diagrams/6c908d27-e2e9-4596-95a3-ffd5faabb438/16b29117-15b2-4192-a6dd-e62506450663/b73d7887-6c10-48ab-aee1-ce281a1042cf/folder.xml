@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="b73d7887-6c10-48ab-aee1-ce281a1042cf"
+    documentation="We've come a long way in this chapter.&#xA;We started with the Pyramid of Doom and how the Promise object and async functions can help us a tame asynchronous code. We'll be using these techniques all through this book.&#xA;We quickly moved on to writing the foundation of a real application with Express. At the moment, it keeps its data in memory, but it has the basic functionality of what will become a note-taking application supporting real-time collaborative commenting on the notes.&#xA;In the next chapter, we'll dip our toes in the water of responsive, mobile-friendly web design. Due to the growing popularity of mobile computing devices, it's become necessary to address mobile devices first before desktop computer users. In order to reach those millions of users a day, the Notes application users need a good user experience when using their smartphone.&#xA;In following chapters, we'll keep growing the capabilities of the Notes application, starting with database storage models."/>
