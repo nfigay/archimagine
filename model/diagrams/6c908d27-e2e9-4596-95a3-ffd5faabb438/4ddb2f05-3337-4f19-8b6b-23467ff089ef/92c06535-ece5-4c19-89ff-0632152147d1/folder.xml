@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installing from source on POSIX-like systems"
+    id="92c06535-ece5-4c19-89ff-0632152147d1"
+    documentation="Installing the prepackaged Node.js distributions is the preferred installation method. However, installing Node.js from source is desirable in a few situations:&#xA;It can let you optimize the compiler settings as desired&#xA;It can let you cross-compile, say, for an embedded ARM system You might need to keep multiple Node.js builds for testing&#xA;You might be working on Node.js itself&#xA;Now that you have the high-level view, let's get our hands dirty mucking around in some build scripts. The general process follows the usual configure, make, and make install routine that you may already have performed with other open source software packages. If not, don't worry, we'll guide you through the process.&#xA;The official installation instructions are in the README.md contained within the source distribution&#xA;at https://github.com/nodejs/node/blob/master/README.md."/>

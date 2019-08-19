@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuring the PATH variable on Windows"
+    id="24185d98-46b1-402c-b5a3-92519fd8acff"
+    documentation="On Windows, this task is handled through a system-wide settings panel:&#xA;&#xA;This pane of the System Properties panel is found by searching for PATH in the Windows Settings screen. Click on the Environment Variables button, then select the Path variable, and finally click on the Edit button. In the screen here click the New button to add an entry to this variable, and enter .\node_modules\.bin as shown. You'll have to restart any open command shell windows. Once you do, the effect will be as shown previously.&#xA;"/>

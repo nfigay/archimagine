@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installing developer tools on macOS"
+    id="c8141edf-4fd9-415b-9500-2d1bae06ab03"
+    documentation="Developer tools (such as GCC) are an optional installation on macOS. Fortunately, they're easy to acquire.&#xA;You start with Xcode, which is available for free through the Mac App Store. Simply search for Xcode and click on the Get button. Once you have Xcode installed, open a Terminal window and type the following:&#xA;   $ xcode-select --install&#xA;This installs the Xcode command-line tools:&#xA;For additional information, visit http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/."/>

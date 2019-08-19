@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommonJS and ES2015 module formats"
+    id="c4301045-2155-4c25-bed5-2205e55136b9"
+    documentation="Node.js's module implementation is strongly inspired by, but not identical to, the CommonJS module specification. The differences between them might only be important if you need to share code between Node and other CommonJS systems.&#xA;Among the changes in ES2015 is a standard module format meant for use everywhere. It has some interesting features, and by existing everywhere it should advance the state of JavaScript. Since it is incompatible with the CommonJS/Node.js module system, adopting ES2015 modules in Node.js means reworking our practices and accepted norms.&#xA;As a practical matter, Node.js programmers will be dealing with both module formats for some time during a transition period. Our long-term goal should be to adopt ES2015 modules across the board. The Node.js platform is slated to bring in support for ES2015 modules in Node.js 10. As of Node.js 8.5, the feature is available by setting a command-line flag."/>

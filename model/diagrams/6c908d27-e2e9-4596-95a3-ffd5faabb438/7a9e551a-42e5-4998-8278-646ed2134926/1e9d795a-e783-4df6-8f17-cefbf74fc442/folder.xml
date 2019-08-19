@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="1e9d795a-e783-4df6-8f17-cefbf74fc442"
+    documentation="You learned a lot in this chapter about modules and packages for Node.js.&#xA;Specifically, we covered implementing modules and packages for Node.js, managing installed modules and packages, and saw how Node.js locates modules.&#xA;Now that you've learned about modules and packages, we're ready to use them to build applications, which is the topic of the next chapter."/>

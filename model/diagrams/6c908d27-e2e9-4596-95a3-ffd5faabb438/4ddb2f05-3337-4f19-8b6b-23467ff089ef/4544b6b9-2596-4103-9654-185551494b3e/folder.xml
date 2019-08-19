@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installing Node.js using package managers"
+    id="4544b6b9-2596-4103-9654-185551494b3e"
+    documentation="The preferred method for installing Node.js, now, is to use the versions available in package managers, such as apt-get, or MacPorts. Package managers simplify your life by helping to maintain the current version of the software on your computer, ensuring to update dependent packages as necessary, all by typing a simple command such as apt-get update. Let's go over this first.&#xA;"/>

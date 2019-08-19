@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avoiding global module installation"
+    id="640d2a31-eb06-404f-bce9-08655f873f8e"
+    documentation="Some in the Node.js community now frown on installing a package globally. One rationale exists in the Twelve Factor model. Namely, a software project is more reliable if all its dependencies are explicitly declared. If a build tool such as Grunt is required, but is not explicitly declared in package.json, the users of the application would have to receive instructions to install Grunt, and they would have to follow those instructions.&#xA;Users being users, they might skip over the instructions, fail to install the dependency, and then complain the application doesn't work. Surely most of us have done that once or twice.&#xA;It's recommended to avoid this potential problem by installing everything locally via one mechanism—the npm install command."/>

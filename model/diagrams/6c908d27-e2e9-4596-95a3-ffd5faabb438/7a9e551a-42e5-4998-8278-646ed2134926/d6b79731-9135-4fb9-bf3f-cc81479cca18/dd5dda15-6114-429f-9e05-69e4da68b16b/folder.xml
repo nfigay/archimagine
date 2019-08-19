@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Updating outdated packages you've installed"
+    id="dd5dda15-6114-429f-9e05-69e4da68b16b"
+    documentation="The coder codes, updating their package, leaving you in their dust unless you keep up.&#xA;To find out if your installed packages are out of date, use the following command:&#xA;   $ npm outdated&#xA;The report shows the current npm packages, the currently-installed version, as well as the current version in the npm repository. Updating the outdated packages is very simple:&#xA;   $ npm update express&#xA;   $ npm update"/>

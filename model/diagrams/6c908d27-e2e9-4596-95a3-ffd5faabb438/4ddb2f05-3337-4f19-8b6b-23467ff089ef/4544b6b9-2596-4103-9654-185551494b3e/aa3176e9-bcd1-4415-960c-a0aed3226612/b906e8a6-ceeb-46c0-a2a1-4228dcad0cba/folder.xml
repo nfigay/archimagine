@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opening an administrator-privileged PowerShell on Windows"
+    id="b906e8a6-ceeb-46c0-a2a1-4228dcad0cba"
+    documentation="Some of the commands you'll run while installing tools on Windows are to be executed in a PowerShell window with elevated privileges. We mention this because the process of enabling the WSL includes a command to be run in such a PowerShell window.&#xA;The process is simple:&#xA;1. In the Start menu, enter PowerShell in the applications search box.&#xA;2. The resultant menu will list PowerShell.&#xA;3. Right-click the PowerShell entry.&#xA;4. The context menu that comes up will have an entry Run as Administrator. Click on that.&#xA;The resultant command window will have administrator privileges, and the title bar will say Administrator: Windows PowerShell."/>

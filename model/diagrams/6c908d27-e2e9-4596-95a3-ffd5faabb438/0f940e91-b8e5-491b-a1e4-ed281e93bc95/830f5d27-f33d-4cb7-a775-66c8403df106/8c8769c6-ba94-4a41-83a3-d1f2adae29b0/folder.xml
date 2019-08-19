@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microservice architecture"
+    id="8c8769c6-ba94-4a41-83a3-d1f2adae29b0"
+    documentation="A new sensation in software development is the microservice idea. Microservices are focused on splitting a large web application into small, tightly-focused services that can be easily developed by small teams. While they aren't exactly a new idea, they're more of a reframing of old client-server computing models, the microservice pattern fits well with agile project management techniques, and gives us more granular application deployment.&#xA;Node.js is an excellent platform for implementing microservices. We'll get into this later."/>

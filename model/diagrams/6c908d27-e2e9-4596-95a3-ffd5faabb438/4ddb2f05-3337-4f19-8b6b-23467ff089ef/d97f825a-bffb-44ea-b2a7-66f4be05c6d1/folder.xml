@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conclusion"
+    id="d97f825a-bffb-44ea-b2a7-66f4be05c6d1"
+    documentation="You learned a lot in this chapter about installing Node.js, using its command-line tools, and running a Node.js server. We also breezed past a lot of details that will be covered later in the book, so be patient.&#xA;Specifically, we covered downloading and compiling the Node.js source code, installing Node.js either for development use in your home directory or for deployment in system directories and installing NPM—the de facto standard package manager used with Node.js. We also saw how to run Node.js scripts or Node.js servers. We then took a look at the new features in ES-2015/2016/2017. Finally, we saw how to use Babel to implement those features in your code.&#xA;Now that we've seen how to set up the basic system, we're ready to start working on implementing applications with Node.js. First, you must learn the basic building blocks of Node.js applications and modules, which we will cover in the next chapter."/>

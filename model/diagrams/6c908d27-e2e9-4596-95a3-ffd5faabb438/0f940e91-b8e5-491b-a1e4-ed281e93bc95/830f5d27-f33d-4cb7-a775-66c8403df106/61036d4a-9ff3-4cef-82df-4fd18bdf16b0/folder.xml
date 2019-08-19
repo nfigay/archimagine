@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leaner, asynchronous, event-driven model"
+    id="61036d4a-9ff3-4cef-82df-4fd18bdf16b0"
+    documentation="We'll get into this later. The Node.js architecture, a single execution thread, an ingenious event-oriented asynchronous-programming model, and a fast JavaScript engine, has less overhead than thread-based architectures.&#xA;"/>

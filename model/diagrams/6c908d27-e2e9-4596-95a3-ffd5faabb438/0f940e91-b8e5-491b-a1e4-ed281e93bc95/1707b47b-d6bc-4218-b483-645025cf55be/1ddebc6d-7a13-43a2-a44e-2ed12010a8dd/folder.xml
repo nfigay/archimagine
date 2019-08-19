@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Node.js and the Twelve-Factor app model"
+    id="1ddebc6d-7a13-43a2-a44e-2ed12010a8dd"
+    documentation="Throughout this book, we'll call out aspects of the Twelve-Factor App model, and ways to implement those ideas in Node.js. This model is published on http://12factor.net, and is a set of guidelines for application deployment in the modern cloud computing era. It's not that the Twelve-Factor App model is the be-all and end-all of application architecture paradigms. It's a set of useful ideas, clearly birthed after many late nights spent debugging complex applications, which offer useful ideas that could save us all a lot of effort by having easier-to-maintain and more reliable systems.&#xA;The guidelines are straightforward, and once you read them, they will seem like pure common sense. As a best practice, the Twelve-Factor App model is a compelling strategy for delivering the kind of fluid self-contained cloud-deployed applications called for by our current computing environment."/>

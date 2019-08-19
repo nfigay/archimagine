@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initializing a new npm package"
+    id="25940150-6fd6-4eb9-b821-0a67c4b72225"
+    documentation="If you want to create a new package, you can create the package.json file by hand or you can get npm's help. The npm init command leads you through a little dialog to get starting values for the package.json file.&#xA;Once you get through the questions, the package.json file is written to disk.&#xA;Expect to have to edit that file considerably before publishing to the npm repository. A few fields help give a good impression to folks looking at the package listing on npmjs.com:&#xA;Link to the home page, and issue queue URL&#xA;Keywords, so it can be linked with other similar packages&#xA;A good description that helps folks understand the purpose&#xA;A good README.md file so folks can read some documentation right away&#xA;"/>

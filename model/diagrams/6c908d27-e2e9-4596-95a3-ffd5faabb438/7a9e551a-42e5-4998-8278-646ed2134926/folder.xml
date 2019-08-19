@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Chapter 03 - Node.js Modul3es"
-    id="7a9e551a-42e5-4998-8278-646ed2134926"/>
+    name="Chapter 03 - Node.js Modules"
+    id="7a9e551a-42e5-4998-8278-646ed2134926"
+    documentation="Before writing Node.js applications, you must learn about Node.js modules and packages. Modules and packages are the building blocks for breaking down your application into smaller pieces.&#xA;In this chapter, we will cover the following topics:&#xA;Defining a module&#xA;The CommonJS and ES2015 module specifications Using ES2015/2016/2017 coding practices in Node.js Using the ES6 module format in Node.js code Understanding how Node.js finds modules&#xA;The npm package management system&#xA;So, let's get on with it."/>

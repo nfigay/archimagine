@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finding and loading CommonJS and JSON modules using require"
+    id="8c9fa464-aeb3-4ca3-8ce3-04868a62a140"
+    documentation="We have talked about several types of modules: CommonJS, JSON, ES2015, and native code modules. All but the ES2015 modules are loaded using the require function. That function has a very powerful and flexible algorithm for locating modules within a directory hierarchy. This algorithm, coupled with the npm package management system, gives the Node.js platform a lot of power and flexibility.&#xA;"/>

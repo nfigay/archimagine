@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The import.meta feature"
+    id="05c88adb-0de6-4138-84fe-75017a1d524f"
+    documentation="Another new feature, import.meta, is making its way through the TC-39 committee, and is being implemented for Node.js 10.x. It is an object existing within the scope of an ES6 module providing some metadata about the module. See https:/​/​github. com/​tc39/​proposal-​import-​meta.&#xA;A partial implementation, supporting just import.meta.url, has landed in the Node.js source. Its use requires the --harmony-import-meta command-line flag. The content of import.meta.url is a fully qualified file: URL for the current module, such as file:///Users/david/chap10/notes/app.mjs.&#xA;Where this becomes important is that ES6 modules do not support the __dirname, __filename, and other global variables used historically in Node.js modules. The __dirname variable is routinely used to read in resource data from files sitting in the package directory. It is intended that for such cases, one parses the directory name out of import.meta.url."/>

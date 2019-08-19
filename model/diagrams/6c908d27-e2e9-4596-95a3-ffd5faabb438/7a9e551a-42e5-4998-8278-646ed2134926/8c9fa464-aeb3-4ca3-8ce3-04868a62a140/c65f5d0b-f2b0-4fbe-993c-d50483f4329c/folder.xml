@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File modules"
+    id="c65f5d0b-f2b0-4fbe-993c-d50483f4329c"
+    documentation="The CommonJS and ES2015 modules we've just looked at are what the Node.js documentation describes as a file module. Such modules are contained within a single file, whose filename ends with .js, .mjs, .json, or .node. The latter are compiled from C or C++ source code, or even other languages such as Rust, while the former are of course written in JavaScript or JSON.&#xA;We've already looked at several examples of using these modules, as well as the difference between &#xA;The npm package management system can recognize a lot more data in&#xA;the package.json file. That includes the package name, its author, the home page URL, the issue-queue URL, package dependencies, and more. We'll go over this later.the CommonJS format traditionally used in Node.js, and the new ES2015 modules that are now supported."/>

@@ -1,0 +1,4 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="An HTTP, HTTPS and HTTP/2 client/server layered on top of the TCP library filesystem access"
+    id="8526d414-8fc3-42c3-9f98-17b8ebdc2522"/>

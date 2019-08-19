@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Popularity"
+    id="104c0bdc-35f5-4854-8b80-69f1711ec2dd"
+    documentation="Node.js is quickly becoming a popular development platform with adoption by plenty of big and small players. One of those is PayPal, who are replacing their incumbent Java-based system with one written in Node.js. For PayPal's blog post about this, visit https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/. Other large Node.js adopters include Walmart's online e-commerce platform, LinkedIn, and eBay.&#xA;According to NodeSource, Node.js usage is growing rapidly (visit https:/​/ nodesource.​com/​node-​by-​numbers). The measures include increasing bandwidth for downloading Node.js releases, increasing activity in Node.js-related GitHub projects, and more.&#xA;It's best to not just follow the crowd because the crowd claims their software platform does cool things. Node.js does some cool things, but more important is its technical merit."/>

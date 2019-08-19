@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avoiding modifications to the PATH variable"
+    id="4f752332-a0cb-4522-8fb4-88e7ab4df601"
+    documentation="What if you don't want to add these variables to your PATH at all times? The npm- path module may be of interest. This is a small program that computes the correct PATH variable for your shell and operating system. See the package at https:/​/​www. npmjs.​com/​package/​npm-​path."/>

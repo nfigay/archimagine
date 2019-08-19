@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Chapter 02 - Setting up Node2.js"
-    id="4ddb2f05-3337-4f19-8b6b-23467ff089ef"/>
+    name="Chapter 02 - Setting up Node.js"
+    id="4ddb2f05-3337-4f19-8b6b-23467ff089ef"
+    documentation="Before getting started with using Node.js, you must set up your development environment. In the following chapters, we'll use this for development and for non- production deployment.&#xA;In this chapter, we will cover the following topics:&#xA;How to install Node.js from source and prepackaged binaries on Linux, macOS, or Windows&#xA;How to install Node Package Manager (NPM) and some popular tools The Node.js module system&#xA;Node.js and JavaScript language improvements from the ECMAScript committee&#xA;So let's get on with it."/>

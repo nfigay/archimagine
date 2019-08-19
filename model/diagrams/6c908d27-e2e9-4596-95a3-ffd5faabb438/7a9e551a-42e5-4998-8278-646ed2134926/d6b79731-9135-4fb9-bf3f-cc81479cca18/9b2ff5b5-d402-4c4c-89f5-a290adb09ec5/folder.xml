@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Declaring Node.js version compatibility"
+    id="9b2ff5b5-d402-4c4c-89f5-a290adb09ec5"
+    documentation="It's important that your Node.js software runs on the correct version of Node.js. The primary reason being when new features are added to the platform. You'll want to use those new features, whether it is the async functions added in 8.x or the ES Modules supported added in 10.x. We need a way to declare the Node.js version required to run our software.&#xA;This dependency is declared in package.json using the engines tag:&#xA;   &quot;engines&quot;: {&#xA;       &quot;node&quot;: &quot;>= 8.x&quot;&#xA;}&#xA;This, of course, uses the same version number matching scheme discussed earlier.&#xA;"/>

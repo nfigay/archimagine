@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System requirements"
+    id="5daedc01-f4a4-43e4-8598-03a6556bb4ff"
+    documentation="Node.js runs on POSIX-like operating systems, various UNIX derivatives (Solaris, for example) or workalikes (Linux, macOS, and so on), as well as on Microsoft Windows. It can run on machines both large and small, including the tiny ARM devices such as the Raspberry Pi microscale embeddable computer for DIY software/hardware projects.&#xA;Node.js is now available via package management systems, limiting the need to compile and install from source.&#xA;Because many Node.js packages are written in C or C++, you must have a C compiler (such as GCC), Python 2.7 (or later), and the node-gyp package. If you plan to use encryption in your networking code, you will also need the OpenSSL cryptographic library. The modern UNIX derivatives almost certainly come with these, and Node.js's configure script, used when installing from source, will detect their presence. If you need to install them, Python is available at http://python.org and OpenSSL is available at http://openssl.org."/>

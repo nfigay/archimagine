@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="npm - the Node.js package management system"
+    id="d6b79731-9135-4fb9-bf3f-cc81479cca18"
+    documentation="As described in Chapter2, Setting up Node.js, npm is a package management and distribution system for Node.js. It has become the de facto standard for distributing modules (packages) for use with Node.js. Conceptually, it's similar to tools such as apt-get (Debian), rpm/yum (Red Hat/Fedora), MacPorts (macOS), CPAN (Perl), or PEAR (PHP). Its purpose is publishing and distributing Node.js packages over the Internet using a simple command-line interface. With npm, you can quickly find packages to serve specific purposes, download them, install them, and manage packages you've already installed.&#xA;The npm application extends on the package format for Node.js, which in turn is largely based on the CommonJS package specification. It uses the same package.json file that's supported natively by Node.js, but with additional fields to build in additional functionality."/>

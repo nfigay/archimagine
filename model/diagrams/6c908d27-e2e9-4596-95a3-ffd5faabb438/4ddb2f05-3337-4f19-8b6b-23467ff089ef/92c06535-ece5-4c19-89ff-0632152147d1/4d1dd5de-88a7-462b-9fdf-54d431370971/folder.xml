@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installing prerequisites"
+    id="4d1dd5de-88a7-462b-9fdf-54d431370971"
+    documentation="There are three prerequisites: a C compiler, Python, and the OpenSSL libraries. The Node.js compilation process checks for their presence and will fail if the C compiler or Python is not present. The specific method of installing these is dependent on your operating system.&#xA;These sorts of commands will check for their presence:&#xA;   $ cc --version&#xA;   Apple LLVM version 7.0.2 (clang-700.1.81)&#xA;   Target: x86_64-apple-darwin15.3.0&#xA;   Thread model: posix&#xA;   $ python&#xA;   Python 2.7.11 (default, Jan  8 2016, 22:23:13)&#xA;   [GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)] on darwin&#xA;   Type &quot;help&quot;, &quot;copyright&quot;, &quot;credits&quot; or &quot;license&quot; for more information.&#xA;   >>>&#xA;See this for details: https:/​/​github.​com/​nodejs/​node/​blob/​master/​BUILDING.​md. &#xA;The Node.js build tools do not support Python 3.x.&#xA;"/>

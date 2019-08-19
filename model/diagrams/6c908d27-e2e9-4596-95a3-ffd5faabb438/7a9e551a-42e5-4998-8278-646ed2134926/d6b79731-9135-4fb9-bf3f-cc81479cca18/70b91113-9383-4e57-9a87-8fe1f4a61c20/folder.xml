@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installing an npm package"
+    id="70b91113-9383-4e57-9a87-8fe1f4a61c20"
+    documentation="The npm install command makes it easy to install packages upon finding the one of your dreams, as follows:&#xA;   $ npm install express&#xA;   /home/david/projects/notes/&#xA;   - express@4.13.4&#xA;   ...&#xA;The named module is installed in node_modules in the current directory. The specific version installed depends on any version number listed on the command line, as we see in the next section."/>

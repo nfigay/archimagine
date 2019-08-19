@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JSON modules"
+    id="ace25193-819a-44f3-beda-570a89830eb8"
+    documentation="Node.js supports using require('/path/to/file-name.json') to import a JSON file. It is equivalent to this code:&#xA;   const fs = require('fs');&#xA;   module.exports = JSON.parse(&#xA;           fs.readFileSync('/path/to/file-name.json', 'utf8'));&#xA;That is, the JSON file is read synchronously, and the text is parsed as JSON. The resultant object is available as the object exported from the module. Create a file named data.json, containing the following:&#xA;   {&#xA;       &quot;hello&quot;: &quot;Hello, world!&quot;,&#xA;       &quot;meaning&quot;: 42&#xA;}&#xA;Now create a file named showdata.js, containing the following:&#xA;   const util = require('util');&#xA;   const data = require('./data');&#xA;   console.log(util.inspect(data));&#xA;It will execute as follows:&#xA;   $ node showdata.js&#xA;   { hello: 'Hello, world!', meaning: 42 }&#xA;The util.inspect function is a useful way to present an object in an easy-to-read fashion."/>

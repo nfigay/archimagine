@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveraging Google's investment in V8"
+    id="f6f7c27c-3f5b-4806-be8e-7054afb63244"
+    documentation="To make Chrome a popular and excellent web browser, Google invested in making V8 a super-fast JavaScript engine. Google, therefore, has a huge motivation to keep on improving V8. V8 is the JavaScript engine for Chrome, and it can also be executed standalone. Node.js is built on top of the V8 JavaScript engine.&#xA;As Node.js becomes more important to the V8 team, there's a potential synergy of faster V8 performance wins as more people focus on V8 improvements."/>

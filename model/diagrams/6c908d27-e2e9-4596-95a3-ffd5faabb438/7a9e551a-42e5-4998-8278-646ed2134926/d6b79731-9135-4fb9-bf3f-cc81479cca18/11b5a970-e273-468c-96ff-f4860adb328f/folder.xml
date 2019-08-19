@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Packages that install commands"
+    id="11b5a970-e273-468c-96ff-f4860adb328f"
+    documentation="Some packages install command-line programs. A side effect of installing such packages is a new command that you can type at the shell prompt or use in shell scripts. An example is the hexy program that we briefly used in Chapter 2, Setting up Node.js. Another example is the widely used Grunt or Gulp build tools.&#xA;The package.json file in such packages specifies the command-line tools that are installed. The command can be installed to one of two places:&#xA;Global Install: It is installed either to a directory such as /usr/local, or to the bin directory where Node.js was installed. The npm bin -g command tells you the absolute pathname for this directory.&#xA;Local Install: To node_modules/.bin in the package where the module is being installed. The npm bin command tells you the absolute pathname for this directory.&#xA;To run the command, simply type the command name at a shell prompt. Except there's a little bit of configuration required to make that simple.&#xA;"/>

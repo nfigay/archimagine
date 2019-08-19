@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installing Node.js in the Windows Subsystem for Linux (WSL)"
+    id="1fa05cd3-6631-4a6f-b73a-0828cbd732f3"
+    documentation="The Windows Subsystem for Linux (WSL) lets you install Ubuntu, openSUSE, or SUSE Linux Enterprise on Windows. All three are available via the Store built into Windows 10. You may need to update your Windows for the installation to work.&#xA;Once installed, the Linux-specific instructions will install Node.js within the Linux subsystem.&#xA;To install the WSL, see https:/​/​msdn.​microsoft.​com/​en-​us/​commandline/​wsl/ install-​win10."/>

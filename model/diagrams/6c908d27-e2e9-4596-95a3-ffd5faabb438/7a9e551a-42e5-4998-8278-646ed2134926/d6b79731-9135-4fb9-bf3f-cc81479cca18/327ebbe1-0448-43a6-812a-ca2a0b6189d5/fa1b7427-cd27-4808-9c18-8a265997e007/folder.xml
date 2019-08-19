@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automatically updating package.json dependencies"
+    id="fa1b7427-cd27-4808-9c18-8a265997e007"
+    documentation="With npm@5 (also known as npm version 5), one change was that it's no longer required to add --save to the npm install command. Instead, npm by default acts as if you ran the command with --save, and will automatically add the dependency to your package.json. This is meant to simplify using npm, and it is arguably more convenient that npm now does this. At the same time it can be very surprising and inconvenient for npm to go ahead and modify package.json for you. The behavior can be disabled by using the --no-save flag. This behavior can be permanently disabled using the following:&#xA;   $ npm config set save false&#xA;The npm config command supports a long list of settable options for tuning behavior of npm. See npm help config for the documentation, and npm help 7 config for the list of options."/>

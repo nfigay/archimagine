@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Other fields in the package.json can be viewed by simply giving the desired tag name."
+    id="086e6484-bca2-40a7-b96e-f36570c9b7ce"
+    documentation="The main npm command has a long list of subcommands for specific package management operations. These cover every aspect of the life cycle of publishing packages (as a package author), and downloading, using, or removing packages (as an npm consumer).&#xA;You can view the list of these commands just by typing npm (with no arguments). If you see one you want to learn more about, view the help information:&#xA;   $ npm help &lt;command>&#xA;   The help text will be shown on your screen.&#xA;   Or, see the website: http://docs.npmjs.com&#xA;"/>

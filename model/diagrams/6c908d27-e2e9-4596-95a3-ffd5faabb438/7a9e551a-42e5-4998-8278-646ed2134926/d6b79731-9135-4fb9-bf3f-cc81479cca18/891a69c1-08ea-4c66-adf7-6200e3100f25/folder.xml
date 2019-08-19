@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publishing an npm package"
+    id="891a69c1-08ea-4c66-adf7-6200e3100f25"
+    documentation="All those packages in the npm repository came from people like you with an idea of a better way of doing something. It is very easy to get started with publishing packages. Online docs can be found at https://docs.npmjs.com/getting-started/publishing-npm-packages.&#xA;You first use the npm adduser command to register yourself with the npm repository. You can also sign up with the website. Next, you log in using the npm login command.&#xA;Finally, while sitting in the package root directory, use the npm publish command. Then, stand back so that you don't get stampeded by the crush of thronging fans. Or, maybe not. There are almost 600,000 packages in the repository, with almost 400 packages added every day. To get yours to stand out, you will require some marketing skill, which is another topic beyond the scope of this book.&#xA;"/>

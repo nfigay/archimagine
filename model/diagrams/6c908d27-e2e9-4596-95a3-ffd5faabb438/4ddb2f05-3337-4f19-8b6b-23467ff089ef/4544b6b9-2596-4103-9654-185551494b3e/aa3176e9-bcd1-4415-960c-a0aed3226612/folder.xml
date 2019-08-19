@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installing on Linux, *BSD, or Windows from package management systems "
+    id="aa3176e9-bcd1-4415-960c-a0aed3226612"
+    documentation="Node.js is now available through most of the package management systems. Instructions on the Node.js website currently list packaged versions of Node.js for a long list of Linux, as well as FreeBSD, OpenBSD, NetBSD, macOS, and even Windows. Visit https://nodejs.org/en/download/package-manager/ for more information.&#xA;For example, on Debian and other Debian-based Linux distro's (such as Ubuntu), use the following commands:&#xA;   # curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -&#xA;   # sudo apt-get install -y nodejs&#xA;   # sudo apt-get install -y build-essential&#xA;To download other Node.js versions (this example shows version 10.x), modify the URL to suit.&#xA;"/>
