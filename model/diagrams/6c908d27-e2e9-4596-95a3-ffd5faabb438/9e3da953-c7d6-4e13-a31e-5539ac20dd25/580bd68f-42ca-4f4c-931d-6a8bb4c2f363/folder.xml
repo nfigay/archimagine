@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="580bd68f-42ca-4f4c-931d-6a8bb4c2f363"
+    documentation="As you can see, writing a service does not change much between frameworks. Our code is very similar, with minor changes. Seneca is stricter about message format and content, so we used base64 to encode our image inside the JSON message. Other than that, everything is the same.&#xA;You get the advantage of being able to choose everything about the service, but you need to write a lot of code. To facilitate the task, Hydra might be a good start for an initial set of plugins.&#xA;For other tools such as Seneca, some aspects of the microservice (for instance, the communication using JSON messages and service composition) are already packed. This comes at the price of a stricter service definition.&#xA;In the next chapter, we will discuss the security of our three service versions, and how we can store state."/>

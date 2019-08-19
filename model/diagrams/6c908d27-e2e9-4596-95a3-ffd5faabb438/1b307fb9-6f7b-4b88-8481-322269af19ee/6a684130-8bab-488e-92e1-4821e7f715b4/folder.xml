@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="6a684130-8bab-488e-92e1-4821e7f715b4"
+    documentation="In this chapter, you learned about foundation of a REST, looking at five key principles that transform a web application into a REST-enabled application. We made a brief comparison between RESTful services and classical SOAP web services, and finally took a look at how RESTful services are documented and how we can simplify the discovery of the services we develop.&#xA;Now that you know the basics, we are ready to dive into the Node.js way of implementing RESTful services. In the next chapter, you will learn about the essentials of Node.js and the accompanying tools that it is necessary to use and understand in order to build a real-life fully-fledged web service."/>

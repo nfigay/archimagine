@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="c7326f3a-c482-47a8-a698-b2f8f9fb9152"
+    documentation="In this chapter, we dived into some more complex topics. Let's sum up what we covered. We started by specifying the operations of our web API and defined that an operation is a combination of a URI and HTTP action. Next, we implemented routes and bound them to an operation. Then, we requested each operation using the Postman REST client to request the URIs that we routed. In the content negotiation section, we handled the Accept HTTP header to provide the results in the format requested by consumers. Finally, we covered the topic of API versions, which allow us to develop backward-compatible APIs.&#xA;We used old-fashioned filesystem storage for our data in this chapter. This is not suitable for a web application. Thus, we will look into modern, scalable, and reliable NoSQL storage in the next chapter."/>

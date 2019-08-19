@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="33cf09fc-85d1-49c1-a22a-3bf8185fed9c"
+    documentation="We've just covered a range of different modules and toolkits to help develop microservices. From patterns in Seneca, to the Hydra bundle, many approaches are available.&#xA;They all target different audiences and fill different needs. I would advise you to experiment with some of them to help you make a better choice instead of just picking one.&#xA;Let's dig into some of these tools and start creating a more complete microservice. In the next chapter, we'll be making a useful microservice, covering different use cases, while we develop a fully functional and distributed microservice."/>

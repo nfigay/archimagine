@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="847575ce-e8a0-48c9-8c8f-8f3e3d61af45"
+    documentation="Congratulations! In this chapter, you succeeded in transforming a sample REST- enabled endpoint into a full-fledged RESTful web service that supports filtering for usability and paging for easy navigation. The service delivers both arbitrary and JSON data, and it is ready for high-load scenarios, as it enables caching in its critical parts. One thing that should draw your attention is the appropriate usage of the HTTP status codes when it comes to redirection between new and obsolete versions of any public API.&#xA;Implementing appropriate HTTP status is really important for the REST application, so we made use of rather exotic statuses, such as 301 Moved Permanently and 302 Found."/>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="0d9dde61-4d0a-4cf3-bd27-6698d990c21f"
+    documentation="Tests allow us to ensure a certain code quality level. It's very important to include tests from the very beginning, while the code is simple, to ensure that we keep tests updated and avoid regressions to the expected behavior.&#xA;It's very rewarding when we see that our code has a very high test coverage. This feeling forces you to keep that high mark and indirectly maintains good code quality."/>

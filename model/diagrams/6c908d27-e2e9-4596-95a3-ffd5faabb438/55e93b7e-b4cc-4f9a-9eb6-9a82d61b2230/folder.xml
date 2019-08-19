@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Chapter 13 - Building a Typical Web API"
-    id="55e93b7e-b4cc-4f9a-9eb6-9a82d61b2230"/>
+    id="55e93b7e-b4cc-4f9a-9eb6-9a82d61b2230"
+    documentation="Our first draft API will be a read-only version and will not support creating or updating items in the catalog as real-world applications do. Instead, we will concentrate on the API definition itself, and will worry about data storage later on. Of course, using file storage for data exposed to millions of users is anything but an option, so a database layer will be provided to our application further in the book, after we have looked into modern NoSQL database solutions.&#xA;We will also cover the topic of content negotiation, a mechanism that allows consumers to specify the expected format of requested data. Finally, we will take a look at several ways to expose different versions of a service, in case it evolves in a backward-incompatible way.&#xA;To sum up, in this chapter, you will learn the following:&#xA;How to specify a web API How to implement routes How to query your API Content negotiation&#xA;API versioning&#xA;After this chapter, you should be able to completely specify a RESTful API and will be almost ready to start implementing real-life Node.js RESTful services."/>

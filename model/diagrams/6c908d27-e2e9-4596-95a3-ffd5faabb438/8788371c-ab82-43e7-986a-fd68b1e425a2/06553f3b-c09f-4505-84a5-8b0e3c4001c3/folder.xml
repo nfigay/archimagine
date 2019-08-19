@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="06553f3b-c09f-4505-84a5-8b0e3c4001c3"
+    documentation="Today's applications have space for microservices. Applications are no longer monolith and left the traditional computer architecture long ago. Users constantly demand integrations and interoperability between applications.&#xA;Microservices help developers to reduce the complexity of applications by separating different contexts, such as frontend, backend, mobile, or a simple API. They're a concept, or a pattern, that, when used well, can give you great power, and split complexity and responsibility.&#xA;But, microservices are more than that. Microservices help you scale horizontally by just replicating the services you need and not a complete monolith application, saving resources and, ultimately, money.&#xA;There's a lot to explore out there; we have just scratched the surface. There are plenty of cloud providers and tools for you to experiment with and choose what fits you best. Remember, practice makes perfect, so head to your work desk, and good luck!"/>

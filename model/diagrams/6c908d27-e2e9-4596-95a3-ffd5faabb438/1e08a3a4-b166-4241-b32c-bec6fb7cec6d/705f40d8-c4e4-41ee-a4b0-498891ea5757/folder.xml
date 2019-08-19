@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="705f40d8-c4e4-41ee-a4b0-498891ea5757"
+    documentation="In conclusion, microservices architecture is a good, clear pattern that helps tackle more complex projects. In the long term, it reduces the complexity associated with new projects by appealing to service reuse. It helps to structure an application into loosely coupled services that can be independently developed and tested by small, different teams. It comes at the cost of initial proper planning and a more complex deployment.&#xA;Before creating your first microservice, let's look at some Node.js tools that could eventually help you leverage your next big project. This is what we'll be covering in the next chapter."/>

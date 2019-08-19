@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="ee1e8741-152f-49d0-ac15-a031974f3f09"
+    documentation="In this chapter, we implemented a simple web-based client with the jQuery library. We utilized this client to demonstrate how the Cross-Origin Resource Sharing policy works, and we used a man in the middle means to troubleshoot issues on the wire. Finally, we looked at how errors should be handled on the client side. This chapter brings us one step closer to the end of our journey, as we got the first consumer of our service. In the next chapter, we will walk you through the final step before bringing a service to production—choosing its security model."/>

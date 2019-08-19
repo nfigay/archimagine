@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conclusion"
+    id="a17ff09c-718b-4d9e-8e8b-b1922fa1d4fd"
+    documentation="s we've seen, there are plenty of options to store our microservice state. Depending on the type of information we're manipulating, there are databases better-prepared to handle our data.&#xA;It all depends on a few different questions we should ask ourselves:&#xA;Is our data integrity important?&#xA;Is our data structure complex?&#xA;How and what type of information do we need to acquire?&#xA;If our data integrity is important or the data structure is complex, do not use in- memory databases. Depending on the complexity, see if you need a non-relational database, or whether you can go with a relational database that can handle more complex manipulation and data aggregation operations, which will help you to achieve the last point."/>

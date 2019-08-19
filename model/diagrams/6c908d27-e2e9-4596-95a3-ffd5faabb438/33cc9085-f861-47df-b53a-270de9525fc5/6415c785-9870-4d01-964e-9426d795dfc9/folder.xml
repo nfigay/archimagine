@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Summary"
+    id="6415c785-9870-4d01-964e-9426d795dfc9"
+    documentation="In this chapter, we looked at MongoDB, a powerful document-oriented database. We utilized it and made use of Mocha to implement an automated test for the database layer. Now it is time to build a fully-fledged RESTful web service. In the next chapter, we will extend the user-defined module by including support for searching via document attributes, and add filtering and pagination capabilities that will finally evolve into full-fledged RESTful service implementation."/>
