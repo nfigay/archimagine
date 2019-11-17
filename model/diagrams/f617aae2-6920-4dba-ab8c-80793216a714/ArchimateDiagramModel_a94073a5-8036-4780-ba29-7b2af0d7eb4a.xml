@@ -6,7 +6,8 @@
     viewpoint="resource">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ced4e138-5cdb-4295-9713-eef7c94d896f">
+      id="ced4e138-5cdb-4295-9713-eef7c94d896f"
+      textAlignment="1">
     <bounds
         x="30"
         y="23"

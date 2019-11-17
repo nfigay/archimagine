@@ -6,7 +6,8 @@
     viewpoint="capability">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="45465254-0e2f-4772-a640-ce6d553bfb46">
+      id="45465254-0e2f-4772-a640-ce6d553bfb46"
+      textAlignment="1">
     <bounds
         x="42"
         y="28"

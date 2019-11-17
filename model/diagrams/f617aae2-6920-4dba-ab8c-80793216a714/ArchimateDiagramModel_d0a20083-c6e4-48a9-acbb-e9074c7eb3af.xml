@@ -6,7 +6,8 @@
     viewpoint="service_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ac71fcf1-b94d-41f7-9ef9-3815b9c0e9b4">
+      id="ac71fcf1-b94d-41f7-9ef9-3815b9c0e9b4"
+      textAlignment="1">
     <bounds
         x="33"
         y="21"

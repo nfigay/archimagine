@@ -6,7 +6,8 @@
     viewpoint="stakeholder">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="c6c900bb-7bbe-46b4-a40e-236553ba4be3">
+      id="c6c900bb-7bbe-46b4-a40e-236553ba4be3"
+      textAlignment="1">
     <bounds
         x="41"
         y="42"

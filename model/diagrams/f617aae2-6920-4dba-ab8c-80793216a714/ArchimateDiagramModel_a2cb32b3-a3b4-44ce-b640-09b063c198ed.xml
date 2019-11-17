@@ -17,7 +17,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="52ae18eb-e138-43fb-8d13-62eeb9130c8a">
+      id="52ae18eb-e138-43fb-8d13-62eeb9130c8a"
+      textAlignment="1">
     <bounds
         x="132"
         width="133"

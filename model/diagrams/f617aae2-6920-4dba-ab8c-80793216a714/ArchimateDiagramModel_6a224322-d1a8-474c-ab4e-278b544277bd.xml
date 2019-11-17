@@ -6,7 +6,8 @@
     viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="5457a58a-0d75-4e0f-88af-4637985d2e8e">
+      id="5457a58a-0d75-4e0f-88af-4637985d2e8e"
+      textAlignment="1">
     <bounds
         x="36"
         y="27"

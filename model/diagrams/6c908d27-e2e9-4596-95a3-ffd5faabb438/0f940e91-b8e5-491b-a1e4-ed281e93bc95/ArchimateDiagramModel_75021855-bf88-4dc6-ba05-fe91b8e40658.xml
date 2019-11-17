@@ -5,7 +5,8 @@
     id="75021855-bf88-4dc6-ba05-fe91b8e40658">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="3d4a167a-5505-4b89-b9c3-40ce7b11d1ab">
+      id="3d4a167a-5505-4b89-b9c3-40ce7b11d1ab"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7e3ec48a-02f0-42a0-9dd8-609f94f66ff4"
@@ -72,7 +73,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="671d4e82-3e9b-4969-a50d-6bb64c88084f"
-      targetConnections="7e3ec48a-02f0-42a0-9dd8-609f94f66ff4">
+      targetConnections="7e3ec48a-02f0-42a0-9dd8-609f94f66ff4"
+      textAlignment="1">
     <bounds
         x="330"
         y="92"
@@ -85,7 +87,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="08fa9ea8-e271-40ff-bf22-158bfbe4ae49"
-      targetConnections="7cf4fd86-cd4b-4b89-809f-1058bad68656">
+      targetConnections="7cf4fd86-cd4b-4b89-809f-1058bad68656"
+      textAlignment="1">
     <bounds
         x="336"
         y="48"
@@ -98,7 +101,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b48f01f8-8b64-41b6-91ef-b6e9415e058f"
-      targetConnections="2f39a100-f484-49e8-89e2-9313a1465d9d">
+      targetConnections="2f39a100-f484-49e8-89e2-9313a1465d9d"
+      textAlignment="1">
     <bounds
         x="336"
         y="24"
@@ -111,7 +115,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ead18040-2870-43f7-8ee3-c8ee0cd6e00e"
-      targetConnections="db31b943-34eb-4da5-a591-329e3c9aa518">
+      targetConnections="db31b943-34eb-4da5-a591-329e3c9aa518"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="ef918f20-6c61-41e1-9fa6-2cfb32be99f8"
@@ -160,7 +165,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="dc05d63c-0864-44e2-af51-3c40a92f6708"
-      targetConnections="3bb0585d-8eea-4762-88b2-61adf8dcdd95">
+      targetConnections="3bb0585d-8eea-4762-88b2-61adf8dcdd95"
+      textAlignment="1">
     <bounds
         x="336"
         y="133"
@@ -173,7 +179,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="509a8125-3cde-4c49-9bc5-588461e8aebf"
-      targetConnections="1665a539-a2c8-446d-94ca-9460ee3df1ff">
+      targetConnections="1665a539-a2c8-446d-94ca-9460ee3df1ff"
+      textAlignment="1">
     <bounds
         x="330"
         y="180"
@@ -186,7 +193,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0efc8c5e-8136-46d7-8b36-0eded5ddd826"
-      targetConnections="ef918f20-6c61-41e1-9fa6-2cfb32be99f8">
+      targetConnections="ef918f20-6c61-41e1-9fa6-2cfb32be99f8"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="d581c3ee-b9b9-4c69-b213-67c3cbbf1ce3"
@@ -208,7 +216,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="85889c35-5c9e-4506-9204-21f0102427ed"
-      targetConnections="d581c3ee-b9b9-4c69-b213-67c3cbbf1ce3">
+      targetConnections="d581c3ee-b9b9-4c69-b213-67c3cbbf1ce3"
+      textAlignment="1">
     <bounds
         x="365"
         y="360"
@@ -221,7 +230,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="747b6d49-87f0-4c25-8196-38154a019eb5"
-      targetConnections="a9eade42-ac82-41c9-8226-cb60c4951a2a">
+      targetConnections="a9eade42-ac82-41c9-8226-cb60c4951a2a"
+      textAlignment="1">
     <bounds
         x="23"
         y="374"
@@ -234,7 +244,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ea5c8463-a96b-4ff9-a0a4-d01911ded4d7"
-      targetConnections="0483eb63-d72f-412b-a02e-e27b903b8ff1">
+      targetConnections="0483eb63-d72f-412b-a02e-e27b903b8ff1"
+      textAlignment="1">
     <bounds
         x="230"
         y="252"
@@ -247,7 +258,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="50855b35-2f6b-4990-bd1b-71d74f9fcd48"
-      targetConnections="f5cb97f6-d341-4cc6-a11e-544edf6d9f0b">
+      targetConnections="f5cb97f6-d341-4cc6-a11e-544edf6d9f0b"
+      textAlignment="1">
     <bounds
         y="264"
         width="128"

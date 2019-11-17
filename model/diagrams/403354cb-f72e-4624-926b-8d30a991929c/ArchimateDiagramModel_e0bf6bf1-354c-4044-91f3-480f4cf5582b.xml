@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Selection of COTS for full coverage of a javascript platforms for visual enteprise modeling"
+    name="Selection of COTS for full coverage of a javascript platforms for visual enteprise modeling 2017"
     id="e0bf6bf1-354c-4044-91f3-480f4cf5582b"
     documentation="Some usefull resources:&#xA;https://www.tutorialspoint.com/reactjs/ : the basics of react, with clear explanation and resources&#xA;https://www.infoq.com/articles/no-more-mvc-frameworks#.WgwUp1sdEwo.linkedin : new emerging paradigms with State Action Model&#xA;https://medium.com/javascript-inside/what-if-react-was-really-only-the-v-in-mvc-5854fd6f601c: what are the real characteristic of React&#xA;https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f : a guide for making the link with CRUD and axios&#xA;https://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/ : A practical guide to redux with Axios call&#xA;">
   <children
@@ -253,19 +253,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="6b99d7b5-551b-4f2e-8e75-3d15c2b270dd"
-      targetConnections="72ef86e5-7c0d-4c67-9bd3-78e4e229bb5e">
-    <bounds
-        x="195"
-        y="396"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_de2778d0-ab6b-4a35-ba75-c536253b5baa.xml#de2778d0-ab6b-4a35-ba75-c536253b5baa"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="88927b40-d5b4-4f8a-9531-795bb9932e0a"
       targetConnections="750f3629-b527-4162-88f9-b7c7000ec00f a255340f-9827-4eb8-9d95-3a1504cb7d6c">
     <bounds
@@ -384,15 +371,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ddbab5be-303b-4109-ba99-275c25a6e281"
       targetConnections="dda21c83-2508-439f-9cd4-a0058a246ead e00d64ce-a45f-4b8d-9062-4176b9aa6aa9 54d0fa9e-fb36-424d-a383-95f7baeff355 e35f6186-b046-4cf6-929d-ff0a36eca1b0">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="72ef86e5-7c0d-4c67-9bd3-78e4e229bb5e"
-        source="ddbab5be-303b-4109-ba99-275c25a6e281"
-        target="6b99d7b5-551b-4f2e-8e75-3d15c2b270dd">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_89a6a0d3-519d-4ca5-a2fc-4fb3e3a1207b.xml#89a6a0d3-519d-4ca5-a2fc-4fb3e3a1207b"/>
-    </sourceConnections>
     <bounds
         x="228"
         y="184"

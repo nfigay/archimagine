@@ -6,7 +6,8 @@
     viewpoint="goal_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="cf55b146-71f7-459d-9e04-49063129a350">
+      id="cf55b146-71f7-459d-9e04-49063129a350"
+      textAlignment="1">
     <bounds
         x="12"
         y="12"

@@ -6,7 +6,8 @@
     viewpoint="strategy">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="bc51be53-6d38-425a-af1f-473a06ec8cf3">
+      id="bc51be53-6d38-425a-af1f-473a06ec8cf3"
+      textAlignment="1">
     <bounds
         x="42"
         y="35"

@@ -6,7 +6,8 @@
     viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="5943fd9b-92c9-4f48-9f8a-4dbdbe4aa75c">
+      id="5943fd9b-92c9-4f48-9f8a-4dbdbe4aa75c"
+      textAlignment="1">
     <bounds
         x="58"
         y="33"

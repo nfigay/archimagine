@@ -6,7 +6,8 @@
     viewpoint="migration">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="620a414b-a241-4d30-8d02-408bc00496dc">
+      id="620a414b-a241-4d30-8d02-408bc00496dc"
+      textAlignment="1">
     <bounds
         x="30"
         y="26"
