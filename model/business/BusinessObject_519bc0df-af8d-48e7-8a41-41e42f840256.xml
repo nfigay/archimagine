@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notation3"
+    id="519bc0df-af8d-48e7-8a41-41e42f840256"
+    documentation="https://www.w3.org/TeamSubmission/n3/&#xD;&#xA;This document defines Notation 3 (also known as N3), an assertion and logic language which is a superset of RDF. N3 extends the RDF datamodel by adding formulae (literals which are graphs themselves), variables, logical implication, and functional predicates, as well as providing an textual syntax alternative to RDF/XML."/>

@@ -1,0 +1,32 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neo4j"
+    id="b39a0d05-bc25-43de-8f12-33c43a28d9b0"
+    documentation="https://neo4j.com/&#xD;&#xA;Neo4j™ is the most widely used open source, transactional graph database with a large active user and customer community. Because of its scalability and ease of use, Neo4j is applied in a wide variety of use cases from fraud detection, access control to recommendation and investigative journalism. Along with the openCypher graph query language, Neo4j also supports Apache TinkerPop and currently serves as its OLTP reference implementation. ">
+  <properties
+      key="Editor"/>
+  <properties
+      key="Version"/>
+  <properties
+      key="supportsRDF1.1"/>
+  <properties
+      key="supportsSparQL1.1"/>
+  <properties
+      key="supportsInferencingWithRDF"/>
+  <properties
+      key="KindOfRulesSupported"/>
+  <properties
+      key="supportsOWL2"/>
+  <properties
+      key="supportsReasonningWithOWLQL"/>
+  <properties
+      key="supportsReasonningWithOWLRL"/>
+  <properties
+      key="supportsGremlin"/>
+  <properties
+      key="supportsGQL"/>
+  <properties
+      key="supportsOpenCypher"/>
+  <properties
+      key="supportsGraphQL"/>
+</archimate:Product>

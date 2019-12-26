@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDF4J 3.0.3"
+    id="c5db6439-fabf-47a0-82e9-066e27e8af63"
+    documentation="https://rdf4j.org/&#xD;&#xA;Eclipse rdf4j is a powerful Java framework for processing and handling RDF data. This includes creating, parsing, scalable storage, reasoning and querying with RDF and Linked Data. It offers an easy-to-use API that can be connected to all leading RDF database solutions. It allows you to connect with SPARQL endpoints and create applications that leverage the power of linked data and Semantic Web. "/>

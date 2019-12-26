@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gizmo"
+    id="02d6904a-7d72-42a2-968e-2c223e375ded"
+    documentation="https://github.com/emehrkay/gizmo&#xD;&#xA;Gizmo is a lightweight asynchronous Python 3.5+ Object Graph Mapper (O.G.M.) for the Tinkerpop Rexster graphs.&#xD;&#xA;About&#xD;&#xA;&#xD;&#xA;Gizmo starts and ends with Gremlin/Groovy. It is made up of entity, mapper, query, request, response, and other objects whose job is to convert pure Python to a Gremlin/Groovy string to be executed on a server."/>

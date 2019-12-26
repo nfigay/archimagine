@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPASQL"
+    id="d983f2ed-c487-43b1-bd7a-ddb2c658cca7"
+    documentation="https://www.w3.org/wiki/SPASQL&#xD;&#xA;SPASQL is simply an extension of the SQL standard, allowing execution of SPARQL queries within SQL statements, typically by treating them as subquery or function clauses. Implementations of this SQL extension may be internal to the DBMS engine, as in OpenLink Virtuoso (see docs), or delivered through an extension architecture, as in the SPASQL module for MySQL. Adding native SPARQL support to the database can deliver the same performance as for well-tailored SQL queries. "/>

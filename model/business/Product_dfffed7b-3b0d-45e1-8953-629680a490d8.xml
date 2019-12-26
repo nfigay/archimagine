@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TigerGraph"
+    id="dfffed7b-3b0d-45e1-8953-629680a490d8"
+    documentation="https://www.tigergraph.com/&#xD;&#xA;TigerGraph is delivering the next stage in the evolution of the graph database: the first system capable of real-time analytics on web-scale data. Our Native Parallel Graph™ (NPG) design focuses on both storage and computation, supporting real-time graph updates and offering built-in parallel computation. Our SQL-like graph query language (GSQL) provides for ad-hoc exploration and interactive analysis of Big Data. With GSQL’s expressive capabilities and NPG speed, you’ll be able to perform Deep Link Analytics: uncovering connections that previously were too impractical to reach or too cumbersome to express.&#xD;&#xA;&#xD;&#xA;https://www.tigergraph.com/why-graph-databases/"/>

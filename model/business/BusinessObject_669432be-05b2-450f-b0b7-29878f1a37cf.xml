@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDFS++"
+    id="669432be-05b2-450f-b0b7-29878f1a37cf"
+    documentation="https://franz.com/agraph/support/learning/Overview-of-RDFS++.lhtml&#xD;&#xA;&#xD;&#xA;Description logic or OWL reasoners are good at handling (complex) ontologies, they are usually complete (give all the possible answers to a query) but totally unpredictable with respect to execution time when the number of individuals increases beyond millions.&#xD;&#xA;&#xD;&#xA;AllegroGraph's RDFS++ reasoning supports all the RDFS predicates and some of OWL's. It is not complete but it has predictable and fast performance. Here are the supported predicates:&#xD;&#xA;&#xD;&#xA;    rdf:type&#xD;&#xA;    rdfs:subClassOf&#xD;&#xA;    rdfs:domain and rdfs:range&#xD;&#xA;    rdfs:subPropertyOf&#xD;&#xA;    owl:sameAs&#xD;&#xA;    owl:inverseOf&#xD;&#xA;    owl:TransitiveProperty&#xD;&#xA;"/>

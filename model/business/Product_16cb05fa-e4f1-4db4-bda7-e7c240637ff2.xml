@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cayleygraph"
+    id="16cb05fa-e4f1-4db4-bda7-e7c240637ff2"
+    documentation="https://cayley.io/&#xD;&#xA;Database is built with RDF support, including multiple linked data formats such as NQuads and JSON-LD.&#xD;&#xA;Support multiple query languages:&#xD;&#xA;Gizmo (Gremlin dialect), MQL and GraphQL dialect."/>

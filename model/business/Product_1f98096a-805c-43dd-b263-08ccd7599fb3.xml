@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MarkLogic"
+    id="1f98096a-805c-43dd-b263-08ccd7599fb3"
+    documentation="https://www.marklogic.com/&#xD;&#xA;The MarkLogic Data Hub Platform integrates and curates your enterprise data to provide immediate business value. Running on a NoSQL foundation for speed and scale, it’s multi-model, elastic, transactional, secure, and built for the cloud.&#xD;&#xA;As a multi-model database, MarkLogic combines the benefits of a document store and an RDF Triple Store. This approach is ideal for integrating and accessing all of your data. JSON and XML documents provide incredible flexibility for modeling entities, while RDF triples — the data format for semantic graph data — are ideal for storing relationships. MarkLogic Semantics is a great data format for storing metadata, improving data integration, and building applications using that integrated, highly connected data. Popular use cases leveraging MarkLogic Semantics include advanced search apps, recommendation engines, fraud detection, knowledge graphs, drug discovery, and network security. "/>

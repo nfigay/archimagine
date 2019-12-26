@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anzograph DB"
+    id="c5ad47f3-a6d3-4cfe-a63b-bd01511dfcc4"
+    documentation="https://www.cambridgesemantics.com/anzograph/&#xD;&#xA;AnzoGraph DB is a massively parallel processing (MPP) native graph database built for diverse data harmonization and analytics at scale (trillions of triples &amp; more), speed and deep link insights. Use it for embedded analytics that require graph algorithms, graph views, named queries, aggregates, built-in data science functions, data warehouse-style BI and reporting functions.&#xD;&#xA;&#xD;&#xA;Our engine supports labelled properties under the new proposed W3C standard. You can also use OpenCypher soon. Apply properties to vertices and edges for extra analytical firepower.&#xD;&#xA;AnzoGraph DB is the only graph database that supports both RDF*/SPARQL* standards and OpenCypher (beta signup). Use the language you know to get the results you need.&#xD;&#xA;&#xD;&#xA;AnzoGraph includes an RDFS+ inference engine that can create new relationships based on the vocabularies or ontologies in the existing data. Follows W3C standards. "/>

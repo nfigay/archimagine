@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle Spatial &amp; Graph"
+    id="3717b402-7d16-414a-be8c-af6ddea8fe60"
+    documentation="https://docs.oracle.com/en/database/oracle/oracle-database/18/rdfrm/spatial-and-graph-rdf-semantic-graph-developers-guide.pdf&#xD;&#xA;A rulebase  is an object that contains rules. The following Oracle-supplied rulebases are provided:&#xD;&#xA;•  RDFS&#xD;&#xA;•  RDF (a subset of RDFS)&#xD;&#xA;•  OWLSIF (empty)&#xD;&#xA;•  RDFS++ (empty)&#xD;&#xA;•  OWL2RL (empty)&#xD;&#xA;•  OWLPrime (empty)&#xD;&#xA;•  SKOSCORE (empty)"/>

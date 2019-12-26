@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArangoDB"
+    id="52bba43a-6747-4aca-a10f-54f6c9f128e4"
+    documentation="https://www.arangodb.com/&#xD;&#xA;ArangoDB is the open-source native multi-model database for graph, document, key/value and search needs.&#xD;&#xA;&#xD;&#xA;While both refer to their entities as 'document' they're different in many ways. While RDF enforces schemata even with custom data types, ArangoDB is schemaless and only supports json specific data types. RDF uses a construct derived from XML-namespaces for these datatypes. These namespaces may be nested. There are implementations storing RDFs in SQL databases. Obviously the RDF grammer has to be translated into ArangoDB collections (similar to these RDF/SQL things). A Foxx service layer could deliver an abstraction that implements these additional datatypes; mapping one namespace to one collection will probably result in many collections with very few documents."/>

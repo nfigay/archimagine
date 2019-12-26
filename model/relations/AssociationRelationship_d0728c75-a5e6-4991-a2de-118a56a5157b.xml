@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TESE"
+    id="d0728c75-a5e6-4991-a2de-118a56a5157b"
+    documentation="Tinkerpop Enabled Graph System&#xD;&#xA;">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_07dd7a66-310f-44fb-afef-af7cc3defaba.xml#07dd7a66-310f-44fb-afef-af7cc3defaba"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_4237d28a-fef6-4d5f-af4e-a3d793d3d407.xml#4237d28a-fef6-4d5f-af4e-a3d793d3d407"/>
+</archimate:AssociationRelationship>

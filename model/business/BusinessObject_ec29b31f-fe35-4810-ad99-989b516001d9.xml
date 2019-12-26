@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDB2RDF Direct"
+    id="ec29b31f-fe35-4810-ad99-989b516001d9"
+    documentation="https://www.w3.org/2001/sw/wiki/Direct_Mapping&#xD;&#xA;Specification of a Direct Mapping of Relational Data to RDF It is one of the two technologies developed as part of the RDB2RDF work; see the specification for further details. &#xD;&#xA;https://www.w3.org/TR/r2rml/"/>

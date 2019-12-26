@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GSQL"
+    id="de3591cf-f8e3-440b-8d5d-b40bd8a4d3ef"
+    documentation="The GSQL® query language is the choice for fast and scalable graph operations and analytics, for the cloud or on-premises. GSQL’s similarity to SQL, High-level syntax, Turing completeness, and built-in parallelism brings faster performance, faster development and the ability to describe any algorithm.&#xD;&#xA;Schema-based: Optimizes storage efficiency and query speed. Supports data-independent app/query development.&#xD;&#xA;Transactional graph updates: HTAP - Hybrid Transactional / Analytical Processing, with real-time data updates&#xD;&#xA;Procedural queries calling queries: Parameterized queries are flexible and can be used to build more complex queries&#xD;&#xA;Built-in high performance parallelism: Achieves the fastest results&#xD;&#xA;&#xD;&#xA;Conventional control flow (FOR, WHILE, IF/ELSE): Makes it easy to implement conventional algorithms"/>

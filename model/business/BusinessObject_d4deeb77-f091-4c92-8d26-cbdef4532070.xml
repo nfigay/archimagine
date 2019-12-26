@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPIN"
+    id="d4deeb77-f091-4c92-8d26-cbdef4532070"
+    documentation="https://spinrdf.org/&#xD;&#xA;SPIN is a W3C Member Submission that has become the de-facto industry standard to represent SPARQL rules and constraints on Semantic Web models. SPIN also provides meta-modeling capabilities that allow users to define their own SPARQL functions and query templates. Finally, SPIN includes a ready to use library of common functions. &#xD;&#xA;"/>

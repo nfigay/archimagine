@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HypergraphDB"
+    id="05d9c6d6-2087-4d6f-b65e-27ebe45e5a42"
+    documentation="http://www.hypergraphdb.org/&#xD;&#xA;HyperGraphDB is a general purpose, open-source data storage mechanism based on a powerful knowledge management formalism known as directed hypergraphs. While a persistent memory model designed mostly for knowledge management, AI and semantic web projects, it can also be used as an embedded object-oriented "/>

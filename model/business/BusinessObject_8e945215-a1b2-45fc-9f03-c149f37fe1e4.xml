@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OpenCypher"
+    id="8e945215-a1b2-45fc-9f03-c149f37fe1e4"
+    documentation="https://www.opencypher.org/&#xD;&#xA;OpenCypher is an open-source project that makes it easy to use the Cypher language in order to incorporate graph processing capabilities within that product or application.&#xD;&#xA;Originally contributed by Neo4j, Cypher is now used by over 10 products and tens of thousands of developers.&#xD;&#xA;Easy-to-learn and human-readable, Cypher is suitable for developers, data scientists and operations professionals alike.&#xD;&#xA;Cypher lets users simply express what data to retrieve (declarative) while the underlying engine completes the task without requiring they understand implementation details.&#xD;&#xA;Cypher is a key inspiration for the ISO project creating a standard graph query language. &#xD;&#xA;https://www.opencypher.org/projects&#xD;&#xA;&#xD;&#xA;TODO - compléter avec les outils Cypher"/>

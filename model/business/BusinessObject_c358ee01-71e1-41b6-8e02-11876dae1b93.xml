@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDB2RDF R2RML"
+    id="c358ee01-71e1-41b6-8e02-11876dae1b93"
+    documentation="https://www.w3.org/2001/sw/wiki/R2RML&#xD;&#xA;R2RML is a language for expressing customized mappings from relational databases to RDF datasets. It is one of the two technologies developed as part of the RDB2RDF work; see the specification for further details.&#xD;&#xA;https://www.w3.org/TR/r2rml/&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

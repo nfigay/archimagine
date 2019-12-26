@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cypher for Gremlin"
+    id="ef851d02-6c0a-4b61-aba0-42a82b51f28f"
+    documentation="https://github.com/opencypher/cypher-for-gremlin&#xD;&#xA;Cypher for Gremlin is a toolkit for users of Apache TinkerPop™ that allows querying Gremlin databases with Cypher, the industry's most widely used property graph query language defined and maintained by the openCypher project."/>

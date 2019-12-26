@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle PGQL"
+    id="30b72cc2-2c33-45cb-b171-c5b16db10a9c"
+    documentation="https://blogs.oracle.com/oraclespatial/property-graph-query-language-pgql-support-has-been-added-to-oracle-database-12201&#xD;&#xA;At a high level, PGQL is a SQL-like declarative language that allows a user to express a graph query pattern that consists of vertices and edges, and constraints on the properties of the vertices and edges.&#xD;&#xA;&#xD;&#xA;Once this patch is applied to your database instance, you can run the following quick test, Groovy/Java based, to see how it works.&#xD;&#xA;&#xD;&#xA;cd $ORACLE_HOME/md/property_graph/dal/groovy&#xD;&#xA;$ sh ./gremlin-opg-rdbms.sh "/>

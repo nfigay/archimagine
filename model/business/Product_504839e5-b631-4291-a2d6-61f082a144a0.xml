@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Allelograph"
+    id="504839e5-b631-4291-a2d6-61f082a144a0"
+    documentation="https://franz.com/agraph/allegrograph/&#xD;&#xA;AllegroGraph® is a modern, high-performance, persistent graph database. AllegroGraph uses efficient memory utilization in combination with disk-based storage, enabling it to scale to billions of quads while maintaining superior performance. AllegroGraph supports SPARQL, RDFS++, and Prolog reasoning from numerous client applications. &#xD;&#xA;"/>

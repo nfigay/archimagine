@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SKOSCORE"
+    id="e2fd8548-e7a3-44bd-81d9-41d3124218bc"
+    documentation="https://www.w3.org/wiki/SkosDev/SkosCore&#xD;&#xA;Looks deprecated even if supported by Oracle Spatial &amp; Graph"/>

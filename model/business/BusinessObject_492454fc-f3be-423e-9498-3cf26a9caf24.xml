@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ShEX"
+    id="492454fc-f3be-423e-9498-3cf26a9caf24"
+    documentation="https://en.wikipedia.org/wiki/ShEx&#xD;&#xA;hape Expressions (ShEx) [2] is a language for validating and describing RDF.&#xD;&#xA;&#xD;&#xA;It was proposed at the 2012 RDF Validation Workshop[3] as a high-level, concise language for RDF validation.&#xD;&#xA;&#xD;&#xA;The shapes can be defined in a human-friendly compact syntax called ShExC or using any Resource Description Framework (RDF) serialization formats like JSON-LD or Turtle.&#xD;&#xA;&#xD;&#xA;ShEx expressions can be used both to describe RDF and to automatically check the conformance of RDF data. The syntax of ShEx is similar to Turtle and SPARQL while the semantics is inspired by regular expression languages like RelaxNG. "/>

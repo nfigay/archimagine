@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OWL 2 RL"
+    id="947662a2-fae8-440c-a5d5-d935826181dd"
+    documentation="https://www.w3.org/TR/owl2-profiles/#OWL_2_RL&#xD;&#xA;The OWL 2 RL profile is aimed at applications that require scalable reasoning without sacrificing too much expressive power. It is designed to accommodate both OWL 2 applications that can trade the full expressivity of the language for efficiency, and RDF(S) applications that need some added expressivity from OWL 2. This is achieved by defining a syntactic subset of OWL 2 which is amenable to implementation using rule-based technologies (see Section 4.2), and presenting a partial axiomatization of the OWL 2 RDF-Based Semantics [OWL 2 RDF-Based Semantics] in the form of first-order implications that can be used as the basis for such an implementation (see Section 4.3). The design of OWL 2 RL was inspired by Description Logic Programs [DLP] and pD* [pD*]. "/>

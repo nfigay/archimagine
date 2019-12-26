@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Garlic4Store"
+    id="90fddbc7-93c7-46cc-8e3f-80a68b61e891"
+    documentation="https://github.com/4store/4store&#xD;&#xA;store is an efficient, scalable and stable RDF database.&#xD;&#xA;&#xD;&#xA;4store was designed by Steve Harris and developed at Garlik to underpin their Semantic Web applications. It has been providing the base platform for around 3 years. At times holding and running queries over databases of 15GT, supporting a Web application used by thousands of people."/>

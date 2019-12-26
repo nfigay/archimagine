@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TESE"
+    id="7a863d55-0e3e-4159-9ca3-82883831050a">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_07dd7a66-310f-44fb-afef-af7cc3defaba.xml#07dd7a66-310f-44fb-afef-af7cc3defaba"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_ba7ad080-b457-4ff7-9902-306d4b4a4198.xml#ba7ad080-b457-4ff7-9902-306d4b4a4198"/>
+</archimate:AssociationRelationship>

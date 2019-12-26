@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cassandra"
+    id="e30f8a83-0860-4762-aec8-bd2880cd9dea"
+    documentation="The Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data. Cassandra's support for replicating across multiple datacenters is best-in-class, providing lower latency for your users and the peace of mind of knowing that you can survive regional outages. &#xD;&#xA;&#xD;&#xA;Wide column store&#xD;&#xA;https://dzone.com/articles/store-semantic-web-triples-into-cassandra&#xD;&#xA;https://www.datastax.com/blog/2018/11/getting-started-graphql-and-apache-cassandra"/>

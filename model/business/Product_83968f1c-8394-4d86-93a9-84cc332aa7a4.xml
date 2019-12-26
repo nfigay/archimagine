@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="COMPOSE"
+    id="83968f1c-8394-4d86-93a9-84cc332aa7a4"
+    documentation="IBM Compose offers a database for every developer’s needs on one easy-to-manage platform. Choose from MySQL, RethinkDB, ScyllaDB, or JanusGraph. You can also build your data stack with pure polyglot persistence by combining several databases to ensure your data is used to the fullest, giving your application, analytics or APIs the best access possible. With a powerful data layer, IBM customers can build a database in 10 seconds without any data loss.&#xD;&#xA;&#xD;&#xA;IBM® Compose for JanusGraph provides a fully-managed, highly-available, and production-ready JanusGraph on AWS, GCP or IBM Cloud. Deployed in minutes, every JanusGraph deployment on Compose is built with highly available storage and graph engines. The JanusGraph Storage engine is a cluster of the Scylla database. As usage increases or application requirements change, users can vertically or horizontally scale the JanusGraph Engine and Storage to increase throughput or storage. &#xD;&#xA;&#xD;&#xA;"/>

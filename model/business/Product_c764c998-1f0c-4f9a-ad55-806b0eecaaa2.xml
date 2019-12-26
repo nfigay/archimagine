@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OrientDB"
+    id="c764c998-1f0c-4f9a-ad55-806b0eecaaa2"
+    documentation="https://orientdb.com/&#xD;&#xA;OrientDB™ is an open source distributed graph database with native support for Apache TinkerPop and the Gremlin graph traversal language. OrientDB handles relationships by using persistent pointers, rather than expensive join runtime operations. This guarantees a fast, constant O(1) time for traversing, no matter the database size. Furthermore, OrientDB is not only a graph database, but a multi-model database able to manage documents, keys/values, objects, full-text and spatial data. &#xD;&#xA;&#xD;&#xA;OrientDB is the world’s fastest graph database. Period. An independent benchmark study by IBM and the Tokyo Institute of Technology showed that OrientDB is 10x faster than Neo4j on graph operations among all the workloads. Drive competitive advantage and accelerate innovation with new revenue streams.&#xD;&#xA;&#xD;&#xA;https://orientdb.com/community-edition/"/>

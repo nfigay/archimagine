@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FlockDB"
+    id="23359a85-8f57-41b4-a1a1-5f14f7ecbea6"
+    documentation="FlockDB was a distributed, fault-tolerant graph database.&#xD;&#xA;History : Twitter announced in 2017 that the project was no longer being maintained. It has since moved to an 'archive' repository on Github."/>
