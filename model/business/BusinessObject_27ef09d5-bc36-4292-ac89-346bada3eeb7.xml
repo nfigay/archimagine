@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Blazegraph"
+    id="27ef09d5-bc36-4292-ac89-346bada3eeb7"
+    documentation="https://blazegraph.com/&#xA;Blazegraph™ DB is a ultra high-performance graph database supporting Blueprints and RDF/SPARQL APIs. It supports up to 50 Billion edges on a single machine. It is in production use for Fortune 500 customers such as EMC, Autodesk, and many others. It is supporting key Precision Medicine applications and has wide-spread usage for life science applications. It is used extensively to support Cyber analytics in commercial and government applications. It powers the Wikimedia Foundation's Wikidata Query Service.&#xA;&#xA;"/>

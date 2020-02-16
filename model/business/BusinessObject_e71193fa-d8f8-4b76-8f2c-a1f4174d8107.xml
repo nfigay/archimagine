@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FaunaDB"
+    id="e71193fa-d8f8-4b76-8f2c-a1f4174d8107"
+    documentation="https://fauna.com/&#xA;The database built for serverless, featuring native GraphQL&#xA;Add a full-featured global datastore to your apps in minutes. Access effortlessly from the browser and from mobile. Never again worry about data correctness, capacity, redundancy, latency, and availability.&#xA;&#xA;FaunaDB is a distributed operational (OLTP) database for modern cloud and container-centric environments. It is the world’s first commercial database that is inspired by Calvin."/>

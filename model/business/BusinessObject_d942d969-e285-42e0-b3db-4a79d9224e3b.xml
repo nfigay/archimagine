@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InfiniteGraph"
+    id="d942d969-e285-42e0-b3db-4a79d9224e3b"
+    documentation="https://www.objectivity.com/products/infinitegraph/&#xA;InfiniteGraph is a highly specialized graph database. Its functionality is being migrated into ThingSpan. However, Objectivity will continue to support licensed users and will recommend it to Java developers who wish to use graph analytics outside of a Spark environment.&#xA;&#xA;Specific features, such as pathfinding, have been merged into the underlying database - Objectivity/DB. This will simplify the development, quality assurance, maintenance and support of our products."/>

@@ -1,5 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Azure Microsoft Cosmos DB"
+    name="Microsoft Azure Cosmos DB"
     id="ba7ad080-b457-4ff7-9902-306d4b4a4198"
     documentation="https://www.zdnet.com/article/inside-cosmos-db/&#xD;&#xA;Advanced features as PolyBase (which allows SQL Server to treat files in Hadoop and Azure Blob Storage as if they were local tables) and In-Memory OLTP (originally code-named &quot;Hekaton&quot;).&#xD;&#xA;https://stackoverflow.com/questions/56872883/is-it-possible-to-use-ontologies-with-cosmosdb&#xD;&#xA;cosmos db only has 5 api so far : SQL API,Mongo API,Table API,Graph API(for apache gremlin) and Cassandra API. It doesn't support storing any data with RDF model.&#xD;&#xA;Azure Cosmos DB™ is Microsoft's globally distributed, multi-model database service for mission-critical applications. Azure Cosmos DB provides turn-key global distribution, elastic scaling of throughput and storage worldwide, five well-defined consistency levels, and guaranteed high availability, all backed by industry-leading SLAs. It is multi-model with support for the Gremlin graph traversal language. "/>

@@ -610,18 +610,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ef218632-f844-4922-a953-5a0f98be2ceb">
-    <bounds
-        x="1248"
-        y="480"
-        width="120"
-        height="44"/>
-    <archimateElement
-        xsi:type="archimate:Representation"
-        href="Representation_6ae0593d-921d-45f2-b73e-d2dc8535a53c.xml#6ae0593d-921d-45f2-b73e-d2dc8535a53c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="c2b7bc31-8760-47c4-af91-282a2090cccb">
     <bounds
         x="1248"
@@ -642,30 +630,6 @@
         y="455"
         width="113"
         height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="6180f241-f6b7-40e2-8ad9-a44e2cb1c514">
-    <bounds
-        x="1380"
-        y="480"
-        width="120"
-        height="44"/>
-    <archimateElement
-        xsi:type="archimate:Representation"
-        href="Representation_f3218e97-2984-4fd5-8a7d-22c18785897c.xml#f3218e97-2984-4fd5-8a7d-22c18785897c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="465d47b1-8bee-4d52-84a8-0f7e63a4005e">
-    <bounds
-        x="1380"
-        y="546"
-        width="120"
-        height="44"/>
-    <archimateElement
-        xsi:type="archimate:Representation"
-        href="Representation_9df86ae1-7dfe-41e2-b34e-c429e76eeb5a.xml#9df86ae1-7dfe-41e2-b34e-c429e76eeb5a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

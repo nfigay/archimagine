@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Apache Spark MLib"
-    id="dc59754e-9ac0-4553-8398-285b24f3753e"/>
+    id="dc59754e-9ac0-4553-8398-285b24f3753e"
+    documentation="https://spark.apache.org/mllib/&#xA;MLlib is Apache Spark's scalable machine learning library.&#xA;MLlib fits into Spark's APIs and interoperates with NumPy in Python (as of Spark 0.9) and R libraries (as of Spark 1.5). You can use any Hadoop data source (e.g. HDFS, HBase, or local files), making it easy to plug into Hadoop workflows.&#xA;"/>

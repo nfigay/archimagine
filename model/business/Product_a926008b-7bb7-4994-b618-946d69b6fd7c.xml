@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GraphDB"
-    id="a926008b-7bb7-4994-b618-946d69b6fd7c"/>
+    id="a926008b-7bb7-4994-b618-946d69b6fd7c"
+    documentation="https://www.ontotext.com/products/graphdb/&#xA;The Best RDF Database for Knowledge Graphs&#xA;GraphDB allows you to link diverse data, index it for semantic search and enrich it via text analysis to build big knowledge graphs."/>

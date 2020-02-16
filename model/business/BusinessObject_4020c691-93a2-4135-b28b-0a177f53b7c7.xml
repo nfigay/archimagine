@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XML"
+    id="4020c691-93a2-4135-b28b-0a177f53b7c7"
+    documentation="La version 1.0 d'XML a été publiée le 10 février 1998.&#xA;&#xA;La version 1.1 d'XML a été publiée le 4 février 2004. Elle apporte des améliorations dans le support des différentes versions d'Unicode, permet l'usage de caractères de contrôle dans le texte (à l'exception du caractère 0), et organise les fins de ligne de façon compatible avec les technologies IBM10.&#xA;&#xA;Le W3C recommande aux interpréteurs XML de reconnaître les deux versions, bien que la première version soit beaucoup plus répandue que la seconde."/>

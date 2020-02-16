@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Graph Engine"
+    id="3ed03159-1bb9-4286-8de6-d807b9700e2c"
+    documentation="https://www.graphengine.io/&#xA;&#xA;Graph Engine = RAM Store + Computation Engine + Graph Model&#xA;Graph Engine (GE) is a distributed in-memory data processing engine, underpinned by a strongly-typed RAM store and a general distributed computation engine.&#xA;&#xA;The distributed RAM store provides a globally addressable high-performance key-value store over a cluster of machines. Through the RAM store, GE enables the fast random data access power over a large distributed data set.&#xA;&#xA;The capability of fast data exploration and distributed parallel computing makes GE a natural large graph processing platform. GE supports both low-latency online query processing and high-throughput offline analytics on billion-node large graphs."/>

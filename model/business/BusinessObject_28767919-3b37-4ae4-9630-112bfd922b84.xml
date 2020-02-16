@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DGraph"
+    id="28767919-3b37-4ae4-9630-112bfd922b84"
+    documentation="https://dgraph.io/&#xA;Dgraph is an open source, scalable, distributed, highly available and fast graph database, designed from ground up to be run in production."/>

@@ -6,6 +6,6 @@
       xsi:type="archimate:Grouping"
       href="Grouping_af0bb9c8-2d3e-42d8-806f-0dcfaaa7a5b2.xml#af0bb9c8-2d3e-42d8-806f-0dcfaaa7a5b2"/>
   <target
-      xsi:type="archimate:Representation"
-      href="Representation_6ae0593d-921d-45f2-b73e-d2dc8535a53c.xml#6ae0593d-921d-45f2-b73e-d2dc8535a53c"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_a021c280-1996-4243-97a9-5e8c51c94d9f.xml#a021c280-1996-4243-97a9-5e8c51c94d9f"/>
 </archimate:CompositionRelationship>

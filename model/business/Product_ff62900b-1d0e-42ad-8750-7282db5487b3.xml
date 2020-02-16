@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Apache Spark"
-    id="ff62900b-1d0e-42ad-8750-7282db5487b3"/>
+    id="ff62900b-1d0e-42ad-8750-7282db5487b3"
+    documentation="https://spark.apache.org/&#xA;Apache Spark™ is a unified analytics engine for large-scale data processing.&#xA;&#xA;Run workloads 100x faster.&#xA;&#xA;Apache Spark achieves high performance for both batch and streaming data, using a state-of-the-art DAG scheduler, a query optimizer, and a physical execution engine."/>
