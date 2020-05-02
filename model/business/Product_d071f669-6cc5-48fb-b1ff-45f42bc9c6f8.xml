@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arcade Analytics Community Edition"
+    id="d071f669-6cc5-48fb-b1ff-45f42bc9c6f8"
+    documentation="Arcade Analytics Community Edition: an open-source graph visualization platform that can connect to graph or relational databases. You deploy it using Docker at https://arcadeanalytics.com/product/community/&#xA;Free opensource without support&#xA;Can be consume online as a service (to be paid)&#xA;Short path finding&#xA;Combination with timelining&#xA;Several charts&#xA;Force graph&#xA;Orignial combination between layouts and force graphs"/>

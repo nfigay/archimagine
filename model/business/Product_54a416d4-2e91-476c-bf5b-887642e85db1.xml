@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="webweb"
+    id="54a416d4-2e91-476c-bf5b-887642e85db1"
+    documentation="webweb: a tool for creating, displaying, and sharing interactive network visualizations on the web. Require knowledge of Python, Networkx, or Matlab to build and launch a visualization in the browser.&#xA;at https://webwebpage.github.io/&#xA;&#xA;Looks quite simple and nice, even if not shown how to add images.&#xA;TO INVESTIGATE if working with Python"/>

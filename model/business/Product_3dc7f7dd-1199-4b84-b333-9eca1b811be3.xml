@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Graphileon"
+    id="3dc7f7dd-1199-4b84-b333-9eca1b811be3"
+    documentation="Graphileon: a graph-driven dashboard development environment. It uses a graph database to store user-interface components (e.g. Networks, Tables, Forms) in nodes (“vertices”) and triggers in relations (“links” or “edges”) to define the interactions and data-flows between the UI components. You can download the Graphileon Personal Edition for free.&#xA;at https://graphileon.com/"/>

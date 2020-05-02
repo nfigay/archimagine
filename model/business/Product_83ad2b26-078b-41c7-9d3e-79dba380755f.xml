@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elasticsearch Graph API + Kibana"
+    id="83ad2b26-078b-41c7-9d3e-79dba380755f"
+    documentation="Elasticsearch Graph API + Kibana: the Graph API lets you map and query information about the documents and terms in your Elasticsearch index. It connects to Kibana, the open-source plugin for ES, which provides an interface to visualize the graphs.&#xA;at https://www.elastic.co/products/stack/graph&#xA;Is it really free?&#xA;Cf. the exchange at https://stackoverflow.com/questions/33242197/is-elasticsearch-is-free-or-costly"/>

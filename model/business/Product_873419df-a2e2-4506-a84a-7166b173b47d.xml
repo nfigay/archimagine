@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onodo"
+    id="873419df-a2e2-4506-a84a-7166b173b47d"
+    documentation="Onodo: an open-source network visualization and analysis tool for non-tech users. It intends to help journalists tell stories that relate to network connections by providing a simple platform to map, visualize, analyze and communicate these kinds of complex data.&#xA;at https://onodo.org/&#xA;Github https://github.com/civio/onodo&#xA;Use a complex stack, can be installed based on Docker&#xA;Ruby for development, network analysis with Python and igraph"/>

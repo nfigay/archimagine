@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bloodhound"
+    id="905dac33-516c-4331-91d6-9ddd9fd13b25"
+    documentation="Bloodhound: open-source solution for mapping and visualizing the relationships in your Active Directory environment to identify and eliminate potential attack paths.&#xA;https://github.com/BloodHoundAD/BloodHound/wiki/BloodHound-Graph-Design&#xA;Requires neo4j&#xA;specialized for active directory analysis and eliminite potential atttack paths&#xA;Security related"/>

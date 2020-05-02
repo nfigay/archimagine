@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CFinder"
+    id="ff217022-69f5-4bf0-acc2-6b098292d6f1"
+    documentation="CFinder: a free software tool for network cluster (community) detection, based on the Clique Percolation Method (CPM).&#xA;at http://www.cfinder.org/&#xA;Requires a key&#xA;Support clusters with intersections"/>

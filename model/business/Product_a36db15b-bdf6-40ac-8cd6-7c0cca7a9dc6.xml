@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pajek"
+    id="a36db15b-bdf6-40ac-8cd6-7c0cca7a9dc6"
+    documentation="Pajek: historical Windows program for Social Network Analysis and visualization of large networks. Pajek includes six data structures (e.g. network, permutation, cluster,…) and about 15 algorithms using these structures (e.g. partitions, decompositions, paths, flows…).&#xA;http://pajek.imfm.si/doku.php?id=pajeks&#xA;Working on Window, implies windows emulator on Macs&#xA;Open source and free&#x9;"/>

@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VirusTotal Graph"
+    id="d2651dfb-7aff-4f70-95ef-0f2f62b6791a"
+    documentation="VirusTotal Graph: an information aggregator: the data presented is the combined output of different antivirus products, file and website characterization tools, website scanning engines and datasets, and user contributions. VirusTotal is a free service but you can not upload your own data.&#xA;at https://www.virustotal.com/#/graph-overview&#xA;&#xA;Very specific usage (Security analysis for Virus/Malware) with a specific usage of graphs, an illustration use case of graph technologies"/>

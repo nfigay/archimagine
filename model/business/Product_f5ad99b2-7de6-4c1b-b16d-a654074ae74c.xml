@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OSosME"
+    id="f5ad99b2-7de6-4c1b-b16d-a654074ae74c"
+    documentation="OSosME: online visualization tools for social media network analysis. OSoMe is a joint project of the Indiana University Network Science Institute (IUNI) and the Center for Complex Networks and Systems Research (CNetS), aimed to study information diffusion in social media.&#xA;at http://osome.iuni.iu.edu/&#xA;Several tools, including one with a graph dynamically fed based on incoming events (chronological sequences)&#xA;Several libraries on github includind FastViz:&#xA;This project is a collection of two tools that filter and visualize large dynamic networks. More specifically, the tools perform the following functions:&#xA;&#xA;The filtering tool. From a chronological sequence of weighthed graph links produce differential updates to a subgraph of the network delegated for visualization in a format of JSON events.&#xA;The visualizing tool. Produce movies of evolving graphs from a feed of the JSON events."/>

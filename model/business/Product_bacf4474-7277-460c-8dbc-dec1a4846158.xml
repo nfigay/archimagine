@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beagle"
+    id="bacf4474-7277-460c-8dbc-dec1a4846158"
+    documentation="Beagle: incident response and digital forensics tool which transforms security logs and data into graphs. Available as a docker file or as a library.&#xA;at https://github.com/yampelo/beagle&#xA;&#xA;Related to security and SOCS"/>

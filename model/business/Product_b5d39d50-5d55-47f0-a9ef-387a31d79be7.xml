@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cuttlefish"
+    id="b5d39d50-5d55-47f0-a9ef-387a31d79be7"
+    documentation="Cuttlefish: a network workbench application that provides visualization, interactive manipulation of the layout and graph edition. It is available as a JAR package file&#xA;at https://github.com/dev-cuttlefish/cuttlefish&#xA;Seems too simple"/>

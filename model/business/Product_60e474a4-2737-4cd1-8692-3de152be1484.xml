@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VOSviewer"
+    id="60e474a4-2737-4cd1-8692-3de152be1484"
+    documentation="VOSviewer: a software tool for constructing and visualizing bibliometric networks. The tool offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.&#xA;http://www.vosviewer.com/&#xA;&#xA;Interesting for Bibliographies when writing research articles.&#xA;Also illustrates usage of graph/network visualization and analysis for a specific usage."/>

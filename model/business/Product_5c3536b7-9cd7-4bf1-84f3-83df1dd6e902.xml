@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Graphvis"
+    id="5c3536b7-9cd7-4bf1-84f3-83df1dd6e902"
+    documentation="GraphVis: a platform for interactive visual graph mining and relational learning. The tool supports most graph formats (edge lists, mtx, gml, xml, graphml, json, paj, net). You can also pick a dataset from their online network repository. at http://networkrepository.com/graphvis.php"/>

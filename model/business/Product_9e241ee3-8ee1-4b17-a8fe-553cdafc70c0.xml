@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VOWL"
-    id="9e241ee3-8ee1-4b17-a8fe-553cdafc70c0"/>
+    id="9e241ee3-8ee1-4b17-a8fe-553cdafc70c0"
+    documentation="WebVOWL: a web application to visualize ontologies. You can customize and interact with the elements of the Web Ontology Language (OWL). You can import your own ontology file up to 5 MB.&#xA;http://www.visualdataweb.de/webvowl/&#xA;Based on Vis.js&#xA;Doesn't support visualization of individual, so too much uncomplete for OWL semantic Map.&#xA;However demonstrates the potential of Vis.js&#xA;"/>

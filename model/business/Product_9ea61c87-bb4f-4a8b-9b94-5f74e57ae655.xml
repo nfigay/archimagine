@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zeppelin"
+    id="9ea61c87-bb4f-4a8b-9b94-5f74e57ae655"
+    documentation="Zeppelin: Apache open-source web-based notebook proposes network visualization for data analysis purposes using Spark, SQL or Python data. There is a Neo4j interpreter.&#xA;at https://zeppelin.apache.org/docs/0.8.0/usage/display_system/basic.html#network&#xA;&#xA;TO INVESTIGATE - FREE, OPEN SOURCE, links to many database with various interpreter"/>

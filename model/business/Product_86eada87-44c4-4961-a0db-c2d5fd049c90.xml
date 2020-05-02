@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Osprey"
+    id="86eada87-44c4-4961-a0db-c2d5fd049c90"
+    documentation="Osprey: Osprey is a software platform for the visualization of complex biological interaction networks. Osprey builds graphical representations from Gene Ontology (GO) annotated interaction data maintained by the BioGRID.&#xA;at https://osprey.thebiogrid.org/&#xA;Not anymore in active development, to use embeded viewer via the BioGRID or Cytoscape Desktop"/>

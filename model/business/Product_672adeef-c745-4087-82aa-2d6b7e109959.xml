@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Circos Table Viewer:"
+    id="672adeef-c745-4087-82aa-2d6b7e109959"
+    documentation="Circos Table Viewer: online web tool based on Circos’ software package to visualize tabular data as chord diagrams. You can upload your own files and customize how the data is parsed, filtered and displayed&#xA;at http://mkweb.bcgsc.ca/tableviewer/&#xA;Restricted to chord diagrams and is online. Beautiful diagrams"/>
