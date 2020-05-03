@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JS Graph it"
+    id="2d145c3f-d282-401a-b48b-d5edcf58227d"
+    documentation="JS Graph it: a JavaScript library for graphs representation that allows you to connect your HTML elements using CSS classes to declare blocks, connectors, labels without Javascript code. JS Graph is released under the Apache 2.0 License&#xA;at http://js-graph-it.sourceforge.net&#xA;Last update 2014&#xA;Limited functional coverage&#xA;"/>

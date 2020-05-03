@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="cola.js"
-    id="392dcc0d-bcae-4a5d-8f7a-c8d87726c2af"/>
+    id="392dcc0d-bcae-4a5d-8f7a-c8d87726c2af"
+    documentation="Cola.JS: an open-source JavaScript library released under the MIT License to arrange HTML5 documents and diagrams using constraint-based optimization techniques. It works well with libraries like D3.js, svg.js, and Cytoscape.js. The core layout is based on a complete rewrite in JavaScript of the C++ LibCola library.&#xA;at https://marvl.infotech.monash.edu/webcola/&#xA;Great for dealing with constraints, and then dealing with containers in a graph.&#xA;Not so easy to use without developments."/>

@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="joint.js"
-    id="1e87fd35-5835-4fb4-90f0-1f7c40ab5242"/>
+    id="1e87fd35-5835-4fb4-90f0-1f7c40ab5242"
+    documentation="Joint JS: a JavaScript diagramming library released under the MLP License 2.0 with features to support visualization and interaction with diagrams and graphs.&#xA;at https://www.jointjs.com/opensource&#xA;One part is open source, complementary features (Rappid) isn't.&#xA;Experimented with old version based on SVG, but there were a shift to canvas"/>

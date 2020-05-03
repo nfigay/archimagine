@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="D3.js"
-    id="57513eae-d7ca-4b50-8919-cc84308c6c48"/>
+    id="57513eae-d7ca-4b50-8919-cc84308c6c48"
+    documentation="D3.JS: a JavaScript library for manipulating documents based on data using HTML, SVG, and CSS. D3 combines visualization components and a data-driven approach to DOM manipulation.&#xA;At https://d3js.org&#xA;The main contributor is now working on Observable, which is a notebook for exploring data and thinking with code.&#xA;Apache Zeppelin similar?"/>

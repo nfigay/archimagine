@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dash Cytoscape"
+    id="a1dc235c-3d32-4cdb-95a0-0686bc9dd48f"
+    documentation="Dash Cytoscape: a Component Library for Dash aimed at facilitating network visualization in Python, wrapped around Cytoscape.js.&#xA;at https://github.com/plotly/dash-cytoscape"/>

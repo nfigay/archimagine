@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NodeBox"
+    id="77ad390f-04e2-48cb-9397-5fd68bcd8d8d"
+    documentation="NodeBox: a Graph library in Python released under the GPL to visualize small graphs (&lt;200 elements) with algorithms from NetworkX for betweenness centrality and eigenvector centrality.&#xA;at https://www.nodebox.net/code/index.php/Graph"/>

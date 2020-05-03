@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PyGraphistry"
+    id="de2a8eb4-dd3e-4459-bfeb-9f7d5171b806"
+    documentation="PyGraphistry: a Python visual graph analytics library to extract, transform, and load big graphs into Graphistry’s cloud-based graph explorer.&#xA;at https://github.com/graphistry/pygraphistry&#xA;Looks great, can be integrated to data science notebook environment such as Jupyter and Google Colab. "/>

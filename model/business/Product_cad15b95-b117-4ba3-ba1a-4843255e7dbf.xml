@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Protovis"
+    id="cad15b95-b117-4ba3-ba1a-4843255e7dbf"
+    documentation="Protovis: a JavaScript library released under the BSD License, to compose custom views of data with simple marks such as bars and dots. Protovis is no longer under active development.&#xA;at http://mbostock.github.io/protovis/&#xA;Last version 3.3.1&#xA;Replaced by D3.js since 2011&#xA;Deprecated"/>

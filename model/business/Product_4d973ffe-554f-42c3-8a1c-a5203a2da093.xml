@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LargeViz"
+    id="4d973ffe-554f-42c3-8a1c-a5203a2da093"
+    documentation="LargeViz: a C++ tool released under the Apache 2.0 License to visualize large-scale and high-dimensional data. It supports visualizing both high-dimensional feature vectors and networks.&#xA;at https://github.com/lferry007/LargeVis"/>

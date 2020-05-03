@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deep Graph Library"
+    id="64d3dd04-4a67-420f-b3d7-3b0504789002"
+    documentation="Deep Graph Library: a Python package built for implementation of graph neural network model family, on top of existing DL frameworks.&#xA;"/>

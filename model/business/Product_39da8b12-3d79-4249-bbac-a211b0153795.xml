@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Graph Tool"
+    id="39da8b12-3d79-4249-bbac-a211b0153795"
+    documentation="Graph Tool: a Python module for manipulation and statistical analysis of graphs. The core data structures and algorithms are implemented in C++.&#xA;at https://graph-tool.skewed.de"/>

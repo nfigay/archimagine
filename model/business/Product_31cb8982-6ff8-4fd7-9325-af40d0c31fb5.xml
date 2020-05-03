@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetJSON"
+    id="31cb8982-6ff8-4fd7-9325-af40d0c31fb5"
+    documentation="NetJSON: a JavaScript tool, released under BSD License, to leverage D3.js to visualize network topology using the NetJSON NetworkGraph format.&#xA;at https://github.com/openwisp/netjsongraph.js"/>

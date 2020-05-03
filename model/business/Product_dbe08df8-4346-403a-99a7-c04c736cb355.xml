@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NeovisJs"
+    id="dbe08df8-4346-403a-99a7-c04c736cb355"
+    documentation="NeovisJs: a JavaScript graph library combining Neo4j and vis.js to produce graph visualizations in the browser with data from Neo4j. It can connect to Neo4j instance, specify labels and property to be displayed, specify Cypher query to populate.&#xA;&#xA;at https://github.com/neo4j-contrib/neovis.js/"/>

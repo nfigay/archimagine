@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Graphosaurus"
+    id="6b3cec7f-bada-4449-aa6d-34c4c54c307b"
+    documentation="Graphosaurus: a three-dimensional JavaScript static graph viewer powered by WebGL (three.js) released under the MPL License.&#xA;https://github.com/frewsxcv/graphosaurus"/>

@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Graph Stream"
+    id="34c75048-7246-4ea5-9ec3-6148d524035a"
+    documentation="Graph Stream: a Java library for the modeling and analysis of dynamic graphs. You can generate, import, export, measure, layout and visualize them.&#xA;at http://graphstream-project.org"/>

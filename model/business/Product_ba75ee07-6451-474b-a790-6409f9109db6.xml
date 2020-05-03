@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GraphGL"
+    id="ba75ee07-6451-474b-a790-6409f9109db6"
+    documentation="GraphGL: a JavaScript network visualization library released under the MIT License. It is designed for rendering large graphs in web browsers and dynamic graph exploration. It is suitable for static files (exported GraphML/GEXF files converted to JSON) and for dynamic files.&#xA;https://graph.gl/gatsby/"/>

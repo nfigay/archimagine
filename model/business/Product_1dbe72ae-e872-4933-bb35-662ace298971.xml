@@ -1,5 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MUX Viz"
+    name="MUXViz"
     id="1dbe72ae-e872-4933-bb35-662ace298971"
-    documentation="MUX Viz: a framework for network multi-layer analysis and interactive visualization. MuxViz is based on R and GNU Octave, running on Windows, Linux and Mac OS X.&#xA;at http://muxviz.net/&#xA;Installed with Docker.&#xA;Some issue with visualization of graphs.&#xA;Data analytics oriented so requires mathematics background"/>
+    documentation="MUXViz: a framework for network multi-layer analysis and interactive visualization. MuxViz is based on R and GNU Octave, running on Windows, Linux and Mac OS X.&#xA;&#xA;a framework for the analysis and visualization of interconnected multilayer networks. It is released under the GNU General Public License v3.0.&#xA;&#xA;at http://muxviz.net/&#xA;Installed with Docker.&#xA;Some issue with visualization of graphs.&#xA;Data analytics oriented so requires mathematics background"/>

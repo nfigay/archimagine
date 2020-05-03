@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Alchemy.js"
-    id="d85671e9-81aa-40fa-bfc4-a7be6e4e0845"/>
+    id="d85671e9-81aa-40fa-bfc4-a7be6e4e0845"
+    documentation="Alchemy.js: a JavaScript graph drawing application built in D3 to get started with graph visualization applications. Most customization of the application takes place by overriding default configurations, rather than direct implementation via JavaScript.&#xA;at http://graphalchemist.github.io/Alchemy/#/"/>

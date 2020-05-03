@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AfterGlow"
+    id="9e21e161-2285-45b7-9f98-348bac89a405"
+    documentation="AfterGlow: a script written in Perl that assists with the visualization of log data. It reads CSV files and converts them into a graph. The latest version of AfterGlow 1.6.5 was released on 07/08/13."/>

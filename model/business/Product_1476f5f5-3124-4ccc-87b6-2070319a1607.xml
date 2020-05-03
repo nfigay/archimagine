@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quickgraph"
+    id="1476f5f5-3124-4ccc-87b6-2070319a1607"
+    documentation="Quickgraph: a C# open source tool providing generic directed/undirected graph data structures and algorithms for .NET. QuickGraph supports MSAGL, GLEE, and Graphviz to render the graphs, serialization to GraphML.&#xA;at https://archive.codeplex.com/?p=&#xA;Looks not under development anymore"/>

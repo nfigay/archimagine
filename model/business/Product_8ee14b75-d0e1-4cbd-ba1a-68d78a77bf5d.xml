@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="multiNetX"
+    id="8ee14b75-d0e1-4cbd-ba1a-68d78a77bf5d"
+    documentation="multiNetX: a python package, released under the GNU Public License, for the manipulation and visualization of multilayer networks.&#xA;at https://github.com/nkoub/multinetx"/>

@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OGDF"
+    id="df448c1f-289d-401a-9320-d3e1608f3e96"
+    documentation="OGDF: a self-contained C++ class library for the automatic layout of diagrams. OGDF offers algorithms and data structures to use within your own applications or scientific projects. The library is available under the GNU General Public License."/>

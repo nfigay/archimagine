@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbor.JS"
+    id="6d1f05b5-5186-4349-bdae-0ab462a3bb3f"
+    documentation="Arbor.JS: a JavaScript graph visualization library released under MIT license using web workers and jQuery. It provides a force-directed layout algorithm plus abstractions for graph organization and screen refresh handling. You can use it with canvas, SVG, or positioned HTML elements. Last updated in 2012.&#xA;at http://arborjs.org"/>

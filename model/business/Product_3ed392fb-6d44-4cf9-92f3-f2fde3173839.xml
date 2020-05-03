@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GGraph"
+    id="3ed392fb-6d44-4cf9-92f3-f2fde3173839"
+    documentation="GGraph: a graph visualization library for big data released under the Apache 2.0 License. It’s built on top D3 and extends the notion of nodes and links with groups of nodes.&#xA;at https://github.com/pcbje/ggraph"/>

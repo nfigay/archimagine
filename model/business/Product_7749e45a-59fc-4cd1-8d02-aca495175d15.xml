@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tulip"
+    id="7749e45a-59fc-4cd1-8d02-aca495175d15"
+    documentation="Tulip: an information visualization framework dedicated to the analysis and visualization of relational data. Written in C++ the framework enables the development of algorithms, visual encodings, interaction techniques, data models, and domain-specific visualizations.&#xA;at https://tulip.labri.fr/TulipDrupal/?q=node/2155&#xA;Run on Mac.&#xA;Develop by CNRS"/>

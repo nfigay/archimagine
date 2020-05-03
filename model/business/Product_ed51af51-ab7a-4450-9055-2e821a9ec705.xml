@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ipysigma"
+    id="ed51af51-ab7a-4450-9055-2e821a9ec705"
+    documentation="ipysigma: a custom Jupyter widget library to display graphs using sigma.js, released under the Apache 2.0 License.&#xA;at https://pypi.org/project/ipysigma/"/>

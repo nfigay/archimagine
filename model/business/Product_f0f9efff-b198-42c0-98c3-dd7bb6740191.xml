@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="vis.js"
-    id="f0f9efff-b198-42c0-98c3-dd7bb6740191"/>
+    id="f0f9efff-b198-42c0-98c3-dd7bb6740191"
+    documentation="Vis.JS: is a JavaScript browser-based visualization library released under the Apache 2.0 License. The library enables manipulation of and interaction with large amounts of dynamic data.&#xA;at https://visjs.org"/>

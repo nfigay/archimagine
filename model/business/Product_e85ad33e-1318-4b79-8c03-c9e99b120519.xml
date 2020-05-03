@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="visNetwork"
+    id="e85ad33e-1318-4b79-8c03-c9e99b120519"
+    documentation="visNetwork: VisNetwork is a Proprietary R package, using vis.js library for network visualization."/>

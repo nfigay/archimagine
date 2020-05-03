@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dagre-D3"
+    id="7128b75a-4e1e-4e01-b26e-116c4eb9d3d2"
+    documentation="Dagre-D3: a JavaScript library released under the MIT License to lay out directed graphs on the client-side. The Dagre-D3 library acts as a front-end to Dagre, providing actual rendering using D3.&#xA;At https://github.com/dagrejs/dagre-d3"/>

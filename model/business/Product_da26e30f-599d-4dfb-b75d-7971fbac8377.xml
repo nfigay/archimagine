@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ccNetViz"
+    id="da26e30f-599d-4dfb-b75d-7971fbac8377"
+    documentation="ccNetViz: a lightweight JavaScript library for large network graphs visualization using WebGL. It is an open source library available under GPLv3 License developed in the Helikar Lab.&#xA;at https://helikarlab.github.io/ccNetViz/&#xA;Looks great. Force layout graphs, but without dynamic attraction visualization as vis.js&#xA;Animations is an interesting feature to assess.&#xA;How to include icons or images? Seems also missing."/>

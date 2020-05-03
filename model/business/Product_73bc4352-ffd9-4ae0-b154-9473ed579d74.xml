@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GDToolkit"
+    id="73bc4352-ffd9-4ae0-b154-9473ed579d74"
+    documentation="GDToolkit (GDT): a C++ Graph Drawing Toolkit designed to manipulate several types of graph, and to automatically draw them according to many different aesthetic criteria and constraints.&#xA;Last version in 2008&#xA;at http://www.dia.uniroma3.it/~gdt/gdt4/index.php"/>

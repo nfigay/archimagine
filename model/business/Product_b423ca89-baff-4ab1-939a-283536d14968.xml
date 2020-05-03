@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="H3viewer"
+    id="b423ca89-baff-4ab1-939a-283536d14968"
+    documentation="H3Viewer: a JavaScript library providing layout and navigation of node-link graphs in 3D hyperbolic space. The library handles graphs up to 300,000 edges.&#xA;at https://graphics.stanford.edu/~munzner/h3/"/>
