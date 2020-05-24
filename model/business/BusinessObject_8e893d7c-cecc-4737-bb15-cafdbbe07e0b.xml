@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentation"
+    id="8e893d7c-cecc-4737-bb15-cafdbbe07e0b"
+    documentation="A user guide, a tutorial and programming API documentation. Cf.  http://tinkerpop.apache.org/docs/current/&#xA;Cf. http://tinkerpop.apache.org/docs/current/reference/"/>

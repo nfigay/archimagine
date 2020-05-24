@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gremlin-ogm"
+    id="eb3df7ed-8a48-4e03-a828-b343c8128b5f"
+    documentation="https://github.com/karthicks/gremlin-ogm&#xA;The gremlin-objects module defines a library that puts an object-oriented spin on the gremlin property graph. It aims to make it much easier to specify business domain specific languages around Gremlin, without any loss of expressive power. While it targets the Gremlin-Java variant, the concept itself is language-independent.&#xA;&#xA;"/>

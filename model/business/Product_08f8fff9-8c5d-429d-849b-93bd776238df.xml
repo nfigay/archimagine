@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gremlinpy"
+    id="08f8fff9-8c5d-429d-849b-93bd776238df"
+    documentation="https://github.com/emehrkay/gremlinpy&#xA;Gremlinpy is a small library that allows you to write pure Python and output GremlinGroovy script complete with bound parameters that can be run against a Tinkerpop 3 Gremlin server instance. It is meant to be a low-level way for your application to communicate its intent with the graph server. The best way to think of Gremlinpy is as a very flexible query builder that doesn't limit what can be expressed with Python for GremlinGroovy."/>

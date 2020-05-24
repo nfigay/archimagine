@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gremlin Scala"
+    id="386061df-09d1-4ae7-803b-6243ce7bf223"
+    documentation="A wrapper to use Apache Tinkerpop3 - a JVM graph traversal library - from Scala.&#xA;&#xA;Beautiful DSL to create vertices and edges&#xA;Type safe traversals&#xA;Scala friendly function signatures&#xA;Minimal runtime overhead - only allocates additional instances if absolutely necessary&#xA;Nothing is hidden away, you can always easily access the underlying Gremlin-Java objects if needed, e.g. to access graph db specifics things like indexes"/>

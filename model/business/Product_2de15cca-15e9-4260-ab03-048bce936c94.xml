@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL Gremlin"
+    id="2de15cca-15e9-4260-ab03-048bce936c94"
+    documentation="https://github.com/twilmes/sql-gremlin&#xA;Many projects face the inevitable reporting/business intelligence requirement. This has motivated the creation of the SQL-Gremlin compiler. A JDBC driver building upon the excellent Apache Calcite Avatica framework will be released shortly. This will enable graph connectivity with a large number of off the shelf reporting solutions that support ANSI SQL via JDBC."/>

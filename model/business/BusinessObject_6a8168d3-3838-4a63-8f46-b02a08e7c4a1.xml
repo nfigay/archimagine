@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gremlin Server"
+    id="6a8168d3-3838-4a63-8f46-b02a08e7c4a1"
+    documentation="Allows hosting of graphs remotely via an HTTP/Web Sockets connection.&#xA;Cf. http://tinkerpop.apache.org/docs/current/reference/#gremlin-server"/>

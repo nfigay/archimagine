@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gremlin-template-string"
+    id="22ae49c4-b83e-4039-afdd-bc7fb4ba960b"
+    documentation="https://github.com/jbmusso/gremlin-template-string&#xA;Generate Gremlin scripts with bound parameters using ES6 template strings.&#xA;&#xA;Gremlin is a graph database query language used by the Apache TinkerPop framework."/>

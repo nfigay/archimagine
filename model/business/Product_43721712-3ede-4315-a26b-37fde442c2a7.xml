@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HGraphDB"
+    id="43721712-3ede-4315-a26b-37fde442c2a7"
+    documentation="https://github.com/rayokota/hgraphdb&#xA;HGraphDB is a client layer for using HBase as a graph database. It is an implementation of the Apache TinkerPop 3 interfaces."/>

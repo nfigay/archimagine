@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gremlin ORM"
+    id="6d221116-2553-4d51-89c7-0646e855fc17"
+    documentation="https://github.com/gremlin-orm/gremlin-orm&#xA;gremlin-orm is an ORM for graph databases in Node.js. Currently working on Neo4j and Microsoft Azure Cosmos DB with more to come in the future."/>

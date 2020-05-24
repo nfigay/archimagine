@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Greskell"
+    id="6c7bc478-445d-4d4b-b524-c1f9d0130315"
+    documentation="https://github.com/debug-ito/greskell&#xA;greskell is a toolset to build and execute Gremlin graph query language in Haskell."/>

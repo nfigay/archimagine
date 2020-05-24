@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chronograph"
+    id="421c476e-267c-451b-a334-7df231f3f676"
+    documentation="https://github.com/MartinHaeusler/chronos/tree/master/org.chronos.chronograph&#xA;ChronoGraph is one of the major components of Chronos. It is a versioned graph database and an official implementation of the Apache TinkerPop AP. As with all Chronos Components, ChronoGraph is written in 100% pure Java and should run in any environment supported by JRE 1.8 or later."/>

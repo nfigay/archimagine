@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apache S2Graph "
+    id="1d82db39-2f08-4f32-8716-3324b7583974"
+    documentation="OLTP graph database running on Apache HBase."/>

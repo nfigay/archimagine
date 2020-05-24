@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sparql-Gremlin"
+    id="d39122c5-b659-4cdf-a6d1-94840c476b81"
+    documentation="https://tinkerpop.apache.org/docs/current/reference/#sparql-gremlin&#xA;&#xA;The SPARQL-Gremlin compiler, transforms SPARQL queries into Gremlin traversals. It uses the Apache Jena SPARQL processor ARQ, which provides access to a syntax tree of a SPARQL query.&#xA;&#xA;The goal of this work is to bridge the query interoperability gap between the two famous, yet fairly disconnected, graph communities: Semantic Web (which relies on the RDF data model) and Graph database (which relies on property graph data model)."/>

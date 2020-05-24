@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tinkerpop Programming Interface Realization"
+    id="c79e2b21-d9f5-46b5-b7a2-1f642bfa3787"
+    documentation="Spark-Gremlin provides an implementation of the bulk-synchronous parallel, distributed message passing algorithm within Spark and thus, any VertexProgram can be executed over SparkGraphComputer.&#xA;&#xA;https://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer&#xA;Furthermore the lib/ directory should be distributed across all machines in the SparkServer cluster. For this purpose TinkerPop provides a helper script, which takes the Spark installation directory and the Spark machines as input:"/>

@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gremlin-rs"
+    id="c3be1907-ae12-4ae0-a143-56540f061152"
+    documentation="https://github.com/wolf4ood/gremlin-rs&#xA;A Rust client for Apache TinkerPop™."/>

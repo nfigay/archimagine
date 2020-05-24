@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TinkerGraph"
+    id="66ec4ce8-6c83-45b4-a92e-dd2bff0cff53"
+    documentation="In-memory OLTP and OLAP reference implementation.&#xA;A small in-memory graph implementation that is great for learning.&#xA;Cf. http://tinkerpop.apache.org/docs/current/reference/#tinkergraph-gremlin"/>

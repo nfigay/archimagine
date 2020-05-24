@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gremlin-Python"
+    id="0b1a7c12-a0e6-425a-856f-ced0bc9b871d"
+    documentation="https://tinkerpop.apache.org/docs/current/reference/#gremlin-python&#xA;Apache TinkerPop’s Gremlin-Python implements Gremlin within the Python language and can be used on any Python virtual machine including the popular CPython machine. Python’s syntax has the same constructs as Java including &quot;dot notation&quot; for function chaining (a.b.c), round bracket function arguments (a(b,c)), and support for global namespaces (a(b()) vs a(__.b())). As such, anyone familiar with Gremlin-Java will immediately be able to work with Gremlin-Python. Moreover, there are a few added constructs to Gremlin-Python that make traversals a bit more succinct."/>

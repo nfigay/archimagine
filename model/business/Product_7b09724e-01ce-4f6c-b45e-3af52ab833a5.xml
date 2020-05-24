@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spring Data Gremlin"
+    id="7b09724e-01ce-4f6c-b45e-3af52ab833a5"
+    documentation="https://github.com/Microsoft/spring-data-gremlin&#xA;&#xA;Spring Data Gremlin provides initial Spring Data support for those databases using Gremlin query language. With annotation oriented programming model, it simplified the mapping to the database entity. It also provides supports for basic and custom query.&#xA;&#xA;This project works with any Gremlin-compatible data store, and also with Azure Cosmos DB. Cosmos is a globally-distributed database service that allows developers to work with data using a variety of standard APIs, such as Graph, MongoDB, and SQL. Spring Data Gremlin provides a delightful experience to interact with Azure Cosmos DB Graph API."/>

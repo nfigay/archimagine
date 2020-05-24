@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Useful Recipes"
+    id="78690b8f-c46b-4e5a-aaa5-e533e46e6a8e"
+    documentation="A set of examples or &quot;recipes&quot; showing how to perform common graph oriented tasks using Gremlin queries.&#xA;Cf. http://tinkerpop.apache.org/docs/current/recipes/"/>

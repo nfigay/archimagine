@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ferma"
+    id="03701069-2c40-4bec-abb0-41349fd9ebf0"
+    documentation="http://syncleus.com/Ferma/&#xA;Today Ferma is a robust framework that takes on a role similar to an Object-relational Model (ORM) library for traditional databases. Ferma is often referred to as a Object-graph Model (OGM) library, and maps Java objects to elements in a graph such as a Vertex or an Edges. In short it allows a schema to be defined using java interfaces and classes which provides a level of abstraction for interacting with the underlying graph."/>

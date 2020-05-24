@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Peapod"
+    id="5a268ebe-e7dc-4e8c-a017-901e30439492"
+    documentation="http://bayofmany.github.io&#xA;Peapod maps your TinkerPop 3 graph onto a rich Java domain model. Peapod is developed as an alternative to Frames in TinkerPop 2.&#xA;&#xA;Disclaimer: version latest is still an experimental release using Apache Tinkerpop 3.1.1-incubating.&#xA;&#xA;You start by specifying your graph structure through abstract classes, enriched with Peapod annotations. Peapod will then generate at compile-time all the necessary implementation classes, attempting to reduce boilerplate code for basic graph access and traversals.&#xA;&#xA;"/>
