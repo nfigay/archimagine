@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gremlin Console"
     id="23b2aa85-6172-4428-9091-a715a53f45ba"
-    documentation="An interactive shell for working with local or remote graphs.&#xA;Cf. http://tinkerpop.apache.org/docs/current/reference/#gremlin-console"/>
+    documentation="An interactive shell for working with local or remote graphs.&#xA;Cf. http://tinkerpop.apache.org/docs/current/reference/#gremlin-console">
+  <properties
+      key="PLMInterop.Graph.Tinkerpop.Stereotype"
+      value="Tinkerpop Programming Interface Realization"/>
+</archimate:BusinessObject>

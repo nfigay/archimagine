@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Unipop"
     id="8812a435-d678-483c-96ed-1a9e96060131"
-    documentation="https://github.com/unipop-graph/unipop&#xA;Unipop is a data Federation and Virtualization engine that models your data as a &quot;virtual&quot; graph, exposing a querying API using the Gremlin GQL (Sql and SPARQL are also available.)&#xA;&#xA;"/>
+    documentation="https://github.com/unipop-graph/unipop&#xA;Unipop is a data Federation and Virtualization engine that models your data as a &quot;virtual&quot; graph, exposing a querying API using the Gremlin GQL (Sql and SPARQL are also available.)&#xA;&#xA;">
+  <properties
+      key="PLMInterop.Graph.Tinkerpop.Stereotype"
+      value="Tinkerpop Programming Interface Realization"/>
+</archimate:Product>

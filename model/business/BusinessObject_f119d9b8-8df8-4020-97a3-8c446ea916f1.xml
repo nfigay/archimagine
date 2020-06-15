@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Haskell"
-    id="f119d9b8-8df8-4020-97a3-8c446ea916f1"/>
+    id="f119d9b8-8df8-4020-97a3-8c446ea916f1">
+  <properties
+      key="BO.stereotype"
+      value="Software Language"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Java"
-    id="d828dfa1-caac-447f-b5f2-3b4d978ffac6"/>
+    id="d828dfa1-caac-447f-b5f2-3b4d978ffac6">
+  <properties
+      key="BO.stereotype"
+      value="Software Language"/>
+</archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sqlg"
     id="b78b31a4-8110-41da-8c81-e50c9adf377b"
-    documentation="OLTP implementation on SQL databases.&#xA;https://github.com/pietermartin/sqlg&#xA;Sqlg is a implementation of Tinkerpop3 on a RDBMS. Currently H2, HSQLDB, Postgresql, MariaDB, MySql and MSSqlServer are supported."/>
+    documentation="OLTP implementation on SQL databases.&#xA;https://github.com/pietermartin/sqlg&#xA;Sqlg is a implementation of Tinkerpop3 on a RDBMS. Currently H2, HSQLDB, Postgresql, MariaDB, MySql and MSSqlServer are supported.">
+  <properties
+      key="PLMInterop.Graph.Tinkerpop.Stereotype"
+      value="Tinkerpop Programming Interface Realization"/>
+</archimate:Product>

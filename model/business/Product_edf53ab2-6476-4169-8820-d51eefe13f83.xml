@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Huawey Graph Engine Service"
     id="edf53ab2-6476-4169-8820-d51eefe13f83"
-    documentation="https://www.huaweicloud.com/en-us/product/ges.html&#xA;Graph Engine Service (GES) facilitates querying and analysis of graph-structure data based on various relationships. It is specifically suited for scenarios requiring analysis of rich relationship data, including social relationship analysis, recommendations, precision marketing, public opinions and social listening, information communication, and anti-fraud.&#xA; Flexible configuration options, pay in advance to get higher discounts"/>
+    documentation="https://www.huaweicloud.com/en-us/product/ges.html&#xA;Graph Engine Service (GES) facilitates querying and analysis of graph-structure data based on various relationships. It is specifically suited for scenarios requiring analysis of rich relationship data, including social relationship analysis, recommendations, precision marketing, public opinions and social listening, information communication, and anti-fraud.&#xA; Flexible configuration options, pay in advance to get higher discounts">
+  <properties
+      key="PLMInterop.Graph.Tinkerpop.Stereotype"
+      value="Tinkerpop Programming Interface Realization"/>
+</archimate:Product>

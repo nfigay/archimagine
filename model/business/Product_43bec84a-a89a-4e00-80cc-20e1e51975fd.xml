@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IBM Graph Database Service"
     id="43bec84a-a89a-4e00-80cc-20e1e51975fd"
-    documentation="https://cloud.ibm.com/catalog#services&#xA;OLTP graph database as a service."/>
+    documentation="https://cloud.ibm.com/catalog#services&#xA;OLTP graph database as a service.">
+  <properties
+      key="PLMInterop.Graph.Tinkerpop.Stereotype"
+      value="Tinkerpop Programming Interface Realization"/>
+</archimate:Product>

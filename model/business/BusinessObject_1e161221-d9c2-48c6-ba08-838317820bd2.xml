@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Javascript"
-    id="1e161221-d9c2-48c6-ba08-838317820bd2"/>
+    id="1e161221-d9c2-48c6-ba08-838317820bd2">
+  <properties
+      key="BO.stereotype"
+      value="Software Language"/>
+</archimate:BusinessObject>

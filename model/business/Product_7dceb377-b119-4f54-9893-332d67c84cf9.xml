@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stardog"
     id="7dceb377-b119-4f54-9893-332d67c84cf9"
-    documentation="https://www.stardog.com/&#xD;&#xA;Stardog™ is a graph database optimized for enterprise data unification. It supports both semantic graphs, via RDF, SPARQL, and OWL, as well as property graphs via Apache TinkerPop and Gremlin--it's the only graph database that supports both models over the same database, simultaneously. Stardog also supports hybrid data unification architectures, seamlessly blending data warehouse, system of record, and virtual query strategies. Stardog is suited for enterprise data silo challenges. "/>
+    documentation="https://www.stardog.com/&#xD;&#xA;Stardog™ is a graph database optimized for enterprise data unification. It supports both semantic graphs, via RDF, SPARQL, and OWL, as well as property graphs via Apache TinkerPop and Gremlin--it's the only graph database that supports both models over the same database, simultaneously. Stardog also supports hybrid data unification architectures, seamlessly blending data warehouse, system of record, and virtual query strategies. Stardog is suited for enterprise data silo challenges. ">
+  <properties
+      key="PLMInterop.Graph.Tinkerpop.Stereotype"
+      value="Tinkerpop Programming Interface Realization"/>
+</archimate:Product>

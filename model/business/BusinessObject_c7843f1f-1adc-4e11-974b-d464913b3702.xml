@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Python"
-    id="c7843f1f-1adc-4e11-974b-d464913b3702"/>
+    id="c7843f1f-1adc-4e11-974b-d464913b3702">
+  <properties
+      key="BO.stereotype"
+      value="Software Language"/>
+</archimate:BusinessObject>

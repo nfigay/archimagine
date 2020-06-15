@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bitsy"
     id="ee4d3c4d-d68a-4352-8678-c6c61a741d99"
-    documentation="https://github.com/lambdazen/bitsy/wiki&#xA;&#xA;Bitsy is a small, fast, embeddable, durable in-memory graph database that implements Apache Tinkerpop: &#xA;&#xA;Support for Apache Tinkerpop aka Tinkerpop3&#xA;ACID guarantees on transactions&#xA;Designed for multi-threaded OLTP applications&#xA;Implements optimistic concurrency control&#xA;Data stored in readable text files&#xA;Serialization using the Jackson JSON processor&#xA;Recovers cleanly from power failures and crashes provided the underlying file system supports metadata journaling, like NTFS, ext3, ext4, XFS and JFS (not FAT32 or ext2)&#xA;High read and write throughputs in multi-threaded environments&#xA;Supports online backups through a JMX interface"/>
+    documentation="https://github.com/lambdazen/bitsy/wiki&#xA;&#xA;Bitsy is a small, fast, embeddable, durable in-memory graph database that implements Apache Tinkerpop: &#xA;&#xA;Support for Apache Tinkerpop aka Tinkerpop3&#xA;ACID guarantees on transactions&#xA;Designed for multi-threaded OLTP applications&#xA;Implements optimistic concurrency control&#xA;Data stored in readable text files&#xA;Serialization using the Jackson JSON processor&#xA;Recovers cleanly from power failures and crashes provided the underlying file system supports metadata journaling, like NTFS, ext3, ext4, XFS and JFS (not FAT32 or ext2)&#xA;High read and write throughputs in multi-threaded environments&#xA;Supports online backups through a JMX interface">
+  <properties
+      key="PLMInterop.Graph.Tinkerpop.Stereotype"
+      value="Tinkerpop Programming Interface Realization"/>
+</archimate:Product>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scala"
-    id="2b9cd9a5-0585-4cc9-8ce9-5b73b172cba6"/>
+    id="2b9cd9a5-0585-4cc9-8ce9-5b73b172cba6">
+  <properties
+      key="BO.stereotype"
+      value="Software Language"/>
+</archimate:BusinessObject>

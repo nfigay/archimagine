@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Blazegraph"
-    id="5266bbb6-5244-4a93-a5a0-5b7dd6a2777b"/>
+    id="5266bbb6-5244-4a93-a5a0-5b7dd6a2777b">
+  <properties
+      key="PLMInterop.Graph.Tinkerpop.Stereotype"
+      value="Tinkerpop Programming Interface Realization"/>
+</archimate:Product>

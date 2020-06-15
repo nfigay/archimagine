@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ogre"
     id="7c7b3635-fd1c-4cf2-988b-f98f1da499b3"
-    documentation="http://ogre.clojurewerkz.org/&#xD;&#xA;Ogre is a Gremlin language variant for Clojure. It provides an API that enhances the expressivity of Gremlin within Clojure, it doesn't introduce any significant amount of performance overhead, and it can work with any TinkerPop-enabled graph database or analytic "/>
+    documentation="http://ogre.clojurewerkz.org/&#xD;&#xA;Ogre is a Gremlin language variant for Clojure. It provides an API that enhances the expressivity of Gremlin within Clojure, it doesn't introduce any significant amount of performance overhead, and it can work with any TinkerPop-enabled graph database or analytic ">
+  <properties
+      key="BO.stereotype"
+      value="Software Language"/>
+</archimate:BusinessObject>

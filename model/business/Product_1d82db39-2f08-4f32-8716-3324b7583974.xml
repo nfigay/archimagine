@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Apache S2Graph "
     id="1d82db39-2f08-4f32-8716-3324b7583974"
-    documentation="OLTP graph database running on Apache HBase."/>
+    documentation="OLTP graph database running on Apache HBase.">
+  <properties
+      key="PLMInterop.Graph.Tinkerpop.Stereotype"
+      value="Tinkerpop Programming Interface Realization"/>
+</archimate:Product>

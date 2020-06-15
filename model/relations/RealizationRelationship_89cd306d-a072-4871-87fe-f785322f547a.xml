@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realize"
     id="89cd306d-a072-4871-87fe-f785322f547a">
   <source
       xsi:type="archimate:Grouping"

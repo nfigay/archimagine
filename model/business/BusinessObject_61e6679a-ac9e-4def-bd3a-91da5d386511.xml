@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rust"
-    id="61e6679a-ac9e-4def-bd3a-91da5d386511"/>
+    id="61e6679a-ac9e-4def-bd3a-91da5d386511">
+  <properties
+      key="BO.stereotype"
+      value="Software Language"/>
+</archimate:BusinessObject>

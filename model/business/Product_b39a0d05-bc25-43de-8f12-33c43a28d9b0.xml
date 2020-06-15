@@ -5,6 +5,7 @@
     documentation="https://neo4j.com/&#xD;&#xA;Neo4j™ is the most widely used open source, transactional graph database with a large active user and customer community. Because of its scalability and ease of use, Neo4j is applied in a wide variety of use cases from fraud detection, access control to recommendation and investigative journalism. Along with the openCypher graph query language, Neo4j also supports Apache TinkerPop and currently serves as its OLTP reference implementation. ">
   <properties
       key="Editor"/>
+  <properties/>
   <properties
       key="Version"/>
   <properties
@@ -29,4 +30,7 @@
       key="supportsOpenCypher"/>
   <properties
       key="supportsGraphQL"/>
+  <properties
+      key="PLMInterop.Graph.Tinkerpop.Stereotype"
+      value="Tinkerpop Programming Interface Realization"/>
 </archimate:Product>
