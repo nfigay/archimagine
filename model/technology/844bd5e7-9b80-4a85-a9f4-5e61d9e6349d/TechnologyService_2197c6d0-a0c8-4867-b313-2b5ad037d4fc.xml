@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureMicrosoftSQLServer"
+    id="2197c6d0-a0c8-4867-b313-2b5ad037d4fc"
+    documentation="https://azure.microsoft.com/en-us/services/virtual-machines/sql-server/&#xA;SQL Server on Virtual Machines&#xA;Migrate SQL Server workloads to the cloud at the lowest TCO1&#xA;Industry-leading performance and manageability for your cloud database2&#xA;Get the combined performance, security, and analytics of SQL Server, backed by the flexibility, security, and hybrid connectivity of Azure. Access the latest SQL Server updates and releases, including SQL Server 2019.  Migrate existing apps or build new apps on Azure - the best cloud destination for your mission-critical SQL Server workloads.&#xA;&#xA;Best TCO with Azure Hybrid Benefit1&#xA;Save up to five times as compared with Amazon Web Services when migrating SQL Server databases with Azure Hybrid Benefit, and get free extended support for SQL Server 2008 R2 images in Azure IaaS1. Activate Azure Hybrid Benefit when you provision SQL Server on Azure Virtual Machines images from the Azure Marketplace.&#xA;&#xA;Learn more about Azure Hybrid Benefit&#xA;Explore cost savings with IaaS migration&#xA;&#xA;High-performance VMs for SQL Server on Linux and Windows&#xA;Take advantage of high-performing SQL Server VMs with industry-leading performance2. Choose from images with Windows Server, Red Hat Enterprise Linux, SUSE Enterprise Linux Server, or Ubuntu Linux. Gain co-located, integrated support for your SQL workloads with Red Hat and SUSE.">
+  <properties
+      key="icon"
+      value="/Databases/SQLServerCloud.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

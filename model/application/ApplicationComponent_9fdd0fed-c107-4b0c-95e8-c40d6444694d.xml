@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AksApp"
+    id="9fdd0fed-c107-4b0c-95e8-c40d6444694d">
+  <properties
+      key="name"
+      value="AksApp"/>
+</archimate:ApplicationComponent>

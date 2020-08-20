@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="my Control Objective"
+    id="4f41d5c4-0827-4220-be3a-06979e355a19">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Control Objective"/>
+</archimate:Goal>

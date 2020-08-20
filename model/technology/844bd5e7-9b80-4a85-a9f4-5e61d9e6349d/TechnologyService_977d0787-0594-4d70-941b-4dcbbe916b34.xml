@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureVirtualWAN"
+    id="977d0787-0594-4d70-941b-4dcbbe916b34"
+    documentation="https://azure.microsoft.com/en-us/services/virtual-wan/&#xA;&#xA;Massive scale with software-defined connectivity&#xA;Connect your global branch offices, point-of-sale locations, and sites using Azure and the Microsoft global network. Plan, configure, and seamlessly deploy new connections, tuned for a growing ecosystem of market-leading partners, OpenVPN clients and Azure ExpressRoute connections.&#xA;One place for managing your network&#xA;Deploy, manage and monitor your sites and connected Azure virtual networks through a unified portal experience.&#xA;Optimize security and agility with our global network&#xA;Experience optimal routing and minimal latency for branch-to-branch and branch-to-Azure connectivity. When you connect your on-premises sites to Azure and your traffic enters the Microsoft network, it stays there while traversing the globe.">
+  <properties
+      key="icon"
+      value="/Networking/AzureVirtualWAN.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureQueueStorage"
+    id="97ca83c0-1e08-43be-9687-b8bdedfe96b4"
+    documentation="https://azure.microsoft.com/en-us/services/storage/queues/&#xA;&#xA;Queue Storage&#xA;Durable queues for large-volume cloud services&#xA;&#xA;Simple, cost-effective, durable message queueing for large workloads&#xA;Rich client libraries for .NET, Java, Android, C++, Node.js, PHP, Ruby, and Python&#xA;Data accessible via the REST API&#xA;&#xA;Decouple components&#xA;Use Azure Queue Storage to build flexible applications and separate functions for better durability across large workloads. When you design applications for scale, application components can be decoupled, so that they can scale independently. Queue storage gives you asynchronous message queueing for communication between application components, whether they are running in the cloud, on the desktop, on-premises, or on mobile devices&#xA;&#xA;Build in resilience&#xA;Queue Storage helps to make your application scalable and less sensitive to individual component failure. If part of your architecture goes down, messages are buffered, and then naturally picked up by other message processing nodes, which maintains the integrity of your workload&#xA;&#xA;Scale for bursts&#xA;Use Queue Storage to rightsize your service deployment. Applications absorb unexpected traffic bursts, which prevents servers from being overwhelmed by a sudden flood of requests. Monitor queue length to add elasticity to your application, and deploy or hibernate additional worker nodes based on customer demand">
+  <properties
+      key="icon"
+      value="/Storage/AzureQueueStorage.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

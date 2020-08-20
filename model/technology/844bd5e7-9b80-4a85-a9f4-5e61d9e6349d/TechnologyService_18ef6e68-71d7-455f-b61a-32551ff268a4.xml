@@ -1,0 +1,14 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureLogAnalytics"
+    id="18ef6e68-71d7-455f-b61a-32551ff268a4">
+  <properties
+      key="icon"
+      value="/Management/AzureLogAnalytics.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+  <properties
+      key="lifecycle.status"
+      value="deprecated"/>
+</archimate:TechnologyService>

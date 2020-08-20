@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apps Configuration"
+    id="63f4b0ba-0d43-4a89-b264-2375a0c10d59"
+    documentation="https://azure.microsoft.com/en-us/services/app-configuration/&#xA;Fast, scalable parameter storage for app configuration&#xA;Start free&#xA;Product overview&#xA;Features&#xA;Security&#xA;Pricing&#xA;Getting started&#xA;FAQs&#xA;Free account &#xA;Configure, store, and retrieve parameters and settings&#xA;Get hosted, universal storage for all of your Azure apps. Manage configurations effectively and reliably, in real time, without affecting customers by avoiding time-consuming redeployments. Azure App Configuration is built for speed, scalability, and security.&#xA;Universal, fully managed configuration store&#xA;Fast retrieval of configurations for any Azure application&#xA;Complete data encryption, at rest or in transit&#xA;Native integration with popular frameworks such as .NET and Java Spring&#xA;Respond in real time to changing demands&#xA;&#xA;Toggle specific features behind feature flags, and fix critical problems in real time. The flexibility provided by avoiding costly redeployments gives you more control when it matters the most.&#xA;&#xA;&#xA;Reduce configuration complexity across multiple environments&#xA;&#xA;Modern programs, especially those running in a cloud, have several distributed components. Spreading configuration settings across these components leads to hard-to-troubleshoot errors during application deployments. Using a universal configuration store for all your settings helps eliminate these errors.&#xA;Improve security by separating configuration from code&#xA;&#xA;Help secure your apps by keeping data separate from code. Storing configuration settings in a hosted environment helps keep data secure as long as you need.&#xA;">
+  <properties
+      key="icon"
+      value="/DeveloperTools/AzureAppConfiguration.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

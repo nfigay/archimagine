@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Userx"
+    id="fe5175bf-0799-4c1b-999c-2fbc6df42644">
+  <properties
+      key="stereotype"
+      value="PersonInOrganization"/>
+</archimate:BusinessActor>

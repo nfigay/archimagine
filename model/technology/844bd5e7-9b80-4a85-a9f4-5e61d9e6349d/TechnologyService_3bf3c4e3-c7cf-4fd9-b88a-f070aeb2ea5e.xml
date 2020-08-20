@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureAPIApps"
+    id="3bf3c4e3-c7cf-4fd9-b88a-f070aeb2ea5e"
+    documentation="https://azure.microsoft.com/en-us/services/app-service/api/&#xA;&#xA;Quickly build and consume APIs in the cloud using the language of your choice&#xA;Get security support for Azure Active Directory, single sign-on, and OAuth&#xA;&#xA;Bring in existing APIs written with .NET, PHP, Node.js, Java, or Python&#xA;&#xA;Consume APIs on any website with CORS support&#xA;Integrate with API Management, Logic Apps, and many other Azure services&#xA;&#xA;Use Swagger to generate cross-platform client SDKs in Visual Studio&#xA;&#xA;Continuous integration and deployment slots&#xA;Connect your favorite version control system to your API, and automatically deploy commits, which makes code changes easier than ever. Move your API to production, run tests against a copy of your app provided by deployment slots, and then redirect traffic to the new version without downtime.&#xA;&#xA;Simple authentication&#xA;&#xA;Your API is just a few clicks away from being highly-secured through Azure Active &#xA;&#xA;Directory, social network single sign-on, or OAuth. No code changes are required, and we keep the sign-on SDKs for your services up to date.&#xA;&#xA;On-premises connectivity&#xA;&#xA;Connect your API to your corporate or local network using on-premises connections with enterprise-grade security. Serve APIs to your intranet as if they were running locally, or connect them to existing internal network resources.&#xA;">
+  <properties
+      key="icon"
+      value="/Web/ApiApps.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

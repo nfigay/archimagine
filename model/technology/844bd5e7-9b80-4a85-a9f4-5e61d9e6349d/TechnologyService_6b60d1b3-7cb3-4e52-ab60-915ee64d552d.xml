@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MicrosoftAzurePortal"
+    id="6b60d1b3-7cb3-4e52-ab60-915ee64d552d"
+    documentation="https://azure.microsoft.com/en-us/features/azure-portal/&#xA;Microsoft Azure portal&#xA;Build, manage, and monitor everything from simple web apps to complex cloud applications in a single, unified console">
+  <properties
+      key="icon"
+      value="/Management/AzurePortal.jpg"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

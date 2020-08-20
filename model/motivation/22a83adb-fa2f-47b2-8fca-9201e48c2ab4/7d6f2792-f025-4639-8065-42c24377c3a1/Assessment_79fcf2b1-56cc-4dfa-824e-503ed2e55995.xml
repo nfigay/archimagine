@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Isolation failure"
+    id="79fcf2b1-56cc-4dfa-824e-503ed2e55995"
+    documentation="multi-tenancy and shared resources are defining characteristics of cloud computing. This risk category covers the failure of mechanisms separating storage, memory, routing and reputation between different tenants (e.g., so-called guest-hopping attacks). However it should be considered that attacks on resource isolation mechanisms (e.g.,. against hypervisors) are still less numerous and much more difficult for an attacker to put in practice compared to attacks on traditional OSs.">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Risk"/>
+</archimate:Assessment>

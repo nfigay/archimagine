@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Azure costs and usage"
+    id="627f6f51-a19d-4bf4-a35e-b8864201542b"
+    documentation="https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/&#xA;Azure Cost Management is a cost management solution that helps you monitor and control Azure spending and optimize resource use. Learn how to analyze costs, create and manage budgets, export data, and review and act on recommendations with our quickstarts and tutorials.&#xA;&#xA;"/>

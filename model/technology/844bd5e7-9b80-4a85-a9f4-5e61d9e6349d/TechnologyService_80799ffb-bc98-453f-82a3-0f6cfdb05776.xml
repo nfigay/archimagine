@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureBlueprints"
+    id="80799ffb-bc98-453f-82a3-0f6cfdb05776"
+    documentation="Templates for quick, repeatable creation of fully governed cloud subscriptions&#xA;Preview&#xA;&#xA;Easily create, deploy, and update compliant environments: Simplify largescale Azure deployments by packaging key environment artifacts, such as Azure Resource Manager templates, role-based access controls, and policies, in a single blueprint definition. Easily apply the blueprint to new subscriptions and environments, and fine-tune control and management through versioning.&#xA;&#xA;Streamline environment creation&#xA;Easily create your cloud governance templates, access controls, and policies as a single compliant package so environments are ready to be configured. Deploy blueprints to multiple subscriptions with a single click. Manage blueprints from a central location and track blueprint versions to push updates.&#xA;&#xA;Enable compliant development&#xA;Speed deployment of compliant applications to production through a self-service model, and easily deploy compliant environments matched to production standards. Use blank templates for custom blueprints or built-in blueprints for compliance with common internal scenarios and external regulations like ISO 27001.&#xA;&#xA;Lock foundational resources&#xA;Avoid unwanted changes and misconfigurations—even by subscription owners—that could affect multiple applications. With resource locking, you can limit access to key infrastructure that’s shared across subscriptions. Protect resources that the blueprint is governing and configure exceptions to match your specific needs.&#xA;&#xA;Create your landing zone for migrating to Azure&#xA;Accelerate migration by easily deploying a fully governed landing zone, without the need for external cloud architects or engagements. Reuse cloud-based blueprints for future environments or use built-in blueprints to set up ISO-compliant foundational architectures.">
+  <properties
+      key="icon"
+      value="/Management/AzureBlueprints.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

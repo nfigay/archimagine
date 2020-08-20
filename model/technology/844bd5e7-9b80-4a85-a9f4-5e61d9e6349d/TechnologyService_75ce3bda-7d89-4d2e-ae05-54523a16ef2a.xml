@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureArtifacts"
+    id="75ce3bda-7d89-4d2e-ae05-54523a16ef2a"
+    documentation="Create and share Maven, npm, NuGet, and Python package feeds from public and private sources&#xA;https://azure.microsoft.com/en-us/services/devops/artifacts/&#xA;&#xA;Create and share Maven, npm, NuGet, and Python package feeds from public and private sources&#xA;Add fully integrated package management to your continuous integration/continuous delivery (CI/CD) pipelines with a single click. Create and share Maven, npm, NuGet, and Python package feeds from public and private sources with teams of any size.&#xA;&#xA;Share code efficiently&#xA;Easily share code across small teams and large enterprises.&#xA;Manage all package types&#xA;Get universal artifact management for Maven, npm, NuGet, and Python.&#xA;Add packages to any pipeline&#xA;Share packages, and use built-in CI/CD, versioning, and testing.&#xA;&#xA;Share code efficiently&#xA;Easily share code across small teams and large enterprises.&#xA;Manage all package types&#xA;Get universal artifact management for Maven, npm, NuGet, and Python.&#xA;Add packages to any pipeline&#xA;Share packages, and use built-in CI/CD, versioning, and testing.">
+  <properties
+      key="icon"
+      value="/DevOps/AzureArtifacts.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

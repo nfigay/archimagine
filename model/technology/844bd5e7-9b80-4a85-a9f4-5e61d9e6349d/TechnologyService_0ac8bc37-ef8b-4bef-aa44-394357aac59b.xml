@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureActiveDirectoryB2C"
+    id="0ac8bc37-ef8b-4bef-aa44-394357aac59b"
+    documentation="Customize every pixel of your customer journey&#xA;&#xA;Manage customer, consumer, and citizen access to your business-to-consumer (B2C) applications. Connect with millions of users with the scalability and availability you need.&#xA;&#xA;High availability to scale to hundreds of millions of customers&#xA;&#xA;Strong authentication for your customers using their preferred identity provider&#xA;&#xA;Integration with apps and databases to capture sign-in and conversion data&#xA;&#xA;Protect your customers’ identities&#xA;Apply security controls and application- or policy-based multi-factor authentication to help protect your customers’ personal data.&#xA;Learn more about how Debeka uses Azure AD B2C to create a customized and secure identity management system for thousands of its insurance customers and members.&#xA;&#xA;Build your solution your way&#xA;Customize your brand, your HTML, and your CSS to maintain consistency for your customers at every step, from sign-up to in-app experiences.">
+  <properties
+      key="icon"
+      value="/Identity/AzureActiveDirectoryB2C.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KinectDK"
+    id="a60253b9-0dfd-4516-89a4-5cb454400f0a"
+    documentation="https://azure.microsoft.com/en-us/services/kinect-dk/&#xA;&#xA;Azure Kinect DK&#xA;Developer kit with advanced AI sensors for building computer vision and speech models&#xA;&#xA;Build your way with a versatile sensing device&#xA;Azure Kinect DK is a developer kit with advanced AI sensors for sophisticated computer vision and speech models. Designed for versatility, it combines an advanced depth sensor and spatial microphone array with a video camera and orientation sensor—with multiple modes, options, and SDKs.&#xA;&#xA;Explore documentation&#xA;Announcement | Now available in Japan, Germany and the United Kingdom&#xA;&#xA;Get started with a range of SDKs, including an open-source Sensor SDK&#xA;&#xA;Experiment with multiple modes and mounting options&#xA;&#xA;Add cognitive services and manage connected PCs with easy Azure integration&#xA;&#xA;Approach critical business challenges in new and innovative ways&#xA;See what customers are doing with Azure Kinect&#xA;See what customers are doing with Azure Kinect&#xA;&#xA;Learn how developers are using Azure Kinect DK in health and life sciences, retail, and manufacturing to provide exceptional care, create frictionless shopping experiences, and improve training.&#xA;Discover what's possible for your industry&#xA;&#xA;Health and life sciences&#xA;&#xA;Enhance physical therapy, improve and monitor athletic performance, and rehabilitate patients faster with real-time feedback based on data from the Body Tracking SDK (preview).&#xA;&#xA;Retail&#xA;&#xA;Design a shopping experience that your customers will love. Manage inventory and track products faster and more accurately, and create interactive signage that’s both helpful and delightful.&#xA;&#xA;Logistics and manufacturing&#xA;&#xA;Ship and receive items more efficiently with smart palletizing and depalletizing, and improve quality assurance with part identification and anomaly detection.&#xA;&#xA;Robotics&#xA;&#xA;Gain new environmental understanding with depth, reclaim time by automating repetitive tasks, and explore new ways to approach old problems by combining depth sensing with robotics.&#xA;">
+  <properties
+      key="icon"
+      value="/MixedReality/AzureKinectDK.ico"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

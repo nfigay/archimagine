@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Availability Chain"
+    id="cea4cf2c-fdb4-47c2-bd85-852395991a6c"
+    documentation="Reliance on Internet Connectivity at Customer’s end creates a Single point of failure in many cases.">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Risk"/>
+</archimate:Assessment>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BingAutosuggest"
+    id="213813a2-8534-4391-ab4e-c1d1bb8a5a90"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/autosuggest/&#xA;Bing Autosuggest&#xA;Empower users to type less and do more with automated and complete search suggestions.&#xA;Bing Autosuggest API v7 helps user with suggestions as you type&#xA;With Bing Autosuggest API v7, help users complete queries faster by adding intelligent type-ahead capabilities to your app or website. Empower users to type less and do more with automated and complete search suggestions. With the API v7, discover improved error handling capabilities to troubleshoot and diagnose problems quickly.&#xA;Powerful statistics for your Autosuggest queries&#xA;Inform your strategic decisions with the Bing Statistics add-in. Quickly retrieve statistics such as call volume, market distribution, response code summary, and many more—and derive rich insights to advance your business. Visit the portal to consume these statistics. You can subscribe to Bing Statistics Add-in from Azure Portal.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/BingAutoSuggest.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

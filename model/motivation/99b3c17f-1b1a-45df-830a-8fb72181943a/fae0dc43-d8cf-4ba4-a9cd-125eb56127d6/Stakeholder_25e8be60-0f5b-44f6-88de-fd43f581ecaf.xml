@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTO"
+    id="25e8be60-0f5b-44f6-88de-fd43f581ecaf"
+    documentation="The Chief Technology Officer oversees the development and correct operation of information systems from the point of view of execution. Generally responsible for the technical teams and to implement new strategies to improve the final product. A similar role to the CIO position, since in some companies they share tasks. The key difference is that a CIO focuses on information systems (communication workflow), with the aim of increasing efficiency, while a CTO is responsible for the technological strategy aimed at improving the final product.">
+  <properties
+      key="icon"
+      value="/Roles/CTO.png"/>
+  <properties
+      key="icon size"
+      value="150x0"/>
+</archimate:Stakeholder>

@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CMO"
+    id="bfcbb22d-fd4f-41a9-ab60-0230d2993787"
+    documentation="The Chief Marketing Officer is responsible for marketing activities, which include sales management, product development, advertising, market research and customer service. With focus on maintaining quality service through communication, and align the interests of all departments to optimize marketing activities.">
+  <properties
+      key="icon"
+      value="/Roles/CMO.png"/>
+  <properties
+      key="icon size"
+      value="150x0"/>
+</archimate:Stakeholder>

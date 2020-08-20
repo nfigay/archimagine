@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureRepos"
+    id="ce8ce327-c9cc-4509-87c9-88efef243bbe"
+    documentation="Unlimited free private repos&#xA;&#xA;Get flexible, powerful Git hosting with effective code reviews and unlimited free repositories for all your ideas—from a one-person project to the world’s largest ">
+  <properties
+      key="icon"
+      value="/DevOps/AzureRepos.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

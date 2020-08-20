@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureArc"
+    id="43a43a19-a3c1-405a-84e5-9d4b1a846b26"
+    documentation="https://azure.microsoft.com/en-us/services/azure-arc/&#xA;Introducing Azure Arc&#xA;For customers who want to simplify complex and distributed environments across on-premises, edge and multicloud, Azure Arc enables deployment of Azure services anywhere and extends Azure management to any infrastructure.">
+  <properties
+      key="icon"
+      value="/Databases/azure-front-door-logo.jpg"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

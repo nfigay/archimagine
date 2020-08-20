@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private registry for hosting Images which integrates well Kubernetes near deployments to reduce latency and costs and with simplified registry access management with AD"
+    id="3c1106eb-42ad-46b7-b8a6-8081868ee375"
+    documentation="Azure Container Registry is a private registry for hosting container images. Using the Azure Container Registry, you can store Docker-formatted images for all types of container deployments. Azure Container Registry integrates well with orchestrators hosted in Azure Container Service, including Docker Swarm, DC/OS, and Kubernetes. Users can benefit from using familiar tooling capable of working with the open source Docker Registry v2.&#xA;&#xA;Use Azure Container Registry to:&#xA;&#xA;Store and manage container images across all types of Azure deployments&#xA;Use familiar, open-source Docker command line interface (CLI) tools&#xA;Keep container images near deployments to reduce latency and costs&#xA;Simplify registry access management with Azure Active Directory&#xA;Maintain Windows and Linux container images in a single Docker registry"/>

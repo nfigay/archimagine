@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BingNewsSearch"
+    id="7fbdf8e4-94d7-4b06-a7c0-9db31e20c1ef"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/bing-news-search-api/&#xA;Bing News Search&#xA;Turn any app or website into a news search resource with world news grouped and filtered by topic, local news, and searchable metadata.&#xA;&#xA;Search for news and get comprehensive results&#xA;Search the web for news articles with Bing News Search API v7. Results include details like authoritative image of the news article, related news and categories, provider info, article URL, and date added. With the API v7, discover new sorting and filtering options that simplify finding specific results in trending news topics. Try out the demo. Submit a query via the search box or click on one of the provided examples.&#xA;&#xA;Powerful statistics for your queries&#xA;Inform your strategic decisions with the Bing Statistics add-in. Quickly retrieve statistics such as your top queries, call volume, market distribution, response code summary, and many more—and derive rich insights to advance your business. Visit the portal to consume these statistics. You can subscribe to Bing Statistics Add-in from Azure Portal.&#xA;&#xA;Learn more&#xA;&#xA;&#xA;Trending news and topics&#xA;Customize trending news from around the world by category and region.&#xA;&#xA;&#xA;News topics&#xA;Categorize news searches by topics such as World, Politics, Sports, and more.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/BingNewsSearch.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

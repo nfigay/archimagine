@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StorageExplorer"
+    id="14e7acd7-e7c5-4795-aae0-110b42107498"
+    documentation="https://azure.microsoft.com/en-us/features/storage-explorer/&#xA;Azure Storage Explorer&#xA;Free tool to easily manage your Azure cloud storage resources anywhere, from Windows, macOS, or Linux&#xA;&#xA;Optimize your Azure storage management&#xA;Upload, download, and manage Azure blobs, files, queues, and tables, as well as Azure Cosmos DB and Azure Data Lake Storage entities. Easily access virtual machine disks, and work with either Azure Resource Manager or classic storage accounts. Manage and configure cross-origin resource sharing rules.&#xA;&#xA;Management for all your storage accounts and multiple subscriptions across Azure, Azure Stack, and government cloud&#xA;Accessible, intuitive, feature-rich graphical user interface (GUI) for full management of cloud storage resources&#xA;Robust security features like cross-origin resource sharing and shared access signature to help protect your data access wherever you are&#xA;&#xA;Ease cloud storage management and boost productivity&#xA;&#xA;Efficiently connect and manage your Azure storage service accounts and resources across subscriptions. Create, delete, view, and edit resources in Azure Storage, Azure Cosmos DB, and Data Lake Storage.&#xA;&#xA;Powerful, accessible experience&#xA;&#xA;Seamlessly view, search, and interact with your data and resources using an intuitive interface. Support accessibility with multiple screen reader options on Windows and macOS.&#xA;&#xA;Work your way, on-premises or offline&#xA;&#xA;Storage Explorer lets you work disconnected from the cloud or offline with local emulators. This flexibility helps you boost productivity and efficiency, and reduce costs.&#xA;&#xA;Tighten up data access&#xA;&#xA;Use the full range of Azure security features, including role-based access control, Azure Active Directory, and connection strings, to connect and manage your Azure resources—always over HTTPS.">
+  <properties
+      key="icon"
+      value="/Storage/AzureStorageExplorer.jpg"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureDataBox"
+    id="86ba1b99-aa59-4935-9de5-4cbc045c1239"
+    documentation="https://azure.microsoft.com/en-us/services/databox/&#xA;Move stored or in-flight data to Azure quickly and cost-effectively&#xA;Data Box devices easily move data to Azure when busy networks aren’t an option. Move large amounts of data to Azure when you're limited by time, network availability, or costs, using common copy tools such as Robocopy. All data is AES-encrypted, and the devices are wiped clean after upload, in accordance with NIST Special Publication 800-88 revision 1 standards.&#xA;&#xA;Data Box&#xA;This ruggedized device with 100-TB capacity uses standard NAS protocols and common copy tools. It features AES 256-bit encryption for safer transit.&#xA;&#xA;Order Data Box&#xA;Data Box Disk&#xA;Data Box Disk&#xA;Our 8-TB SSD with a USB/SATA interface has 128-bit encryption. Customize it to your needs—it comes in packs of up to five for a total of 40 TB.&#xA;&#xA;Order Data Box Disk&#xA;Data Box Heavy&#xA;Data Box Heavy&#xA;This ruggedized, self-contained device is designed to lift 1 PB of data to the cloud.&#xA;&#xA;Sign up for Data Box Heavy">
+  <properties
+      key="icon"
+      value="/Storage/AzureDataBox.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

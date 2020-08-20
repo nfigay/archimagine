@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureDataCatalog"
+    id="f90b2203-d1f2-4f32-a907-a4559037f68c"
+    documentation="https://azure.microsoft.com/en-us/services/data-catalog/&#xA;&#xA;Data Catalog&#xA;Get more value from your enterprise data assets&#xA;&#xA;Spend less time looking for data, and more time getting value from it&#xA;Register enterprise data assets&#xA;Discover data assets and unlock their potential&#xA;Capture tribal knowledge to make data more understandable&#xA;Bridge the gap between IT and the business, allowing everyone to contribute their insights&#xA;Let your data live where you want it, connect with the tools you choose&#xA;Control who can discover registered data assets&#xA;Integrate into existing tools and processes with open REST APIs&#xA;Get more value from your data&#xA;In the new world of data, you can spend more time looking for data than you do analyzing it. Azure Data Catalog is an enterprise-wide metadata catalog that makes data asset discovery straightforward. It’s a fully-managed service that lets you—from analyst to data scientist to data developer—register, enrich, discover, understand, and consume data sources.&#xA;Your data, your way&#xA;Work with data in the tool of your choice. Data Catalog lets you find the data you need and use it in the tools you choose. Your data stays where you want it, and Data Catalog helps you discover and work with it where you want, with an intuitive user experience.&#xA;Tribal knowledge unlocked&#xA;Increase broad adoption and continuous value creation across your data ecosystem. Data Catalog helps you get tips, tricks, and unwritten rules into an experience where everyone can get value. With Data Catalog, everyone can contribute. When you discover a data source, you can understand its usage and intent, provide your informed insights into the catalog, and enable a virtuous cycle of use.&#xA;Hidden value unleashed&#xA;Democratize data asset discovery. Data Catalog shines light on the dark data within your organization, so that you can spend less time looking for data and more time using it.">
+  <properties
+      key="icon"
+      value="/Analytics/AzureDataCatalog.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

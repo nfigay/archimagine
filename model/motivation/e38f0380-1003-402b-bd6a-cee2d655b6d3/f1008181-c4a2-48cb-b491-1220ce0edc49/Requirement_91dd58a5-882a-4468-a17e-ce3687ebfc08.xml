@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhanced Internal Patching Procedures"
+    id="91dd58a5-882a-4468-a17e-ce3687ebfc08">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Required Control Measure"/>
+</archimate:Requirement>

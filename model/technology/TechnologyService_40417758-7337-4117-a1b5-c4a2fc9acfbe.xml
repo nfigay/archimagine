@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BingVideoSearch"
+    id="40417758-7337-4117-a1b5-c4a2fc9acfbe"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/bing-video-search-api/&#xA;&#xA;Bing Video Search&#xA;Add a variety of advanced video search features to your app or website, including video previews, trending videos, and other useful metadata.&#xA;&#xA;Search for videos and get comprehensive results&#xA;With Bing Video Search API v7, find videos across the web. Results provide useful metadata including creator, encoding format, video length, view count, improved &amp; simplified paging, and more. Try out the demo. Submit a query via the search box or click on one of the provided examples.&#xA;&#xA;&#xA;Video preview thumbnails&#xA;Get visually enriched search results that include a static or motion (animated GIF) thumbnail.&#xA;&#xA;&#xA;Video search filters&#xA;Narrow results by freshness, video length, resolution, and price.&#xA;&#xA;&#xA;Powerful statistics for your queries&#xA;Inform your strategic decisions with the Bing Statistics add-in. Quickly retrieve statistics such as your top queries, call volume, market distribution, response code summary, and many more—and derive rich insights to advance your business. Visit the portal to consume these statistics. You can subscribe to Bing Statistics Add-in from Azure Portal.&#xA;&#xA;Enhanced results&#xA;Harness useful metadata about videos such as publisher and creator info, encoding format, source view count, video length, quality, and more.&#xA;&#xA;&#xA;Trending videos&#xA;Customize a feed of trending videos from around the world.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/BingVideoSearch.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

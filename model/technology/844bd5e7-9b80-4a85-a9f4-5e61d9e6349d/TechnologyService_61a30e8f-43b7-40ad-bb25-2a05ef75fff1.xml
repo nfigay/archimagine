@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureBlockchainWorkbench"
+    id="61a30e8f-43b7-40ad-bb25-2a05ef75fff1">
+  <properties
+      key="icon"
+      value="/Blockchain/AzureBlockchainWorkbench.jpg"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TextToSpeech"
+    id="b4ee9f30-5fc4-4c4c-b295-1ca82fa44059"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/&#xA;Text to Speech&#xA;A Speech service feature that converts text to lifelike speech&#xA;Bring your apps to life with natural-sounding voices&#xA;Build apps and services that speak naturally, choosing from more than 100 voices in over 40 languages. Differentiate your brand with a customized voice, and access voices with different speaking styles and emotional tones to fit your use case—all in your preferred programming language.&#xA;&#xA;Lifelike speech&#xA;Enable fluid, natural-sounding speech that matches the patterns and intonation of human voices.&#xA;&#xA;Customizable voices&#xA;Create a unique voice that reflects your brand’s identity.&#xA;&#xA;Fine-grained audio controls&#xA;Tune voice output for your scenarios by easily adjusting rate, pitch, pronunciation, pauses, and more.&#xA;&#xA;Flexible deployment&#xA;Run Text to Speech anywhere—in the cloud or at the edge in containers.&#xA;&#xA;Access a wide variety of voices for every scenario&#xA;Engage global audiences by using more than 100 voices and over 40 languages and variants. Bring your scenarios to life with highly expressive and humanlike voices. Neural Text to Speech supports several speaking styles, including chat, newscast, and customer service, and emotions like cheerfulness and empathy.&#xA;&#xA;Try text-to-speech with this demo app, built on our JavaScript SDK&#xA;&#xA;Tailor your speech output&#xA;Fine-tune audio to fit your scenario. Define lexicons and control speech parameters such as pronunciation, pitch, rate, pauses, and intonation with Speech Synthesis Markup Language (SSML) or with the audio content creation tool.&#xA;&#xA;Deploy anywhere, from the cloud to the edge&#xA;Run Text to Speech wherever your data resides. Build speech applications that are optimized for both robust cloud capabilities and edge locality using containers (preview). Speech containers support both standard and custom voice.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/texttospeech2.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loss of governance"
+    id="0e0e10a5-6e45-4c71-90e5-464e0a902f52"
+    documentation="in using cloud infrastructures, the client necessarily cedes control to the Cloud Provider (CP) on a number of issues that may affect security. At the same time, SLAs may not offer a commitment to provide such services on the part of the cloud provider, thus leaving a gap in security defences.&#xA;This also includes compliance risks, because investment in achieving certification (e.g., industry standard or regulatory requirements) may be put at risk by migration to the cloud:&#xA; if the CP cannot provide evidence of their own compliance with the relevant requirements&#xA; if the CP does not permit audit by the cloud customer (CC).&#xA;In certain cases, it also means that using a public cloud infrastructure implies that certain kinds of compliance cannot be achieved (e.g., PCI DSS).">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Risk"/>
+</archimate:Assessment>

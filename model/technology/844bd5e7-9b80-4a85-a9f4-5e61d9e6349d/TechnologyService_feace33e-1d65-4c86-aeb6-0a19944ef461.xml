@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows10IoTCoreServices"
+    id="feace33e-1d65-4c86-aeb6-0a19944ef461"
+    documentation="https://azure.microsoft.com/en-us/services/windows-10-iot-core/&#xA;Windows 10 IoT Core Services&#xA;Long-term OS support and services to manage device updates and assess device health&#xA;&#xA;Help ensure the safety of your network and devices with cloud-based Device Health Attestation&#xA;Take control of updates to Windows OS, device drivers, and OEM-specific applications and files&#xA;Keep devices stable and secure with 10 years of OS security and reliability updates&#xA;Keep devices stable and secure&#xA;Get 10 years of Windows OS support, including monthly security and reliability updates with no feature updates—minimizing changes to the base operating system that could impact device stability. Releases of Windows 10 IoT Core via the Long-Term Servicing Channel will be available every two to three years, with each release supported over a 10-year lifecycle.&#xA;&#xA;Learn more about Long-Term Servicing Channel&#xA;&#xA;Manage device updates&#xA;Create, customize, and control device updates using the same content distribution network that’s used by millions of customers to manage Windows updates. Device Update Center lets you apply updates to the operating system, to device drivers, and to OEM-specific applications and files, and can be flighted to test devices prior to broader distribution.&#xA;&#xA;&#xA;&#xA;Help secure your network and IoT devices&#xA;Evaluate the trustworthiness of a device using Device Health Attestation. This security service can be combined with a device management system, such as Azure IoT Device Management, to generate reports and take corrective action, such as reimaging a device, denying network access, or creating a service ticket.&#xA;">
+  <properties
+      key="icon"
+      value="/InternetOfThings/Win10IOTCore.jpg"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

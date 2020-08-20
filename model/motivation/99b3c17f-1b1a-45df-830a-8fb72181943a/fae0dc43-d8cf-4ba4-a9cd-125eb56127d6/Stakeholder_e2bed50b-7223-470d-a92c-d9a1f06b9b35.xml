@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CEO"
+    id="e2bed50b-7223-470d-a92c-d9a1f06b9b35"
+    documentation="The Chief Executive Officer or Executive Director, is the person in charge of the management and administrative direction of the organization. The CEO is at the top of the chain. In the majority of cases the CEO is also the founder and drives the purpose, vision and mission of the company. Responsible for connecting the business with the market, having the final say in budgeting, investment decisions and directing the company’s strategies so that it achieves its objectives. The ideal CEO should be a “leader“, providing guidance and resources to the team, and removing obstacles.">
+  <properties
+      key="icon"
+      value="/Roles/CEO.png"/>
+  <properties
+      key="icon size"
+      value="150x0"/>
+</archimate:Stakeholder>

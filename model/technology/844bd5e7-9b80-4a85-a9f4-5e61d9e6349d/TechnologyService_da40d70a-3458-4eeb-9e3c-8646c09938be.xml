@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureCognitiveServices"
+    id="da40d70a-3458-4eeb-9e3c-8646c09938be"
+    documentation="Cognitive Services&#xA;A comprehensive family of AI services and cognitive APIs to help you build intelligent apps&#xA;https://azure.microsoft.com/en-us/services/cognitive-services/&#xA;&#xA;Free account &#xA;What is Azure Cognitive Services?&#xA;Cognitive Services bring AI within reach of every developer—without requiring machine-learning expertise. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate decision-making into your apps.&#xA;&#xA;Watch this 50-second video to see how you can deploy AI for various use-cases, using the programming languages you already know.&#xA;&#xA;Explore the benefits of Cognitive Services&#xA;Apply AI to more scenarios with the most comprehensive portfolio of domain-specific AI capabilities on the market&#xA;&#xA;Build confidently with the first AI services to achieve human parity in computer vision, speech, and language&#xA;&#xA;Deploy Cognitive Services anywhere from the cloud to the edge with containers&#xA;&#xA;No machine-learning expertise required&#xA;&#xA;Azure Cognitive Services&#xA;Decision&#xA;Language&#xA;Speech&#xA;Vision&#xA;Web search&#xA;Make smarter decisions faster&#xA;&#xA;Anomaly Detector PREVIEW&#xA;Identify potential problems early on.&#xA;&#xA;Content Moderator&#xA;Detect potentially offensive or unwanted content.&#xA;&#xA;Personalizer&#xA;Create rich, personalized experiences for every user.&#xA;">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/congnitive-services-11.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureInformationProtection"
+    id="9fc6a328-aa5c-4e2f-b4e8-3c6c03e2d76b"
+    documentation="https://azure.microsoft.com/en-us/services/information-protection/&#xA;Azure Information Protection&#xA;Better protect your sensitive information—anytime, anywhere&#xA;Control and help secure email, documents, and sensitive data that you share outside your company. From easy classification to embedded labels and permissions, enhance data protection at all times with Azure Information Protection—no matter where it’s stored or who it’s shared with.&#xA;&#xA;Classify your data based on sensitivity&#xA;&#xA;Configure policies to classify, label, and protect data based on its sensitivity. Classification with Azure Information Protection is fully automatic, driven by users, or based on recommendation.&#xA;Protect your data at all times&#xA;&#xA;Add classification and protection information for persistent protection that follows your data—ensuring it remains protected regardless of where it’s stored or who it’s shared with.&#xA;&#xA;&#xA;Add visibility and control&#xA;&#xA;Track activities on shared data and revoke access if necessary. Your IT team can use powerful logging and reporting to monitor, analyze, and reason over data.&#xA;Collaborate more securely with others&#xA;&#xA;Share data safely with coworkers as well as your customers and partners. Define who can access data and what they can do with it—such as allowing to view and edit files, but not print or forward.&#xA;&#xA;&#xA;Ease of use&#xA;&#xA;Data classification and protection controls are integrated into Microsoft Office and common applications to secure the data you’re working on with one click. In-product notifications such as recommended classification help users make right decisions.&#xA;Deployment and management flexibility&#xA;&#xA;Help protect your data whether it’s stored in the cloud or in on-premises infrastructures. You have the flexibility to choose how your encryption keys are managed, including Bring Your Own Key (BYOK) and Hold Your Own Key (HYOK) options.">
+  <properties
+      key="icon"
+      value="/Security/AzureInformationProtection.jpg"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

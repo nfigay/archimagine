@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Translator"
+    id="daa18d89-b95a-4a2b-b9dc-6908668aa28d"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/translator/&#xA;&#xA;Translator&#xA;An AI service for real-time text translation&#xA;&#xA;Break language barriers with text translation&#xA;Translate text in real time across more than 60 languages, powered by the latest innovations in machine translation. Support a wide range of use cases, such as translation for call centers, multilingual conversational agents, or in-app communication.&#xA;&#xA;Broad language coverage&#xA;Accurately translate text between more than 60 languages.&#xA;&#xA;Customizable translations&#xA;Build custom models to handle domain-specific terminology.&#xA;&#xA;Production-ready&#xA;Access the same technology that powers billions of translations every day across Microsoft products.&#xA;&#xA;Built-in security&#xA;Your data remains yours—your text input isn’t logged during translation.&#xA;&#xA;&#xA;Extend your application’s reach&#xA;Remove the complexity of building real-time translation into your apps and solutions with a single REST API call. Accurately detect the language of your source text, look up alternative translations with the bilingual dictionary, or convert text from one script to another. Use your preferred programming language, including Python, C#, Java, JavaScript, and Go.&#xA;&#xA;Customize your translations&#xA;Customize your text translations to reflect domain-specific terminology. Define how those terms are translated based on previously translated documents. Build customized translation models without machine learning expertise.&#xA;&#xA;Benefit from a tested, scalable translation engine&#xA;Build your solutions using a production-ready translation engine that has been tested at scale, powering translations across Microsoft products such as Word, PowerPoint, Teams, Edge, Visual Studio, and Bing. Seamlessly scale up or down based on your translation needs.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/Microsoft_Translator_Logo.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

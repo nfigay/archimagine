@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="my Control Measure"
+    id="78a24d63-849a-4140-83e5-5e14adc4d64a">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Required Control Measure"/>
+</archimate:Requirement>

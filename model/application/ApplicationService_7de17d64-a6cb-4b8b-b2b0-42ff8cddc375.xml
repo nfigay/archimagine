@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AksSP"
+    id="7de17d64-a6cb-4b8b-b2b0-42ff8cddc375">
+  <properties
+      key="application_id"
+      value="azuread_application.AksApp.application_id"/>
+  <properties
+      key="app_role_assignment_required"
+      value="false"/>
+</archimate:ApplicationService>

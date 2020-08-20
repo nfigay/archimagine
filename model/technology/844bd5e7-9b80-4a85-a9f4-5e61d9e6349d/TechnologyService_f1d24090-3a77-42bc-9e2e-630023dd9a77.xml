@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureFxtEdgeFiler"
+    id="f1d24090-3a77-42bc-9e2e-630023dd9a77"
+    documentation="https://azure.microsoft.com/en-us/services/fxt-edge-filer/&#xA;Azure FXT Edge Filer&#xA;Hybrid storage optimization solution for HPC environments&#xA;&#xA;Build hybrid storage ready for performance&#xA;Create cloud-integrated hybrid storage that works with your existing network-attached storage (NAS) and Azure Blob Storage. This on-premises caching appliance optimizes access to data in your datacenter, in Azure, or across a wide-area network (WAN). A combination of software and hardware, Microsoft Azure FXT Edge Filer delivers high throughput and low latency for hybrid storage infrastructure supporting high-performance computing (HPC) workloads.&#xA;&#xA;Available in two models to fit performance and capacity needs, and scalable to 24 nodes as demand grows&#xA;High-performance DRAM for faster access to data, and large SSD cache sizes to support big data workloads&#xA;Single mountpoint for simplified management across heterogeneous storage&#xA;Support for multiple protocols and vendors, including NFSv3, SMBv2, NetApp, Dell EMC Isilon, Azure Blob Storage, and Amazon S3&#xA;&#xA;Get massive NAS performance scaling&#xA;&#xA;Scale-out clustering provides non-disruptive NAS performance scaling. Join up to 24 FXT nodes per cluster to scale to millions of IOPS and hundreds of GB/s. When you need performance and scale in file-based workloads, Azure FXT Edge Filer keeps your data on the fastest path to processing resources.&#xA;&#xA;Keep aging data accessible with an active archive&#xA;&#xA;Managing data storage is easy with Azure FXT Edge Filer. Shift aging data to Azure Blob Storage to keep it easily accessible with minimal latency. Balance on-premises and cloud storage. Access important research and content without long retrieval times, even after peak periods.&#xA;&#xA;Hide WAN latency and accelerate access to important data&#xA;&#xA;Access low-latency data at remote sites without compromising the simplicity of managing centralized data. Retrieve files quickly while backup, mirroring, and other data-protection activities run seamlessly in the core datacenter.">
+  <properties
+      key="icon"
+      value="/Storage/AzureFxtEdgeFiler.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

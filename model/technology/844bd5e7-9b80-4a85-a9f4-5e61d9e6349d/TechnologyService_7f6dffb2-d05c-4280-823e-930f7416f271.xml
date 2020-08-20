@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureDedicatedHSM"
+    id="7f6dffb2-d05c-4280-823e-930f7416f271"
+    documentation="https://azure.microsoft.com/en-us/services/azure-dedicated-hsm/&#xA;Azure Dedicated HSM&#xA;Your hardware security module (HSM) in the cloud&#xA;Maintain full administrative and cryptographic control of your HSMs&#xA;Validated for FIPS 140-2 Level 3 and eIDAS Common Criteria EAL4+&#xA;Migrate HSM applications to Azure with minimal changes and improved latency&#xA;&#xA;Manage HSMs that you use in Azure&#xA;With Azure Dedicated HSM, you manage who in your organization can access your HSMs and the scope and assignment of their roles. You have full administrative and cryptographic control over your HSMs. Microsoft has no access to or visibility into the keys stored in them.&#xA;Enhance security and compliance with controls and certifications&#xA;Each HSM device comes validated against FIPS 140-2 Level 3 and eIDAS Common Criteria EAL4+, ensuring tamper resistance. This enables you to meet a wide variety of security and compliance requirements.&#xA;Easily migrate applications to Azure&#xA;Developed in partnership with Gemalto, the SafeNet Luna Network HSM 7 Model A790 cloud-based HSM is compatible with many applications, simplifying migration of legacy or custom on-premises applications to Azure. Because minimal changes are needed for your on-premises applications to work in Azure, you save time. Hybrid capabilities allow you to run your legacy or custom applications on your on-premises Gemalto HSM or on Azure. Keep a copy of your keys on the Gemalto HSM for added security.">
+  <properties
+      key="icon"
+      value="/Security/AzureDedicatedHSM.png"/>
+  <properties
+      key="icon size"
+      value="60x50"/>
+</archimate:TechnologyService>

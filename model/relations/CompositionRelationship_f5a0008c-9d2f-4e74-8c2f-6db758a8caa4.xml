@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toto"
     id="f5a0008c-9d2f-4e74-8c2f-6db758a8caa4">
   <source
       xsi:type="archimate:Product"

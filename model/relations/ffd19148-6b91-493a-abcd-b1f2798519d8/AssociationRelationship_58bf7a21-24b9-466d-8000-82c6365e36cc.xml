@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="supersedes"
+    id="58bf7a21-24b9-466d-8000-82c6365e36cc"
+    documentation="cf. https://docs.microsoft.com/en-us/previous-versions/azure/batch-ai/how-to-migrate"
+    directed="true">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_b18a90b1-47ac-4224-884c-568a4f93e73c.xml#b18a90b1-47ac-4224-884c-568a4f93e73c"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_894d32b2-f0be-4551-8a8b-1b1246ae5d7e.xml#894d32b2-f0be-4551-8a8b-1b1246ae5d7e"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SpeechTranslation"
+    id="5f9cb529-c6c2-4496-96b8-81cc5209e76f"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/speech-translation/&#xA;Speech Translation&#xA;A Speech service feature that translates speech in real time&#xA;Enable multilingual communication&#xA;Translate audio from more than 30 languages and customize your translations for your organization’s specific terms—all in your preferred programming language.&#xA;&#xA;Production-ready&#xA;Benefit from fast, reliable translations powered by neural machine translation technology.&#xA;&#xA;Customizable translations&#xA;Tailor models to recognize domain-specific terminology and unique speaking styles.&#xA;&#xA;Normalized text&#xA;Deliver readable translations with an engine trained to normalize speech output.&#xA;&#xA;Built-in security&#xA;Your data stays yours—your speech input is not logged during processing.&#x9;&#xA;&#xA;Add high-quality translations to your apps&#xA;Generate speech-to-speech and speech-to-text translations with a single API call. Speech Translation captures the context of full sentences to provide accurate, fluent translations and improve communication between speakers of different languages.&#xA;&#xA;Tailor translations to reflect domain-specific terminology&#xA;Customize speech recognition and translation for terminology specific to your business or industry. Train and deploy a custom translation system—without requiring machine learning expertise.&#xA;&#xA;Normalize text for better translations&#xA;Speech Translation can remove verbal fillers (&quot;um,&quot; &quot;uh,&quot; and coughs) and repeated words, add proper punctuation and capitalization, and exclude profanities for more readable translations.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/SpeechTranslation.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

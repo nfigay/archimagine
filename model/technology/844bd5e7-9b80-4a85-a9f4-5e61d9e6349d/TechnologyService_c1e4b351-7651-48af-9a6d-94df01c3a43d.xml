@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureAdvisor"
+    id="c1e4b351-7651-48af-9a6d-94df01c3a43d"
+    documentation="https://azure.microsoft.com/en-us/services/advisor/&#xA;Get the most out of Azure&#xA;Quickly and easily optimize your Azure deployments. Azure Advisor analyzes your configurations and usage telemetry and offers personalized, actionable recommendations to help you optimize your Azure resources for high availability, security, operational excellence, performance, and cost.&#xA;&#xA;Best practices to optimize your Azure workloads&#xA;Simple, step-by-step guidance and quick links&#xA;One place to review and act on recommendations from across Azure&#xA;Alerts to notify you about new recommendations&#xA;&#xA;Optimize your deployments with personalized recommendations&#xA;&#xA;Advisor provides relevant best practices to help you improve availability, security, and performance, achieve operational excellence, and reduce costs. Configure Advisor to target specific subscriptions and resource groups, to focus on critical optimizations. Access Advisor through the Azure portal, the Azure Command Line Interface (CLI), or the Advisor API. Or configure alerts to notify you automatically about new recommendations.&#xA;&#xA;Learn how to get started&#xA;&#xA;Quickly and easily take action&#xA;&#xA;Advisor is designed to help you save you time on cloud optimization. The recommendation service includes suggested actions you can take right away, postpone, or dismiss. Recommendations are prioritized according to our best estimate of significance to your environment, and you can share them with your team or stakeholders.&#xA;&#xA;See and act on your Azure Advisor recommendations now&#xA;&#xA;Find all your optimization recommendations in one place&#xA;&#xA;Azure offers many services that provide recommendations, including Azure Security Center, Azure Cost Management, Azure SQL DB Advisor, Azure App Service, and others. Advisor pulls in recommendations from all these services so you can more easily review them and take action from a single place.&#xA;&#xA;Explore cost optimization and other recommendation categories">
+  <properties
+      key="icon"
+      value="/Management/Azure-Advisor-Logo.png"/>
+  <properties
+      key="icon size"
+      value="80x50"/>
+</archimate:TechnologyService>

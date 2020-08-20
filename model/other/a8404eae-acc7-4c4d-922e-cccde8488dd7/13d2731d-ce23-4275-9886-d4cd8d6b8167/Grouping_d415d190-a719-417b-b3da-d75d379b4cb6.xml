@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Upgrade subscription"
+    id="d415d190-a719-417b-b3da-d75d379b4cb6"
+    documentation="https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/upgrade-azure-subscription">
+  <properties
+      key="IRI"
+      value="https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/upgrade-azure-subscription"/>
+</archimate:Grouping>

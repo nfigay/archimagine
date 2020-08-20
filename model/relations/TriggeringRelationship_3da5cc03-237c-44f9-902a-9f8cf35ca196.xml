@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="trigger API service invocation"
+    id="3da5cc03-237c-44f9-902a-9f8cf35ca196">
+  <source
+      xsi:type="archimate:TechnologyEvent"
+      href="TechnologyEvent_81ba110c-4cb5-4cfa-8ac3-552df351e63e.xml#81ba110c-4cb5-4cfa-8ac3-552df351e63e"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_fc3b108d-f76e-4bba-8648-33f6b6591ca0.xml#fc3b108d-f76e-4bba-8648-33f6b6591ca0"/>
+</archimate:TriggeringRelationship>

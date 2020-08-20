@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BingSpellCheck"
+    id="0a024d89-2619-4cd5-8e7b-a15f6beeb21e">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/Bing Spell Check.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

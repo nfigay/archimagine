@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureVirtualMachine"
+    id="4ca5fffc-c35d-411d-986f-64d914caff5d"
+    documentation="Create Linux or Windows virtual machines with your Azure free account&#xA;Get started with 12 months of free services&#xA;https://azure.microsoft.com/en-us/free/virtual-machines/&#xA;&#xA;A list of always free products">
+  <properties
+      key="icon"
+      value="/Compute/AzureVirtualMachine.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="supersedes"
+    id="2841413a-d653-478d-b7fc-da82befcd79f"
+    directed="true">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_e801256d-0a1d-4479-baeb-3ed8435a8725.xml#e801256d-0a1d-4479-baeb-3ed8435a8725"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_18ef6e68-71d7-455f-b61a-32551ff268a4.xml#18ef6e68-71d7-455f-b61a-32551ff268a4"/>
+</archimate:AssociationRelationship>

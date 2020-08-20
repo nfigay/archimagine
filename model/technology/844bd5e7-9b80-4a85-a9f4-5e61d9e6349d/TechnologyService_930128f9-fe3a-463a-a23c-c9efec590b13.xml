@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureSignalRService"
+    id="930128f9-fe3a-463a-a23c-c9efec590b13"
+    documentation="Azure SignalR Service&#xA;Easily add real-time web functionality to applications&#xA;https://azure.microsoft.com/en-us/services/signalr-service/&#xA;&#xA;Quickly and easily build real-time communications into your web application&#xA;With Azure SignalR Service, adding real-time communications to your web application is as simple as provisioning a service—no need to be a real-time communications guru!&#xA;&#xA;Focus on your core business instead of managing infrastructure&#xA;You don’t have to provision and maintain servers just because you need real-time features in your solution. SignalR Service is fully managed which makes it easy to add real-time communication functionality to your application. No more worrying about hosting, scalability, load balancing, and such details!&#xA;&#xA;Take advantage of the full spectrum of Azure services&#xA;Benefit from everything Azure has to offer! Easily integrate with services such as Azure Functions, Azure Active Directory, Azure Storage, Azure App Service, Azure Analytics, Power BI, IoT, Cognitive Services, Machine Learning, and more.&#xA;&#xA;Cross-platform Chat&#xA;Accelerate development of reliable, high-performing chat applications.&#xA;&#xA;Instant Broadcasting on Serverless Architecture&#xA;Simplify one-to-many real-time communication and updates using serverless code.&#xA;&#xA;Real-time Web Dashboard&#xA;Securely monitor and control data streamed from Internet-connected devices.">
+  <properties
+      key="icon"
+      value="/Web/AzureSignalRService.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

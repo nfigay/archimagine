@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lock-in"
+    id="18726294-6c4d-4ffd-9c72-e42901d25b02"
+    documentation="There still is little on offer in the way of tools, procedures or standard data formats or services interfaces that could guarantee data, application and service portability. This can make it difficult for the customer to migrate from one provider to another or migrate data and services back to an inhouse IT environment. This introduces a dependency on a particular CP for service provision, especially if data portability, as the most fundamental aspect, is not enabled.">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Risk"/>
+</archimate:Assessment>

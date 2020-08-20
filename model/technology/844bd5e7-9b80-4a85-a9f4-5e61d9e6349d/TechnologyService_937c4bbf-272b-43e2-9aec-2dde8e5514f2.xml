@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureScheduler"
+    id="937c4bbf-272b-43e2-9aec-2dde8e5514f2"
+    documentation="Azure Logic Apps is replacing Azure Scheduler, which is being retired. To continue working with the jobs that you set up in Scheduler, please migrate to Azure Logic Apps as soon as possible.&#xA;&#xA;Scheduler is no longer available in the Azure portal, but the REST API and Azure Scheduler PowerShell cmdlets remain available at this time so that you can manage your jobs and job collections.&#xA;&#xA;https://docs.microsoft.com/en-us/azure/scheduler/scheduler-intro">
+  <properties
+      key="icon"
+      value="/Management/AzureScheduler.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

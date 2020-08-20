@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="my Threat Event"
+    id="92aa1d95-d33c-48fe-8044-ec395cc058ae">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Threat Event"/>
+</archimate:BusinessEvent>

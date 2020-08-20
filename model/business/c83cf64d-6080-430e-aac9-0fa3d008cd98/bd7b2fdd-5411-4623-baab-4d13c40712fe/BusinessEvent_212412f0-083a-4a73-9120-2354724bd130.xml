@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="my Loss Event"
+    id="212412f0-083a-4a73-9120-2354724bd130">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Loss Event"/>
+</archimate:BusinessEvent>

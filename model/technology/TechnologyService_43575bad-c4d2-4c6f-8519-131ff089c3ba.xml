@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InkRecognizer"
+    id="43575bad-c4d2-4c6f-8519-131ff089c3ba"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/ink-recognizer/&#xA;&#xA;&#xA;Ink Recognizer PREVIEW&#xA;An AI service that recognizes digital ink content, such as handwriting, shapes, and ink document layout">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/Ink Recognizer.jpg"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,8 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="my Principle"
+    id="b2451136-9fb7-4b90-835b-9ff7b0b5ce82">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Security Principle"/>
+</archimate:Principle>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureDevOps"
+    id="b4776fee-d82a-4361-ad40-0fbf1e8b4382"
+    documentation="Azure DevOps&#xA;Plan smarter, collaborate better, and ship faster with a set of modern dev services.&#xA;Azure Boards&#xA;https://azure.microsoft.com/en-us/services/devops/&#xA;&#xA;Deliver value to your users faster using proven agile tools to plan, track, and discuss work across your teams.&#xA;&#xA;Learn more &#xA;Azure Pipelines&#xA;&#xA;Build, test, and deploy with CI/CD that works with any language, platform, and cloud. Connect to GitHub or any other Git provider and deploy continuously.&#xA;&#xA;Learn more &#xA;Azure Repos&#xA;&#xA;Get unlimited, cloud-hosted private Git repos and collaborate to build better code with pull requests and advanced file management.&#xA;&#xA;Learn more&#xA;&#xA;Azure Test Plans&#xA;&#xA;Test and ship with confidence using manual and exploratory testing tools.&#xA;&#xA;Learn more &#xA;Azure Artifacts&#xA;&#xA;Create, host, and share packages with your team, and add artifacts to your CI/CD pipelines with a single click.&#xA;&#xA;Learn more&#xA;Extensions Marketplace&#xA;&#xA;Access extensions from Slack to SonarCloud to 1,000 other apps and services—built by the community.&#xA;&#xA;Learn more">
+  <properties
+      key="icon"
+      value="/DevOps/AzureDevOps.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

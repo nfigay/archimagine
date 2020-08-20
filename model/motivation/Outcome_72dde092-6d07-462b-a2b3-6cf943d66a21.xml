@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Minikube is running and kubectl can be used"
+    id="72dde092-6d07-462b-a2b3-6cf943d66a21"
+    documentation="Minikube is running through Docker Desktop. Now you can use kubectl in your favourite terminal emulator as usua"/>

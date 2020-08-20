@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureTestPlans"
+    id="c2935fc3-69c5-4045-bb27-89ae57b5b06a"
+    documentation="Manual and exploratory testing&#xA;Test often and release with confidence. Improve your overall code quality with manual and exploratory testing tools for your apps.&#xA;&#xA;Planned and exploratory testing solution&#xA;Improve your code quality using planned and exploratory testing services for your apps.&#xA;&#xA;https://azure.microsoft.com/en-us/services/devops/test-plans/&#xA;&#xA;Capture rich data&#xA;Capture rich scenario data as you execute tests to make discovered defects actionable.&#xA;Test across web and desktop&#xA;Test your application by executing tests across desktop or web apps.&#xA;Get end-to-end traceability&#xA;Take advantage of end-to-end traceability and quality for your stories and features.&#xA;&#xA;Get manual and exploratory testing tools&#xA;Planned manual testing&#xA;Plan, execute, and track scripted tests with actionable defects and end-to-end traceability. Assess quality throughout the development lifecycle by testing your desktop or web applications.&#xA;&#xA;Exploratory testing&#xA;Design and execute tests simultaneously to maximize quality in modern software development processes using exploratory test sessions.&#xA;Want automated testing for your CI/CD workflow? Use Azure pipelines.&#xA;">
+  <properties
+      key="icon"
+      value="/DevOps/testplans.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

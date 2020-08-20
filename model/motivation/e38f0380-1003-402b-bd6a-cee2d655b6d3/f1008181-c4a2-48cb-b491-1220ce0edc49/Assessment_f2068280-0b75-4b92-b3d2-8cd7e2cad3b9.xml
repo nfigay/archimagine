@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loss of Life"
+    id="f2068280-0b75-4b92-b3d2-8cd7e2cad3b9">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Risk"/>
+</archimate:Assessment>

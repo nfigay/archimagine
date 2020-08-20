@@ -1,0 +1,26 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="azurerm"
+    id="cb8a7cc7-b694-4b32-9e1a-26b5436b3c73">
+  <properties
+      key="version"
+      value="=1.44.0"/>
+  <properties
+      key="subscription_id"
+      value="var.subscription.id"/>
+  <properties
+      key="client_secret"
+      value="var.client_secret"/>
+  <properties
+      key="environment"
+      value="var.environment"/>
+  <properties
+      key="client_id"
+      value="var.client.id"/>
+  <properties
+      key="tenant_id"
+      value="var.tenant.id"/>
+  <properties
+      key="stererotype"
+      value="provider"/>
+</archimate:Resource>

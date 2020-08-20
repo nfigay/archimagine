@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Pricing Calculator"
+    id="74422091-d8c4-41d1-9c8c-32ef9d9dabbc"
+    documentation="Use this tool to estimate your up-front cloud costs.&#xA;https://azure.microsoft.com/fr-fr/pricing/calculator/">
+  <properties
+      key="IRI"
+      value="https://azure.microsoft.com/fr-fr/pricing/calculator/"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureActiveDirectory"
+    id="ec107e37-7e9b-417c-b8a9-d5b75e98411b"
+    documentation="Your universal platform to manage and secure identities&#xA;&#xA;Protect your business with a universal identity platform: The Azure Active Directory (Azure AD) enterprise identity service provides single sign-on and multi-factor authentication to help protect your users from 99.9 percent of cybersecurity attacks.&#xA;&#xA;Single sign-on simplifies access to your apps from anywhere&#xA;Conditional Access and multi-factor authentication help protect and govern access&#xA;A single identity platform lets you engage with internal and external users more securely&#xA;Developer tools make it easy to integrate identity into your apps and services&#xA;&#xA;Connect your workforce: Whether people are on-site or remote, give them seamless access to all their apps so they can stay productive from anywhere. Automate workflows for user lifecycle and provisioning. Save time and resources with self-service management.&#xA;&#xA;Choose from thousands of SaaS apps: Simplify single sign-on. Azure AD supports more than 2,800 pre-integrated software as a service (SaaS) applications.&#xA;&#xA;Protect and govern access: Safeguard user credentials by enforcing strong authentication and conditional access policies. Efficiently manage your identities by ensuring that the right people have the right access to the right resources.&#xA;&#xA;Engage with your customers and partners: Secure and manage customers and partners beyond your organizational boundaries, with one identity solution. Customize user journeys and simplify authentication with social identity and more.&#xA;&#xA;Integrate identity into your apps: Accelerate adoption of your application in the enterprise by supporting single sign-on and user provisioning. Reduce sign-in friction and automate the creation, removal, and maintenance of user accounts.">
+  <properties
+      key="icon"
+      value="/Identity/AzureActiveDirectory.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

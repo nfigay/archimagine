@@ -1,0 +1,8 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="my Asset at Risk"
+    id="2d6c1a67-6c64-49c2-8cb0-cfa6ad143bc8">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Asset at Risk"/>
+</archimate:Resource>

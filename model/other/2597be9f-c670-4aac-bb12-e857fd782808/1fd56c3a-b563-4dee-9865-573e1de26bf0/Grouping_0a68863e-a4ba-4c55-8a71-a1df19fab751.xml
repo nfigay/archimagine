@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grouping"
+    id="0a68863e-a4ba-4c55-8a71-a1df19fab751">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Security Domain"/>
+</archimate:Grouping>

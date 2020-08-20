@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technology &amp; Physical"
     id="70c3a83c-d6fd-45df-b4c8-b797cdc42f8d"
-    type="technology"/>
+    type="technology">
+  <properties
+      key="must replace icons"
+      value="no"/>
+</archimate:Folder>

@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VisualStudioAppCenter"
+    id="d9001a24-38dc-49be-bf5c-2d7460e76c0d">
+  <properties
+      key="icon"
+      value="/Mobile/VisualStudioAppCentre.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

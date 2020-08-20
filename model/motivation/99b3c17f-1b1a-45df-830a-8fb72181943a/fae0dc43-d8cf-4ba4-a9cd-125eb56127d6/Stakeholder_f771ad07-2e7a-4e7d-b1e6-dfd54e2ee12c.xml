@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="COO"
+    id="f771ad07-2e7a-4e7d-b1e6-dfd54e2ee12c"
+    documentation="The Chief Operating Officer is in charge of the day-to-day administration and operation of the business. The COO reports directly to the Chief Executive Officer (CEO) and is considered his right hand. In some corporations, the COO is also known as the Executive Vice President of Operations.">
+  <properties
+      key="icon"
+      value="/Roles/COO.png"/>
+  <properties
+      key="icon size"
+      value="150x0"/>
+</archimate:Stakeholder>

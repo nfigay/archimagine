@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aircraft Malfunction"
+    id="beff03af-197e-447e-9706-27a358b686f0">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Loss Event"/>
+</archimate:BusinessEvent>

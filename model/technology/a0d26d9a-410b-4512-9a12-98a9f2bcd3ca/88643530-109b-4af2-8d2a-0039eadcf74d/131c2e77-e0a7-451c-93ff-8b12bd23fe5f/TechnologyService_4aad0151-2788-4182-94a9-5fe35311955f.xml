@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS Web Service"
+    id="4aad0151-2788-4182-94a9-5fe35311955f">
+  <properties
+      key="icon"
+      value="/Cloud/5-iaas.png"/>
+  <properties
+      key="icon size"
+      value="40x40"/>
+</archimate:TechnologyService>

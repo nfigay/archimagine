@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureManagedDisks"
+    id="814b370a-2c87-4446-9b28-b418ce23f88a"
+    documentation="&#xA;https://azure.microsoft.com/en-us/pricing/details/managed-disks/&#xA;Azure Managed Disks are the new and recommended disk storage offering for use with Azure virtual machines for persistent storage of data. You can use multiple Managed Disks with each virtual machine. We offer four types of Managed Disks — Ultra Disk, Premium SSD Managed Disks, Standard SSD Managed Disks, Standard HDD Managed Disks.&#xA;&#xA;Are you looking for pricing details for Page Blobs also referred as Unmanaged Disks? See Unmanaged Disk and Page Blob pricing.&#xA;&#xA;Pricing reflects preview discount for items that are in preview. When the preview ends, GA pricing will come in to effect.">
+  <properties
+      key="icon"
+      value="/Storage/AzureManagedDisks.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

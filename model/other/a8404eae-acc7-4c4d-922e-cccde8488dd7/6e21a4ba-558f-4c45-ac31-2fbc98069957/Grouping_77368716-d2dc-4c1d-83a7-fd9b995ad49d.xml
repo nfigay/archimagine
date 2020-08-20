@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AI Machine Learning (in fact 39 services described on the Azure Web site)"
+    id="77368716-d2dc-4c1d-83a7-fd9b995ad49d"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/ink-recognizer/&#xA;&#xA;&#xA;Ink Recognizer PREVIEW&#xA;An AI service that recognizes digital ink content, such as handwriting, shapes, and ink document layout&#xA;&#xA;Integrate digital ink recognition into your applications&#xA;Create application experiences that combine pen and paper interaction with powerful digital capabilities. Recognize digital handwriting, common shapes, and the layout of inked documents for various scenarios like notetaking, form-filling, content search, and document annotation.&#xA;&#xA;Recognize handwriting created in digital ink, in 63 languages and locales.&#xA;&#xA;Identify common polygon shapes in digital ink along with their geometric hot points and layout coordinates.&#xA;&#xA;Enable productivity scenarios, such as converting handwriting to text and making inked content searchable"/>

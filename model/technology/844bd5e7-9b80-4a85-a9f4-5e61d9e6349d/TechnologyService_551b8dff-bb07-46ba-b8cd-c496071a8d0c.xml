@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureDNS"
+    id="551b8dff-bb07-46ba-b8cd-c496071a8d0c"
+    documentation="Azure DNS&#xA;Host your domain in Azure for outstanding performance and availability&#xA;https://azure.microsoft.com/en-us/services/dns/&#xA;DNS hosted alongside your apps&#xA;Ultra-high availability&#xA;Fast DNS queries&#xA;Quick updates to DNS records&#xA;Supports all common DNS record types&#xA;&#xA;Host your DNS alongside your apps&#xA;Use Azure DNS to host your Domain Name System (DNS) domains in Azure. Manage your DNS records using the same credentials, and billing and support contract, as your other Azure services. Seamlessly integrate Azure-based services with corresponding DNS updates and streamline your end-to-end deployment process.&#xA;Accelerate your apps with fast DNS queries&#xA;Azure DNS uses a global network of name servers to provide fast responses to DNS queries. We use Anycast networking, so DNS queries automatically route to the closest name servers to give you the best possible performance.&#xA;Rely on the Microsoft global network of DNS servers&#xA;The Microsoft global network of name servers has the scale and redundancy to give you ultra-high availability for your domains. With Azure DNS, you can be confident that your DNS will always be available.&#xA;Get DNS updates without the wait&#xA;When you add a new DNS record, the Azure DNS name servers are updated in a few seconds—so you don’t have to wait long before that DNS record can be used.&#xA;Azure DNS Private Zones&#xA;Azure DNS Private Zones provides a simple, reliable, secure DNS service to manage and resolve names in a VNET without the need for you to create and manage custom DNS solution. This new capability allows you to use your own domain names, rather than the Azure-provided names available today, and provides name resolution for VM’s within a VNet and between VNets. Additionally, you can configure zones names with a split-horizon view allowing a private and a public DNS zone to share the same name.">
+  <properties
+      key="icon"
+      value="/Networking/AzureDNS.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

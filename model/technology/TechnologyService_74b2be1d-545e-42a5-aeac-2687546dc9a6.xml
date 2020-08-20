@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SpeakerRecognition"
+    id="74b2be1d-545e-42a5-aeac-2687546dc9a6"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/speaker-recognition/&#xA;Speaker Recognition PREVIEW&#xA;Use speech to identify and verify individual speakers&#xA;&#xA;Determine who is speaking&#xA;Accurately verify and identify speakers by their unique voice characteristics.&#xA;&#xA;Speaker verification&#xA;Use voice to verify speakers.&#xA;&#xA;Speaker identification&#xA;Identify individual speakers within a group.&#xA;&#xA;Built-in security&#xA;Secure your speech data with enterprise-grade security and compliance.&#xA;&#xA;Enable frictionless, secure customer experiences&#xA;Improve the customer experience by streamlining verification processes. Use voice to verify individuals for secure, frictionless customer engagements in a wide range of solutions, from web applications to call centers. Speaker verification can use either passphrases or free-form voice input.&#xA;&#xA;Unlock value from scenarios with multiple speakers&#xA;Determine a speaker’s identity from within a group of enrolled speakers. Speaker identification enables you to attribute speech to individual speakers, support multiuser voice recognition for personalized interactions, and more.&#xA;&#xA;Comprehensive privacy and security&#xA;The Speech service, part of Azure Cognitive Services, is certified by SOC, FedRamp, PCI, HIPAA, HITECH, and ISO.&#xA;You control your data. Create, update, or remove enrollment data for individual speakers at any time.&#xA;Backed by Azure infrastructure, the Speech service offers enterprise-grade security, availability, compliance, and manageability.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/SpeakerRecognition.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureSQLDatabase"
+    id="4e2e64d4-8219-4894-887e-f3acfb3f4501"
+    documentation="https://azure.microsoft.com/fr-fr/services/sql-database/&#xA;The best destination for fully managed SQL in the cloud&#xA;Azure SQL Database is the intelligent, scalable, cloud database service that provides the broadest SQL Server engine compatibility and up to a 212% return on investment. Migrate existing apps or build new apps on Azure - the best cloud destination for your mission-critical SQL Server workloads.&#xA;&#xA;Azure SQL Database is now Azure Arc-enabled. You can run this service on premises on infrastructure of your choice with cloud benefits like automation, no end of support, unified management, and a cloud billing model.">
+  <properties
+      key="icon"
+      value="/Databases/AzureSqlDatabase.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

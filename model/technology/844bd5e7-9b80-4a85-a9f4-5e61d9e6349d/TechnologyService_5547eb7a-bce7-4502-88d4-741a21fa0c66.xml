@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureFiles"
+    id="5547eb7a-bce7-4502-88d4-741a21fa0c66"
+    documentation="https://azure.microsoft.com/en-us/services/storage/files/&#xA;&#xA;Azure Files&#xA;Simple, secure, and fully managed cloud file shares&#xA;Extend your servers to Azure with Sync for on-premises performance and capability&#xA;Secure data at rest and in-transit using SMB 3.0 and HTTPS&#xA;Simplify cloud file share management using familiar tools&#xA;Create high-performance file shares using the Premium Files storage tier&#xA;&#xA;Take advantage of fully managed file shares in the cloud that are accessible via the industry-standard Server Message Block (SMB) protocol. Mount file shares concurrently in the cloud or on-premises on Windows, Linux, and macOS. Plus, cache Azure file shares on Windows Servers with Azure File Sync for local access performance. Use premium shares for performance-sensitive, IO intensive workloads and standard shares for reliable, general purpose file storage.&#xA;&#xA;&#xA;Secure&#xA;Rest assured knowing your data is encrypted at rest and in transit using SMB 3.0 and HTTPS.&#xA;&#xA;&#xA;Easily managed&#xA;Deploy file shares without having to manage hardware or operating system deployments—letting you focus on your users instead.&#xA;&#xA;&#xA;Smart&#xA;Quickly access your files over high latency, low bandwidth links via smart caching of commonly used on-premises files using Azure File Sync.&#xA;&#xA;&#xA;Built for hybrid flexibility&#xA;Access your data from where you want to using SMB, REST, or even on-premises with Azure File Sync.&#xA;&#xA;&#xA;Cross-platform&#xA;Mount your Azure File share from Windows, Linux, or macOS.&#xA;&#xA;&#xA;Harmonious&#xA;Migrate file share-dependent applications to the cloud without breaking existing code.">
+  <properties
+      key="icon"
+      value="/Storage/AzureFileStorage.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

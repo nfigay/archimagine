@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureSpringCloud"
+    id="fd21221b-86ae-4886-8ed0-04cd0aa5ce99"
+    documentation="https://azure.microsoft.com/en-us/services/spring-cloud/&#xA;Fully managed Spring Cloud service, jointly built and operated with VMware&#xA;&#xA;Simplify Spring Boot app development and management&#xA;Use Spring Cloud to bring modern microservice patterns to Spring Boot apps, eliminating boilerplate code to quickly develop robust Java apps. Easily deploy, operate, and scale your apps in a fully managed environment.&#xA;&#xA;Fully managed microservice development with built-in service discovery and configuration management&#xA;Joint engineering, operation, and integrated support by Microsoft and VMware&#xA;Quickly troubleshoot or identify bottlenecks with Azure Monitor&#xA;Easily build your Java applications, from source to container, with the fully integrated VMware Tanzu Build Service&#xA;&#xA;Accelerate development&#xA;&#xA;Quickly develop and deliver your Java apps using fully managed Spring Cloud components, including service discovery, configuration management, and distributed tracing. Just deploy your source code or build artifacts, and Azure Spring Cloud will automatically wire your app with the Spring Cloud infrastructure.&#xA;&#xA;Monitor your apps&#xA;&#xA;Gain deep insights into application dependencies and operational telemetry using Azure Monitor. Aggregate metrics for a topological view of how different services interact and see average performance and error rates. Easily identify the root cause of reliability issues and performance bottlenecks.&#xA;Extend your apps using Spring starters&#xA;&#xA;Use a large portfolio of Spring starters to easily interact with Azure services such as Azure Cosmos DB, Azure Active Directory, and Key Vault.&#xA;&#xA;Include Spring starters in your app instead of manually figuring out related dependencies. Spring starter development is open to the community, and we welcome code contributions.&#xA;&#xA;Learn more about Spring on Azure&#xA;Simplify infrastructure management&#xA;&#xA;Run your Spring Boot apps on a fully managed service with scalable global infrastructure. Reduce downtime and deployment risk with turnkey support for blue-green deployments.">
+  <properties
+      key="icon"
+      value="/Web/AzureSpringCloud.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

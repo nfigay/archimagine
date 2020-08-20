@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureVirtualMachineScaleSet"
+    id="1fb5aa1f-0760-46c2-9e3c-99e13ab540e5"
+    documentation="Virtual Machine Scale Sets&#xA;Apply autoscaling to virtual machines for high availability&#xA;https://azure.microsoft.com/en-us/services/virtual-machine-scale-sets/&#xA;&#xA;Create thousands of identical virtual machines in minutes&#xA;Quickly scale your big compute and big data applications&#xA;Rely on integrated load balancing and autoscaling&#xA;Attach additional data disks as per your application requirement&#xA;Deploy virtual machines and updates at scale&#xA;Support Linux or Windows images and extensions&#xA;Run Cassandra, Cloudera, Hadoop, MongoDB, and Mesos&#xA;Deploy across availability zones to protect against datacenter failures&#xA;&#xA;Control it like IaaS, scale it like PaaS&#xA;Deploy Virtual Machine Scale Sets using Azure Resource Manager templates—with support for Windows and Linux platform images, as well as custom images and extensions.&#xA;&#xA;Reliably deploy and update at large scale&#xA;You can confidently deploy hundreds of identical virtual machines in minutes. With easy updates at scale, focus more on what matters—your application—and less on the infrastructure.&#xA;&#xA;Scale automatically&#xA;Integrated with Azure Insights Autoscale, Virtual Machine Scale Sets gives you true autoscaling. There’s no need to pre-provision virtual machines, so you use only the compute resources your application needs at any time.&#xA;&#xA;Simplify networking&#xA;Virtual Machine Scale Sets integrate with Azure networking resources such as Azure Load Balancer and Application Gateway. Easily spread your workloads across the virtual machines in your Virtual Machine Scale Set, and configure network address translation (NAT) rules to connect to specific virtual machine instances for troubleshooting.&#xA;&#xA;Support hyperscale workloads&#xA;Virtual Machine Scale Sets are elastic and designed to support your scale-out workloads—including stateless web front ends, container orchestration, and microservices clusters. Azure Kubernetes Service and Azure Service Fabric run on Virtual Machine Scale Sets.">
+  <properties
+      key="icon"
+      value="/Compute/AzureVirtualMachineScaleSet.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

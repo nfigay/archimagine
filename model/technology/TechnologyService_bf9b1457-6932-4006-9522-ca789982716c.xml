@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BingVisualSearch"
+    id="bf9b1457-6932-4006-9522-ca789982716c"
+    documentation="Bing Visual Search&#xA;&#xA;Get rich insights to help build compelling image applications on the device of your choice.&#xA;&#xA;Deliver new experiences that enable users to search with images and gain insights in compelling new ways.&#xA;&#xA;Discover intelligent context identification&#xA;Use smart identification of image content to recognize celebrities, find products, or search for related content. Bing Visual Search automatically identifies the type of picture, recognizing image context whether it is a barcode, a business card, or a product.&#xA;&#xA;&#xA;Enhance product recommendations for your business&#xA;Create compelling product recommendations for your domain through visually similar images and products. For example, build a crop-free product selection experience for your users to detect and delineate fashion products automatically.&#xA;&#xA;&#xA;Make your applications and devices intelligent&#xA;Add search intelligence to your apps and devices. Integrate with any image source to get annotations and information, whether using a bot, mobile device, or output from another Cognitive Service.&#xA;&#xA;&#xA;Augment image understanding through OCR&#xA;Extract structured textual information to build better search results by reading the text in images using optical character recognition (OCR).&#xA;&#xA;&#xA;Powerful statistics for your queries&#xA;Inform your strategic decisions with the Bing Statistics add-in. Quickly retrieve statistics such as your top queries, call volume, market distribution, response code summary, and many more—and derive rich insights to advance your business. Visit the portal to consume these statistics. You can subscribe to Bing Statistics Add-in from Azure Portal.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/png-transparent-bing-visual-search-microsoft-azure-microsoft-angle-text-bing-thumbnail.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

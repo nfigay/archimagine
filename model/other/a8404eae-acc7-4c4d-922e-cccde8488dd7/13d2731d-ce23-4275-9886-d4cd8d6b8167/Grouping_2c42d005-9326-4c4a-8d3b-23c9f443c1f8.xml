@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avoid charges"
+    id="2c42d005-9326-4c4a-8d3b-23c9f443c1f8"
+    documentation="https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/avoid-charges-free-account">
+  <properties
+      key="IRI"
+      value="https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/avoid-charges-free-account"/>
+</archimate:Grouping>

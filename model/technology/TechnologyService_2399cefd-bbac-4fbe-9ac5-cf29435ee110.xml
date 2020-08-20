@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectBonsai"
+    id="2399cefd-bbac-4fbe-9ac5-cf29435ee110"
+    documentation="https://azure.microsoft.com/en-us/services/project-bonsai/&#xA;&#xA;Project Bonsai PREVIEW&#xA;A machine teaching service for creating intelligent industrial control systems using simulations&#xA;&#xA;Machine teaching for intelligent control systems&#xA;Build and manage autonomous systems that are explainable, auditable, reusable, and trustworthy without needing advanced data science skills. Project Bonsai is available in preview.&#xA;&#xA;Machine teaching service for building intelligence into control systems and optimizing it without knowing data science or AI&#xA;&#xA;Simulator integration supports leading industrial simulators in engineering, manufacturing, energy, robotics, and supply chain&#xA;&#xA;Custom deployment modes to fit your operational needs—on the cloud, at the edge, or on a device&#xA;&#xA;Integrated dashboard to build, train, debug, inspect, and deploy AI models for intelligent control systems&#xA;&#xA;Build intelligent control systems&#xA;Help machinery and processes adapt in real time to changing conditions. Use advanced AI techniques like machine teaching and deep reinforcement learning to solve complex problems across manufacturing, process control/optimization, logistics, and energy management.&#xA;&#xA;Explore autonomous systems&#xA;Create with AI using your expertise&#xA;Use your team’s subject matter expertise to accelerate the development of tailored control systems—no data science experience required. Build the AI “brains” that power these autonomous systems through a combination of machine teaching, reinforcement learning, simulation, and deployment capabilities.&#xA;&#xA;Learn more about machine teaching&#xA;Deploy and manage on your terms&#xA;Deploy intelligent controllers to the cloud, at the edge, or on a device—whichever best fits your operational needs—while maintaining control and clear understanding of your autonomous systems.&#xA;&#xA;Learn about getting started">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/ProjectBonsai.png"/>
+  <properties
+      key="icon size"
+      value="50x25"/>
+</archimate:TechnologyService>

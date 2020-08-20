@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BingWebSearch"
+    id="b44bcd44-a322-4c51-a5cc-b9c7b852866f"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/&#xA;&#xA;Bing Web Search&#xA;Bring intelligent search to your apps and harness the ability to comb billions of webpages, images, videos, and news with a single API call.&#xA;&#xA;Get enhanced search details from billions of web documents&#xA;Retrieve web documents indexed by Bing Web Search API v7 and narrow down the results by result type, freshness and more. With API v7, discover improved query performance for your results. Try out the demo. Submit a query via the search box or click on one of the provided examples.&#xA;&#xA;&#xA;Powerful statistics for your queries&#xA;Inform your strategic decisions with the Bing Statistics add-in. Quickly retrieve statistics such as your top queries, call volume, market distribution, response code summary, and many more—and derive rich insights to advance your business. Visit the portal to consume these statistics. You can subscribe to Bing Statistics Add-in from Azure Portal.&#xA;&#xA;Result and answer ranking&#xA;Search results and answers can be ranked and arranged to fit your layout.&#xA;&#xA;&#xA;Instant answers&#xA;Use relevant Bing answers, including image, video, news, calculator, and time zone.&#xA;&#xA;&#xA;Location and market-aware results&#xA;Results are customized to the location or market of the user. The location or market can be determined implicitly (via IP address) or configured explicitly.&#xA;&#xA;&#xA;Safe search and adult intent&#xA;Customize the safe-search level of the results. Response also includes an adult intent flag, specified as a true or false value.&#xA;&#xA;&#xA;Spelling suggestions&#xA;Get spelling suggestions for queries when Bing is confident of a misspelling.&#xA;&#xA;&#xA;Related searches&#xA;Help users discover more search options with a list of related queries.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/AzureBingWebSearch.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

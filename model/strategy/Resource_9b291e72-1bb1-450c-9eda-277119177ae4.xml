@@ -1,0 +1,11 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="azuread"
+    id="9b291e72-1bb1-450c-9eda-277119177ae4">
+  <properties
+      key="client_id"
+      value="var.client.id"/>
+  <properties
+      key="client_secret"
+      value="var.client.secret"/>
+</archimate:Resource>

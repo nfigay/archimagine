@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CostManagementBilling"
+    id="dfe643dc-b2e9-46a4-88ec-44d55f1b8f68"
+    documentation="https://azure.microsoft.com/en-us/services/cost-management/&#xA;&#xA;Azure Cost Management + Billing&#xA;Optimize cloud costs while maximizing cloud potential&#xA;&#xA;Get a full set of cloud cost management capabilities&#xA;Take advantage of the tools included in your Azure subscription to get more value out of the cloud and implement financial governance in your organization.&#xA;&#xA;Always on by default and integrated in the Azure portal&#xA;Best-in-class performance, with data latency of eight hours or less&#xA;Integration with Azure Advisor to optimize cloud costs by taking advantage of reservations, rightsizing, or removing idle resources&#xA;More customization capabilities using Microsoft Power BI connectors and Cost Management APIs&#xA;Azure Cost Management&#xA;Monitor cloud spending&#xA;&#xA;Track resource usage and manage costs across all your clouds with a single, unified view, and access rich operational and financial insights to make informed decisions.&#xA;&#xA;Increase organizational accountability&#xA;&#xA;Implement governance policies for effective enterprise cloud cost management, and increase accountability with budgets, cost allocation, and chargebacks.&#xA;&#xA;Optimize cloud efficiency&#xA;&#xA;Improve the return on your cloud investment by using continuous cost optimization and industry best practices.&#xA;&#xA;Manage your Azure and AWS spending&#xA;&#xA;Now in public preview: Manage costs across Azure and AWS from a single location. Get insights based on data from both clouds to simplify your cost management processes.">
+  <properties
+      key="icon"
+      value="/Management/AzureCostManagementBilling.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

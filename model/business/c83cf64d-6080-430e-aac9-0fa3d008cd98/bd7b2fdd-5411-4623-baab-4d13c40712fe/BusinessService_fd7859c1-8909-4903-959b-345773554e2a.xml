@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="my Implemented Control Measure"
+    id="fd7859c1-8909-4903-959b-345773554e2a">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Implemented Control Measure"/>
+</archimate:BusinessService>

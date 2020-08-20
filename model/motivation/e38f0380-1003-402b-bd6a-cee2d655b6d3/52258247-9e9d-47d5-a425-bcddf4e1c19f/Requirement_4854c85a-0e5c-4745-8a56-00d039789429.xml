@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="my Requirement"
+    id="4854c85a-0e5c-4745-8a56-00d039789429">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Security Requirement"/>
+</archimate:Requirement>

@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Service"
+    id="c5a96245-3487-4c43-ba6c-27436796d11e">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/BingEntitySearch.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

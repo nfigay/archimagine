@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureStorage"
+    id="741a4495-aadb-48dc-a81f-b15b8d25d335"
+    documentation="https://azure.microsoft.com/en-us/services/storage/&#xA;&#xA;Storage&#xA;Offload the heavy lifting of datacenter management&#xA;&#xA;Range of solutions for your needs&#xA;Scalability you won’t outgrow&#xA;Flexible as your needs change&#xA;Lower costs, and pay only for what you need&#xA;&#xA;File&#xA;Simple, distributed, cross-platform file system&#xA;&#xA;Lift and shift migration&#xA;Simple and inexpensive&#xA;Move data to cloud with no coding&#xA;Learn more&#xA;Disk&#xA;Persistent, high-performance disk storage for every workload&#xA;&#xA;Low latency, high throughput&#xA;Industry-leading, single-instance service-level agreement&#xA;Enterprise-grade durability&#xA;Learn more&#xA;Blob&#xA;Massively-scalable object storage for unstructured data&#xA;&#xA;Cost-effective for massive volume&#xA;Tiered storage options&#xA;Single infrastructure with global reach&#xA;Learn more&#xA;Data Lake Storage&#xA;Secure, massively scalable data lake storage.&#xA;&#xA;Limitless storage for analytics data&#xA;Optimized for Apache Spark and Hadoop analytics engines&#xA;High-performance file system with support for fine-grained ACLs&#xA;Learn more&#xA;Archive&#xA;Industry leading price point for storing rarely accessed data&#xA;&#xA;Data automatically encrypted at rest&#xA;Seamless integration with hot and cool storage tiers&#xA;Supported by leading Data Management partners&#xA;Learn more&#xA;HPC Cache&#xA;File caching for high-performance computing&#xA;&#xA;Accelerate data access for large, file-based workloads&#xA;Support existing HPC workloads in Azure&#xA;Simplify storage resource management&#xA;Learn more">
+  <properties
+      key="icon"
+      value="/Storage/AzureStorage.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

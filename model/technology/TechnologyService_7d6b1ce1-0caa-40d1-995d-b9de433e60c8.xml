@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Face"
+    id="7d6b1ce1-0caa-40d1-995d-b9de433e60c8"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/face/&#xA;Face&#xA;An AI service that analyzes faces in images&#xA;Deliver low-friction, state-of-the-art facial recognition&#xA;Embed facial recognition into your apps for a seamless and highly secured user experience. No machine learning expertise is required. Features include: face detection that perceives faces and attributes in an image; person identification that matches an individual in your private repository of up to 1 million people; perceived emotion recognition that detects a range of facial expressions like happiness, contempt, neutrality, and fear; and recognition and grouping of similar faces in images.&#xA;Advanced facial recognition&#xA;Recognize faces according to diverse attributes.&#xA;&#xA;Easy-to-use&#xA;Add facial recognition to your apps—all through a single API call.&#xA;&#xA;Flexible deployment&#xA;Run Face in the cloud or on the edge in containers.&#xA;&#xA;Built-in security&#xA;Rely on enterprise-grade security and privacy applied to both your data and any trained models.&#xA;&#xA;Apply facial recognition for a range of scenarios&#xA;Detect, identify, and analyze faces in images and videos. Build on top of this technology to support various scenarios—for example, authenticate people for access, count people in a space for crowd control, or garner crowd insights for media campaigns.&#xA;&#xA;Face detection&#xA;Detect one or more human faces along with attributes such as: age, emotion, gender, pose, smile, and facial hair, including 27 landmarks for each face in the image.&#xA;&#xA;Get to market quickly&#xA;With Face, there’s no need to build facial recognition from scratch. All it takes is a single API call to deliver these capabilities in your apps.&#xA;&#xA;&#xA;Deploy anywhere, from the cloud to the edge&#xA;Run Face in the cloud or on-premises with containers for various scenarios, including in-store and off-shore, where data security and low latency are paramount.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/Face.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

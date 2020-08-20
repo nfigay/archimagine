@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureSiteRecovery"
+    id="c234bd2c-be18-4a3c-b655-eae32bca2fe9"
+    documentation="Azure’s built-in disaster recovery as a service (DRaaS)&#xA;https://azure.microsoft.com/en-us/services/site-recovery/&#xA;&#xA;https://www.gartner.com/doc/reprints?id=1-6SQE4Z2&amp;ct=190610&amp;st=sb&#xA;&#xA;Help your business to keep doing business—even during major IT outages. Azure Site Recovery offers ease of deployment, cost effectiveness, and dependability. Deploy replication, failover, and recovery processes through Site Recovery to help keep your applications running during planned and unplanned outages.&#xA;&#xA;Site Recovery is a native disaster recovery as a service (DRaaS), and Microsoft has been recognized as a leader in DRaaS based on completeness of vision and ability to execute by Gartner in the 2019 Magic Quadrant for Disaster Recovery as a Service.&#xA;&#xA;Simple to deploy and manage&#xA;Set up Azure Site Recovery simply by replicating an Azure VM to a different Azure region directly from the Azure portal. As a fully integrated offering, Site Recovery is automatically updated with new Azure features as they’re released. Minimize recovery issues by sequencing the order of multi-tier applications running on multiple virtual machines. Ensure compliance by testing your disaster recovery plan without impacting production workloads or end users. And keep applications available during outages with automatic recovery from on-premises to Azure or Azure to another Azure region.&#xA;&#xA;&#xA;Reduce infrastructure costs&#xA;Reduce the cost of deploying, monitoring, patching, and maintaining on-premises disaster recovery infrastructure by eliminating the need for building or maintaining a costly secondary datacenter. Plus, you pay only for the compute resources you need to support your applications in Azure.&#xA;&#xA;Minimize downtime with dependable recovery&#xA;Easily comply with industry regulations such as ISO 27001 by enabling Site Recovery between separate Azure regions. Scale coverage to as many business-critical applications as you need, backed by Azure’s service availability and support. Restore your most recent data quickly with Site Recovery">
+  <properties
+      key="icon"
+      value="/Management/AzureSiteRecovery.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

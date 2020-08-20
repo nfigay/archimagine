@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="cd2b0374-9b80-435f-9f5d-795d20bf68c0"
+    strength="-">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_e0c23c67-e0f3-4ef2-ac38-957399420285.xml#e0c23c67-e0f3-4ef2-ac38-957399420285"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_ff928724-f6fe-4ea3-910c-97970be92b6a.xml#ff928724-f6fe-4ea3-910c-97970be92b6a"/>
+</archimate:InfluenceRelationship>

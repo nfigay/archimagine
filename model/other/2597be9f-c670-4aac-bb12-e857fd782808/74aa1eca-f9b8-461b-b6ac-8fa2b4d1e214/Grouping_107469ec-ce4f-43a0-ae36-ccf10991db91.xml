@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Facilities"
+    id="107469ec-ce4f-43a0-ae36-ccf10991db91">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Risk Mitigation Domain"/>
+</archimate:Grouping>

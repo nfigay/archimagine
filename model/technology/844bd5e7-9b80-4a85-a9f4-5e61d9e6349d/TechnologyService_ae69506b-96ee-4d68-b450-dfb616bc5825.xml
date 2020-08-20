@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureRedisCache"
+    id="ae69506b-96ee-4d68-b450-dfb616bc5825"
+    documentation="Azure Cache for Redis&#xA;Fully managed, open source–compatible in-memory data store to power fast, scalable applications&#xA;https://azure.microsoft.com/en-us/services/cache/&#xA;&#xA;Fully managed service&#xA;Enjoy a fully managed version of the popular open-source Redis server with a turnkey caching solution. Harness the benefits without the need to become an expert in deploying and managing it.&#xA;High performance&#xA;Azure Cache for Redis achieves superior throughput and latency performance by storing data in memory instead of on disk. It consistently serves read and write requests within single-digit milliseconds, delivering exceedingly fast cache operations to scale data tiers as application loads increase.&#xA;Built-in reliability&#xA;Standard and Premium tiers include a redundant pair of virtual machines (VMs) configured for data replication to ensure maximum reliability. Premium caches also can replicate data across Azure regions as part of an application’s disaster-recovery implementation.&#xA;Flexible scaling&#xA;With three tiers, Azure Cache for Redis fits your needs. Start with any cache size and scale up to a larger one later without any service downtime, or scale down a cache within the same tier.&#xA;Enterprise-grade security&#xA;Azure Cache for Redis supports industry-standard SSL to secure your data in transit and Azure Storage disk encryption at rest. Premium caches can be placed in your own Azure Virtual Network (VNet) so that you can further restrict traffic routes to and from your cache through your VNet topology and access policies.&#xA;Open source compatible&#xA;At its core, Azure Cache for Redis is backed by the open-source Redis server and natively supports data structures such as strings, hashes, lists, sets, and sorted sets. If your application uses Redis, it’ll work as-is with Azure Cache for Redis.&#xA;">
+  <properties
+      key="icon"
+      value="/Databases/AzureRedisCache.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

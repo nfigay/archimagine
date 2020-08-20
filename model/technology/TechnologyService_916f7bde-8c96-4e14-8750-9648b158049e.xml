@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureOpenDataset"
+    id="916f7bde-8c96-4e14-8750-9648b158049e"
+    documentation="https://azure.microsoft.com/en-us/services/open-datasets/&#xA;&#xA;Azure Open Datasets&#xA;Curated open data made easily accessible on Azure&#xA;Easily access curated datasets and accelerate machine learning&#xA;Improve the accuracy of your machine learning models with publicly available datasets. Save time on data discovery and preparation by using curated datasets that are ready to use in machine learning workflows and easy to access from Azure services.&#xA;&#xA;Weather&#xA;&#xA;Satellite imagery&#xA;&#xA;Socioeconomic data&#xA;&#xA;City safety&#xA;&#xA;Public holidays&#xA;&#xA;Sample datasets for machine learning&#xA;Search datasets&#xA;&#xA;&#xA;Quickly build more accurate models&#xA;Account for real-world factors that can impact business outcomes. By incorporating features from curated datasets into your machine learning models, improve the accuracy of predictions and reduce data preparation time.&#xA;&#xA;Promote community collaboration&#xA;Share datasets with a growing community of data scientists and developers.&#xA;&#xA;Speed insights with Azure scale&#xA;Deliver insights at hyperscale using Azure Open Datasets with Azure’s machine learning and data analytics solutions">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/AzureOpenDataset.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

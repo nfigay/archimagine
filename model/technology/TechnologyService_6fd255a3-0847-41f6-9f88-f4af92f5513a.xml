@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ComputerVision"
+    id="6fd255a3-0847-41f6-9f88-f4af92f5513a"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/&#xA;&#xA;Computer Vision&#xA;An AI service that analyzes content in images&#xA;&#xA;Extract rich information from images&#xA;Boost content discoverability, accelerate text extraction, and create products that more people can use by embedding vision capabilities in your apps. Use visual data processing to label content, from objects to concepts, extract printed and handwritten text, recognize familiar subjects like brands and landmarks, and moderate content. No machine learning expertise is required.&#xA;&#xA;Innovation within reach&#xA;Transform your app with computer vision—all through an API call.&#xA;&#xA;Powerful content extraction&#xA;Pull from a deep index of more than 10,000 objects and 25 languages that collects insights at scale.&#xA;&#xA;Vision for all users&#xA;Extend capabilities to more users, with the image description feature.&#xA;&#xA;Flexible deployment&#xA;Run Computer Vision in the cloud or on the edge, in containers.&#xA;&#xA;Transform your processes&#xA;Automatically identify more than 10,000 objects and 25 languages. Streamline processes across multiple scenarios, such as robotic process automation and digital asset management, with rich data extraction from images.&#xA;&#xA;Extend your apps to more users&#xA;Empower users with low vision by providing descriptions of images. Learn how Microsoft applies Computer Vision to PowerPoint, Word, Outlook, and Excel for auto-captioning of images for low-vision users. And help users navigate the world around them by pairing Computer Vision with Immersive Reader to turn pictures of text into words read aloud.&#xA;&#xA;Turn your camera into an inclusivity tool&#xA;Deploy anywhere, from the cloud to the edge&#xA;Run Computer Vision in the cloud or on-premises with containers. Apply it to diverse scenarios, like healthcare record image analysis, where data security and low latency are paramount.&#xA;&#xA;Learn about Computer Vision in containers">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/ComputerVision.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

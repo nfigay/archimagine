@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureAPIManagement"
+    id="102c13e0-58e8-493f-a3d8-39770e087419"
+    documentation="API Management&#xA;Hybrid, multi-cloud management platform for APIs across all environments&#xA;https://azure.microsoft.com/en-us/services/api-management/&#xA;&#xA;Move faster with unified API management&#xA;Today's innovative enterprises are adopting API architectures to accelerate growth. Streamline your work across hybrid and multi-cloud environments with a single place for managing all your APIs.&#xA;&#xA;Manage APIs across clouds and on-premises&#xA;In addition to Azure, deploy the API gateways side-by-side with the APIs hosted in other clouds and on-premises to optimize API traffic flow. Meet security and compliance requirements while enjoying a unified management experience and full observability across all internal and external APIs.&#xA;&#xA;Help protect your resources&#xA;Selectively expose data and services to employees, partners, and customers by applying authentication, authorization, and usage limits.&#xA;&#xA;Accelerate your business&#xA;Build apps faster and deliver immediate value to your customers through API-first approaches. Decouple front- and back-end teams through API mocking, API revisions and versioning, and automating API documentation. See how Wegmans created a new mobile application in under eight weeks.&#xA;&#xA;Improve API discoverability&#xA;Create a customizable developer portal for all your APIs. Easily share APIs with internal teams, external partners, and customers.&#xA;&#xA;Transform your existing services&#xA;Automatically turn legacy web services into modern REST-based APIs by creating façades for your back-end services. See how innovators like Vipps, a leading payment service in Norway, are revolutionizing development using Azure API Management.&#xA;&#xA;Help secure your APIs&#xA;Keep all your APIs behind a single static IP or domain, and help protect them with keys, tokens, and IP filtering.&#xA;Enforce flexible and fine-grained quotas and rate limits. Modify the shape and behavior of your APIs using policies. And improve latency and scale your APIs with response caching.&#xA;Connect on-premises APIs to cloud services by creating a façade that lets you safely integrate on-premises and cloud environments.">
+  <properties
+      key="icon"
+      value="/Web/AzureAPIManagement.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureServiceFabricMesh"
+    id="5de178e3-8292-46a4-be73-762f639eb156"
+    documentation="Build and operate always-on, scalable, distributed apps&#xA;&#xA;Simplify microservices development and application lifecycle management&#xA;Reliably scale and orchestrate containers and microservices&#xA;Data-aware platform for low-latency, high-throughput workloads with stateful containers or microservices&#xA;Run anything – your choice of languages and programming models&#xA;Run anywhere – supports Windows/Linux in Azure, on-premises, or other clouds&#xA;Scales up to thousands of machines&#xA;&#xA;Trust a proven platform for mission-critical applications&#xA;Focus on building applications and business logic, and let Azure solve the hard distributed systems problems such as reliability, scalability, management, and latency. Service Fabric is an open source project and it powers core Azure infrastructure as well as other Microsoft services such as Skype for Business, Intune, Azure Event Hubs, Azure Data Factory, Azure Cosmos DB, Azure SQL Database, Dynamics 365, and Cortana. Designed to deliver highly available and durable services at cloud-scale, Azure Service Fabric intrinsically understands the available infrastructure and resource needs of applications, enabling automatic scale, rolling upgrades, and self-healing from faults when they occur.&#xA;&#xA;Choose from a variety of productive programming models and languages including .NET Core 2.0, C#, and Java to build your microservice and container-based applications. Deploy Service Fabric cluster in Azure or use Azure Service Fabric mesh - a fully managed microservices platform, currently in preview. Azure Service Fabric is also available as a free download for Windows Server, enabling you to create Service Fabric clusters on premises or in other clouds.">
+  <properties
+      key="icon"
+      value="/Containers/AzureServiceFabricMesh.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,8 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="my Risk"
+    id="48530fa9-c7a6-415d-9cdf-a7c92a71a369">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Risk"/>
+</archimate:Assessment>

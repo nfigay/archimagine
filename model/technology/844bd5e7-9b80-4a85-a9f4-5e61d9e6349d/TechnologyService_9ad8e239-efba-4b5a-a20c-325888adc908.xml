@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureMigrate"
+    id="9ad8e239-efba-4b5a-a20c-325888adc908"
+    documentation="https://azure.microsoft.com/en-us/services/azure-migrate/&#xA;Azure Migrate&#xA;A central hub of tools to discover, assess, and migrate workloads to Azure&#xA;&#xA;Simplify your migration journey&#xA;Azure Migrate provides a hub of tools to discover, assess, and migrate on-premises applications, infrastructure, and data. Centrally plan and track the migration in one central dashboard.&#xA;&#xA;Support for key migration scenarios across Servers, Data, Databases, Web Applications, and Virtual Desktops&#xA;Comprehensive discovery, assessment, and migration capabilities powered by Azure and partner tools&#xA;Centralized migration repository delivering end-to-end tracking and insights&#xA;Save costs and migrate efficiently with free tooling and Azure cost optimization&#xA;&#xA;Multiple Scenarios&#xA;&#xA;A comprehensive approach to migrating your application and datacenter estate. Supports key migration workloads like Windows and Linux Server, SQL and other Databases, data, Web Applications, and Virtual Desktops. Holistic across VMware, Hyper-V, physical server, and cloud-to-cloud migration.&#xA;&#xA;Play VideoPlay&#x9;&#xA;Current Time 0:00&#xA;Loaded: 0%Progress: 0%Seekbar Handle&#xA;/&#xA;Duration Time 6:27&#xA;Mute&#xA;Fullscreen&#xA;End-to-end visibility&#xA;&#xA;A guided experience and progress dashboard walks through discovery, assessment, and migration phases for different business areas in one central data repository. Make the best migration decisions with built-in insights and recommendations.&#xA;&#xA;Diverse Capabilities&#xA;&#xA;Take advantage of free Azure tools with features like discovery and readiness, cost estimation, app dependency visualization, and both agent-based and agentless assessment and migration, or choose from a collection of integrated partner tools for additional capabilities.&#xA;&#xA;Save Costs&#xA;&#xA;Migrate efficiently with rapid lift-and-shift migration tooling, all included in your Azure subscription at no additional cost. Right-size resources in the cloud based on performance insights and fluctuating demand. Avoid sunk infrastructure costs from on-premises resources.&#xA;">
+  <properties
+      key="icon"
+      value="/Management/AzureMigrate.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

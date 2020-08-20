@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureWebAppForContainers"
+    id="3017b0dd-4ff1-4480-a3ff-194b2d21958f"
+    documentation="Easily deploy and run containerized applications on Windows and Linux&#xA;&#xA;https://azure.microsoft.com/en-us/services/app-service/containers/&#xA;&#xA;Easily deploy and run containerized applications that scale with your business&#xA;&#xA;Use a fully-managed platform to perform infrastructure maintenance&#xA;&#xA;Take advantage of built-in auto scaling and load balancing&#xA;&#xA;Streamline CI/CD with Docker Hub, Azure Container Registry, and GitHub&#xA;&#xA;&#xA;Deploy to Azure in seconds: It has never been easier to deploy container-based web apps. Just pull container images from Docker Hub or a private Azure Container Registry, and Web App for Containers will deploy the containerized app with your preferred dependencies to production in seconds. The platform automatically takes care of OS patching, capacity provisioning, and load balancing.&#xA;&#xA;Ship updates faster: Automate and simplify your container image deployments through continuous integration/continuous deployment (CI/CD) capabilities with Docker Hub, Azure Container Registry, and Visual Studio Team Services. App Service creates an association with the selected repository, so your apps are updated each time your source code changes. Schedule performance and quality tests in staging environment, and use deployment slots to swap staging to production in seconds, or roll back to previous versions without downtime.&#xA;&#xA;Scale easily on demand: Automatically scale vertically and horizontally based on application needs. Granular scaling rules are available to handle peaks in workload automatically while minimizing costs during off-peak times. Deploy data and host services across multiple locations with just few mouse clicks.&#xA;&#xA;">
+  <properties
+      key="icon"
+      value="/Containers/AzureWebAppForContainers.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

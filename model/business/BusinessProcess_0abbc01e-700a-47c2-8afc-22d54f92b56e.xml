@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create an Azure Kubernetes cluster (AKS)"
+    id="0abbc01e-700a-47c2-8afc-22d54f92b56e"
+    documentation="In this task, we will create an Azure Kubernetes Service cluster.&#xA;From the Azure Portal, select + Create a resource, Containers and select Kubernetes Service.&#xA;In the Basics blade provide the information as below:&#xA;Subscription: Choose the required subscription&#xA;Resource group: Select the appropriate resource group&#xA;Name: NexSys&#xA;Region: Choose the same region as the resource group&#xA;Kubernetes version: 1.15.1 (default).&#xA;Cluster Name: NexSysAKSCluster01&#xA;DNS Name Prefix: NexSys&#xA;Under Node size, click “Change size” to configure your VM size. Search and select “DS2_v2”.&#xA;Set the Node Count to 1&#xA;Click “Next: Authentication“&#xA;"/>

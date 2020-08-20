@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureManagedApplications"
+    id="a1161046-7a4f-423d-a06d-c3d946451b6c"
+    documentation="Azure Managed Applications enable managed service providers (MSPs), independent software vendors (ISVs), and enterprise IT teams to deliver turnkey solutions through the Azure Marketplace or service catalog.&#xA;https://azure.microsoft.com/en-us/services/managed-applications/&#xA;Offer solutions through the Marketplace or service catalog&#xA;Build and manage complete solutions in Azure&#xA;Attach services and support to your solutions in Azure&#xA;Develop solutions for the Azure service catalog that comply with organizational standards&#xA;Create stronger customer relationships through turnkey solutions&#xA;&#xA;Managed applications in the Azure Marketplace&#xA;As an MSP or ISV, use Azure Managed Applications to easily build and deliver fully managed, turnkey applications to your customers. Make them available in the Azure Marketplace to realize these benefits:&#xA;New revenue opportunities by creating new business models and driving incremental revenue through your solutions.&#xA;Enhanced control of your apps—your customers have visibility but limited administrative access.&#xA;Stronger customer relationships when you provide turnkey simplicity and engage in support and product feedback.&#xA;&#xA;Service catalog for managed applications&#xA;Build and deliver turnkey applications to your enterprise IT customers. The service catalog, which allows organizations to create a catalog of approved solutions for Azure, makes acquiring new solutions easy for them—and enables you to provide a better overall experience. Offering Azure Managed Applications through the service catalog, enables you to:&#xA;Provide a turnkey solution so your customers won’t need to spend time learning about cloud infrastructure to take advantage of your applications.&#xA;Ensure your customers use applications and solutions that comply with organizational standards.&#xA;Help your customers spend more time focusing on their business instead of worrying about managing complex solutions—the application lifecycle is managed by IT.">
+  <properties
+      key="icon"
+      value="/Management/AzureManagedApplications.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

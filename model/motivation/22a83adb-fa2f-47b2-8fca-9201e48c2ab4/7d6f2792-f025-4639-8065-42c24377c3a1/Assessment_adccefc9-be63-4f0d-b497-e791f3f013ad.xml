@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customers’ security expectations"
+    id="adccefc9-be63-4f0d-b497-e791f3f013ad"
+    documentation="the perception of Security levels by Customers might differentiate from the actual security (and availability) offered by the CP, or the actual temptation of the CP to reduce costs further by sacrificing on some security aspects.&#xA;">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Risk"/>
+</archimate:Assessment>

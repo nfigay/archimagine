@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DataScienceVirtualMachines"
+    id="857f37bf-04c7-46c4-b6ec-d471c0140ae4"
+    documentation="https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/&#xA;&#xA;Data Science Virtual Machines&#xA;Comprehensive pre-configured virtual machines for data science modelling, development and deployment.&#xA;&#xA;Pre-Configured environments in the cloud for Data Science and AI Development&#xA;DSVMs are Azure Virtual Machine images, pre-installed, configured and tested with several popular tools that are commonly used for data analytics, machine learning and AI training.&#xA;&#xA;&#xA;Analytics desktop in the cloud&#xA;Consistent setup across team, promote sharing and collaboration, Azure scale and management, Near-Zero Setup, full cloud-based desktop for data science.&#xA;&#xA;&#xA;Data science training and education&#xA;Quick, Low friction startup for one to many classroom scenarios and online courses.&#xA;&#xA;&#xA;On-demand elastic capacity&#xA;Ability to run analytics on all Azure hardware configurations with vertical and horizontal scaling. Pay only for what you use, when you use it.&#xA;&#xA;&#xA;Deep Learning with GPUs&#xA;Readily available GPU clusters with Deep Learning tools already pre-configured. Specialized Deep Learning Virtual Machines with samples and workflows.&#xA;&#xA;&#xA;Examples and Templates to get started&#xA;Examples, templates and sample notebooks built or tested by Microsoft are provided on the VMs to enable easy onboarding to the various tools and capabilities such as Neural Networks (CNTK, Tensorflow, etc.), Data Wrangling, R, Python, Julia, and SQL Server.&#xA;&#xA;&#xA;Highly parallelized AI training with Azure Batch&#xA;The Data Science VM and The Deep Learning VM are fully integrated with the Azure AI training service to provide virtually infinite capacity for parallelized AI training in a scale out model.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/Data Science Virtual Machine.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

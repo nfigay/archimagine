@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CCO"
+    id="9715229f-4a0e-46c0-82e4-d4f3d1dfcc7c"
+    documentation="The Chief Communications Officer is responsible for managing corporate reputation, contacting the media and developing Branding strategies. Media relationship to guaranty the brand awareness, and positive imaging. The CCO aims to have positive feedback and favorable from clients.">
+  <properties
+      key="icon"
+      value="/Roles/CCO.png"/>
+  <properties
+      key="icon size"
+      value="150x0"/>
+</archimate:Stakeholder>

@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIO"
+    id="75b55c91-4eda-4734-93ac-74001524c699"
+    documentation="The Chief Information Officer looks after the systems of the company that are related to information technology at the process level and from the point of view of planning. The CIO analyzes the benefits new technologies can offer, identify which ones are more interesting to the company and evaluate its operation. The CIO focuses on improving the efficiency of internal processes in order to ensure effective communication and keep the organization functioning smoothly.">
+  <properties
+      key="icon"
+      value="/Roles/CIO.png"/>
+  <properties
+      key="icon size"
+      value="150x0"/>
+</archimate:Stakeholder>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develops"
+    id="b78b8434-8f43-431d-9ea6-a36386315a55"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_df967941-ccba-4b1d-b011-5402e606c805.xml#df967941-ccba-4b1d-b011-5402e606c805"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_97997373-cda4-4050-b77d-58577343996f.xml#97997373-cda4-4050-b77d-58577343996f"/>
+</archimate:AssociationRelationship>

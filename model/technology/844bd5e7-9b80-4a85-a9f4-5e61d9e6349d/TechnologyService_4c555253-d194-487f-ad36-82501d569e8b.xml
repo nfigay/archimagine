@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureServiceHealth"
+    id="4c555253-d194-487f-ad36-82501d569e8b"
+    documentation="Azure API for FHIR&#xA;Easily create and deploy a FHIR service for health data solutions and interoperability&#xA;&#xA;Manage health data in the cloud&#xA;Rapidly exchange data in the HL7 FHIR standard format with a single, simplified data management solution for protected health information (PHI). Azure API for FHIR lets you quickly connect existing data sources, such as electronic health record systems and research databases. Create new opportunities with analytics, machine learning, and actionable intelligence across your health data.&#xA;&#xA;Play VideoPlay&#x9;&#xA;Current Time 0:00&#xA;Loaded: 0%Progress: 0%Seekbar Handle&#xA;/&#xA;Duration Time 2:35&#xA;Mute&#xA;Fullscreen&#xA;Provision your fully managed, enterprise-grade FHIR service in the cloud in less than five minutes&#xA;Securely manage all protected health data (PHI) in Azure through FHIR APIs&#xA;Accelerate machine learning, data analytics, and operational outcomes&#xA;Enable secure exchange of health data within a global infrastructure&#xA;&#xA;Manage health data in the cloud&#xA;&#xA;Simplify data management with a single, consistent solution for protected health information (PHI). Azure API for FHIR brings together health data from disparate systems using industry standard HL7 FHIR. This robust, extensible data model standardizes semantics and data exchange so all systems using FHIR can work together.&#xA;&#xA;Your data powering your experiences—controlled by you&#xA;&#xA;Store your PHI data with confidence. Azure security isolates data and provides layered, in-depth defense and advanced threat protection that’s aligned to strict industry compliance standards. Azure covers more than 90 compliance certifications, including ISO 27001, and meets HIPAA regulatory requirements.&#xA;&#xA;Drive better health outcomes&#xA;&#xA;Relate points of data from across disparate systems to create richer datasets. Use these datasets to enable advanced analytics scenarios that promote better health outcomes. Connect people and health data in intelligent new ways across your infrastructure, productivity applications, business applications, and analytics.">
+  <properties
+      key="icon"
+      value="/Management/AzureApiFHIR.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

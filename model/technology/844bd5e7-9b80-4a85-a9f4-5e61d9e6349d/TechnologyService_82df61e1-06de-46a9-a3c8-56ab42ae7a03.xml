@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureCDN"
+    id="82df61e1-06de-46a9-a3c8-56ab42ae7a03"
+    documentation="Content Delivery Network&#xA;Secure and reliable global content delivery and acceleration&#xA;&#xA;https://azure.microsoft.com/en-us/services/cdn/&#xA;&#xA;Prioritize speed for the best experience&#xA;In online content delivery, user experience is everything. Azure Content Delivery Network (CDN) lets you reduce load times, save bandwidth, and speed responsiveness—whether you’re developing or managing websites or mobile apps, or encoding and distributing streaming media, gaming software, firmware updates, or IoT endpoints.&#xA;&#xA;Global coverage and massive scalability&#xA;Integrated into your Azure services, letting you scale in minutes&#xA;Simple setup and no commitment: pay-as-you-go&#xA;&#xA;Deep integration&#xA;CDN works seamlessly with Azure services, including Web Apps, Media Services, Storage, and Cloud Services. Apply CDN to your scenarios in just a few clicks.&#xA;&#xA;Massive capacity&#xA;With its distributed, global presence, CDN easily handles sudden traffic spikes and heavy loads—for example, during major product launches or global sporting events—without new infrastructure costs or capacity concerns.&#xA;&#xA;Developer-friendly&#xA;Azure APIs and developer tools give you the performance, reliability, and security you need to build global applications fast. Our APIs also give customers the flexibility to optimize features for availability and performance.&#xA;&#xA;Robust security&#xA;Mitigate security threats on the content distribution network, such as distributed denial-of-service attacks. Optimize security by enabling HTTPS for your domain names, without additional cost or certificate management.&#xA;&#xA;Multiple providers&#xA;Build and tailor your content delivery strategy with a choice of providers. Azure CDN integrates with services from Akamai and Verizon, enabling customers to select the right solution for their needs—for example, for load balance across content delivery networks.&#xA;&#xA;Advanced analytics&#xA;Gain insights about customer workflows and business needs by tracking engagement with the content. See how customers are receiving and caching assets, and further monitor traffic on the content delivery network using real-time and granular analytics.">
+  <properties
+      key="icon"
+      value="/Web/AzureCDN.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

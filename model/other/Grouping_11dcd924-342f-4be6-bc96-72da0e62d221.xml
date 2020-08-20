@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terraform Resources for NexSys"
+    id="11dcd924-342f-4be6-bc96-72da0e62d221"
+    documentation="https://www.terraform.io/docs/providers/azurerm/guides/azure_cli.html&#xA;&#xA;az cloud set --name AzureChinaCloud|AzureGermanCloud|AzureUSGovernment&#xA;&#xA;az login&#xA;Cloud Shell is automatically authenticated under the initial account signed-in with. Run 'az login' only if you need to use a different account&#xA;&#xA;az account list"/>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureBackup"
+    id="af4f1f39-dcdd-45c4-a86f-889ce75fae3a"
+    documentation="Built-in backup solution for all your resources&#xA;https://azure.microsoft.com/en-us/services/backup/&#xA;Simplify data protection from ransomware and human error: A cost-effective, one-click backup solution, Azure Backup simplifies data recovery and is easier to enable than other cloud backup services.&#xA;&#xA;Azure and on-premises backup&#xA;Back up Azure Virtual Machines, SQL workloads, and on-premises VMware machines without additional infrastructure&#xA;&#xA;Application consistency&#xA;Restore data with application consistency using VSS snapshot (Windows) and fsfreeze (Linux)&#xA;&#xA;Security of backup cloud data&#xA;Encrypt data and keep it for extended periods, even after legitimate deletion, through multifactor authentication&#xA;&#xA;Cloud backup management&#xA;Manage resources and activity from the Azure central backup management portal&#xA;&#xA;Azure Backup is simple because it’s built into the platform. It has one-click backup support for SQL database and virtual machines running in Azure. Azure Backup is cost-effective and less complex than other cloud backup solutions while keeping your data safe from ransomware and human errors.&#xA;&#xA;Instant cloud backup&#xA;Turn on Azure Backup in the Azure portal to immediately backup and restore Azure SQL Database, individual files, folders, and entire VMs. Continuously track your assets with dynamic reports.&#xA;&#xA;Reduce your costs&#xA;Eliminate the need for tape or offsite backup. Get cost-effective short- and long-term retention, and restore SQL Database, individual files, folders, and VMs in Azure or on-premises at no additional cost.&#xA;&#xA;Protect against ransomware&#xA;&#xA;Enable multifactor authentication using a security PIN from the Azure portal. Suspicious cloud backup activities prompt a notification, and unauthorized deleted backups are retained for up to 14 days while your data is encrypted by default.">
+  <properties
+      key="icon"
+      value="/Management/AzureBackup.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

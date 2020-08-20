@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureHPCCache"
+    id="160d9d1a-dbd1-45ba-a084-5c43a34c5eff"
+    documentation="https://azure.microsoft.com/en-us/services/hpc-cache/&#xA;Azure HPC Cache&#xA;File caching for high-performance computing (HPC)&#xA;&#xA;Run flexible, file-based workloads in Azure&#xA;Keep important work moving. Azure HPC Cache lets you transfer excess compute capacity to Azure while leaving large datasets in your network-attached storage (NAS) or in Azure Blob storage for a cloud NAS solution.&#xA;&#xA;High performance with up to 8 GB/s throughput, reducing latency for cacheable workloads&#xA;&#xA;Scalable to meet changing compute demand&#xA;&#xA;Aggregated namespace bringing together multiple file sources&#xA;&#xA;Easy management through the Azure portal&#xA;&#xA;Increase productivity with low latency&#xA;Enable quicker file access by scaling your cache based on workload—improving application performance regardless of storage capacity. Provide low-latency hybrid storage support for both on-premises NAS and Azure Blob storage.&#xA;&#xA;Support existing HPC workloads in Azure&#xA;Flexibly store data via traditional, on-premises NAS storage and Azure Blob storage. Azure HPC Cache supports hybrid architectures including NFSv3 via Azure NetApp Files, Dell EMC Isilon, Azure Blob storage, and other NAS products.&#xA;&#xA;Simplify storage resource management&#xA;Azure HPC Cache provides an aggregated namespace, so you can present hot data needed by applications in a singular directory structure and reduce client complexity.">
+  <properties
+      key="icon"
+      value="/Storage/AzureHPCCache.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

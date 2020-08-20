@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Checking the Enable Kubernetes checkbox."
+    id="53aa137c-33fa-4ee8-ba9a-9f19c64f0a20"
+    documentation="If it’s the first time Kubernetes is enabled, Docker Desktop will download the Kubernetes cluster and install it, before the green light turns on."/>

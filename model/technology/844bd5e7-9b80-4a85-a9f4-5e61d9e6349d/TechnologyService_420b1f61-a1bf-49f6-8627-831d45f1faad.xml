@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LiveOnDemandStreaming"
+    id="420b1f61-a1bf-49f6-8627-831d45f1faad"
+    documentation="https://azure.microsoft.com/en-us/services/media-services/live-on-demand/&#xA;Live and on-demand streaming&#xA;Deliver content to virtually any device at scale&#xA;Just-in-time packaging to HLS, MPEG-DASH, and Smooth Streaming&#xA;Scalability to handle all audience sizes&#xA;Just-in-time AES encryption and PlayReady DRM technology&#xA;Dynamic manifest manipulation for trimming and rendition filtering&#xA;Direct integration with Content Delivery Network for automatic provisioning&#xA;Full cloud DVR workflow capabilities&#xA;Encode once, stream everywhere&#xA;Just-in-time packaging and encryption with Azure Media Services reduce the complexity and cost of cross-platform content delivery. It’s also a future-proof combination, because as new encoding formats or versions emerge, you don’t need to re-prepare your library.&#xA;Scalable streaming for any size audience&#xA;Media Services has webcasted some of the world’s largest events, including the 2014 FIFA World Cup and the 2014 Sochi Winter Games. Whether you expect to set new global streaming records for a large event, or you need a cost-effective solution for a small local event, Media Services can scale to any size audience.&#xA;Full cloud DVR workflow capabilities&#xA;Create on-demand assets instantly from your live linear streams, trim unwanted content from the tops and tails of live archives, and create clips from live streams for instant publishing. Media Services DVR workflow capabilities speed up time to market for on-demand assets and reduce your costs.&#xA;One set of encoders for any size screen&#xA;Dynamic manifests, a Media Services feature, lets you prepare one asset with the quality levels and resolutions needed for any device, and filter based on a device profile. Filter by resolution, bit rate, or codec to dynamically create streaming assets optimized for every size screen.&#xA;Flexible monetization options&#xA;Whether you have a subscription model requiring full DRM enforcement and subscriber authentication, or use dynamic ad insertion and lighter-weight encryption, Media Services can meet your business requirements.">
+  <properties
+      key="icon"
+      value="/Media/AzureLiveOnDemandStreaming.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

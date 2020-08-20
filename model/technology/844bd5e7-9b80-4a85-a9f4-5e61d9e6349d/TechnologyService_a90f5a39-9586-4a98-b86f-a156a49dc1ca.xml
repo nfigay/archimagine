@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureLightHouse"
+    id="a90f5a39-9586-4a98-b86f-a156a49dc1ca"
+    documentation="https://azure.microsoft.com/en-us/services/azure-lighthouse/&#xA;&#xA;Azure Lighthouse&#xA;Enabling partners to deliver differentiated managed services&#xA;&#xA;Efficiently manage multiple customer environments&#xA;Azure Lighthouse provides capabilities for cross-customer management at scale, letting partners differentiate services based on greater efficiency and automation. Extend these capabilities consistently across marketplace offers, Azure services, APIs, and licensing models.&#xA;&#xA;Projection of customers’ Azure resources into your own environment&#xA;Scaled management of hundreds of customer tenants from a single environment—yours&#xA;Protection of your management IP within your environment&#xA;Granular, appropriate-level access to your customers’ resources and subscriptions&#xA;&#xA;Play VideoPlay&#x9;&#xA;Current Time 0:00&#xA;Loaded: 0%Progress: 0%Seekbar Handle&#xA;/&#xA;Duration Time 3:17&#xA;Mute&#xA;Fullscreen&#xA;Automate and scale cloud management&#xA;&#xA;Reduce manual operational tasks and scale customer management by using cross-customer management features. Maximize visibility into customers’ environments from your own environment. Simplify engagement processes, such as onboarding, through automated workflows.&#xA;  &#xA;Enable greater visibility and governance&#xA;&#xA;Let your customers view and manage across partners from a single control plane, with precise and granular access. Build their trust by providing transparency and auditability into your activities.&#xA;  &#xA;Grow your market by reaching customers in new ways&#xA;&#xA;Access customer resources seamlessly and accelerate onboarding through new partner offers. Manage across customer resources within all Azure services. And reach customers through the Azure Marketplace, Azure APIs, Azure portal, and Azure Resource Manager—all under whatever licensing channels your customers choose.">
+  <properties
+      key="icon"
+      value="/Management/AzureLightHouse.jpg"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

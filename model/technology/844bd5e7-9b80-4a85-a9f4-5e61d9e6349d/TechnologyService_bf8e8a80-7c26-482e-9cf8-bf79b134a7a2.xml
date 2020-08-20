@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureManagementGroups"
+    id="bf8e8a80-7c26-482e-9cf8-bf79b134a7a2"
+    documentation="Efficiently apply governance controls and manage groups of Azure subscriptions&#xA;https://azure.microsoft.com/en-us/features/management-groups/&#xA;&#xA;Group your subscriptions&#xA;Easily manage your Azure subscriptions by grouping them together and taking actions in bulk.&#xA;&#xA;Mirror your organization’s structure&#xA;Create a hierarchy of Azure management groups tailored to your organization to efficiently manage your subscriptions and resources.&#xA;&#xA;Apply policies or access control to any service&#xA;Use our full platform integration to apply governance conditions such as policies, access controls, or full-fledged blueprints to any Azure service.&#xA;&#xA;Related products and services&#xA;Azure Policy: Implement corporate governance and standards at scale for Azure resources&#xA;Azure Blueprints: Enabling quick, repeatable creation of governed environments&#xA;Cost Management + Billing: Optimize what you spend on the cloud, while maximizing cloud potential&#xA;Azure Resource Graph: Get visibility into all your resources fast">
+  <properties
+      key="icon"
+      value="/Management/AzureManagementGroups.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

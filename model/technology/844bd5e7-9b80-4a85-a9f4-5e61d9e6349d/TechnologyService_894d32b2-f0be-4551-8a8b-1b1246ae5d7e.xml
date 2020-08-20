@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureBatchAI"
+    id="894d32b2-f0be-4551-8a8b-1b1246ae5d7e"
+    documentation="The Azure Batch AI service has retired. To be migrated  from Batch AI to Azure Machine Learning service&#xA;Cf. https://docs.microsoft.com/en-us/previous-versions/azure/batch-ai/overview-what-happened-batch-ai">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/AzureBatchAI.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+  <properties
+      key="lifecycle.status"
+      value="deprecated"/>
+</archimate:TechnologyService>

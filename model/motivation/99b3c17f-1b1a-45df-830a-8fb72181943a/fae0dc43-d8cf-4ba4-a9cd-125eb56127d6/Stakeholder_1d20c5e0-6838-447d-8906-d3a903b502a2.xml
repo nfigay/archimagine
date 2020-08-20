@@ -1,0 +1,12 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CFO"
+    id="1d20c5e0-6838-447d-8906-d3a903b502a2"
+    documentation="The Chief Financial Officer, also known as the Financial Director, is in charge of the economic and financial planning of the company. Deciding when and where to invest, assessing risks, all in order to increase the value of the company. Contributes financial knowledge, accounting and provides a general and analytical look at the business. In many cases  also the strategic affairs adviser to the CEO.">
+  <properties
+      key="icon"
+      value="/Roles/CFO.png"/>
+  <properties
+      key="icon size"
+      value="150x0"/>
+</archimate:Stakeholder>

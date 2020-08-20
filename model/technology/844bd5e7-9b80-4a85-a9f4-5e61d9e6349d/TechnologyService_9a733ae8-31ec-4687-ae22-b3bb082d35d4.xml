@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureFirewallManager"
+    id="9a733ae8-31ec-4687-ae22-b3bb082d35d4"
+    documentation="https://azure.microsoft.com/en-us/services/firewall-manager/&#xA;&#xA;Azure Firewall Manager PREVIEW&#xA;Central network security policy and route management for globally distributed, software-defined perimeters&#xA;&#xA;One control plane for network security policy and route management&#xA;Simplify central configuration and management of rules for multiple Azure Firewall instances, across Azure regions and subscriptions.&#xA;&#xA;Manage security policy configuration and logging across multiple Azure Firewall instances&#xA;Automated Azure Firewall deployment to multiple secured virtual hubs&#xA;Centralized route management for traffic flows in secured virtual hubs&#xA;Integration with trusted security partner solutions for advanced services&#xA;Easily create secured virtual hubs for traffic governance and protection&#xA;&#xA;A secured virtual hub is an Azure Virtual WAN Hub with associated security and routing policies. Use secured virtual hubs to easily create hub-and-spoke architectures and to associate native security services for traffic governance and protection.&#xA;Automated Azure Firewall deployment and route management&#xA;&#xA;Associate security policies with multiple secured virtual hubs and deploy Azure Firewall automatically to enable policy enforcement. Easily configure traffic from virtual networks, data centers and branch offices through secured virtual hub for traffic governance.&#xA;Augment your secured virtual hubs with partner services&#xA;&#xA;Govern and protect traffic flows across all connected networks—on-premises, in the cloud, and on the internet. Control whether traffic is filtered via Azure Firewall or a partner security service or sent directly to the internet.&#xA;Manage hierarchical policies to ensure organization-wide compliance&#xA;&#xA;Create global and local security policies for your Azure Firewall instances. This enables DevOps teams to apply relevant, local policies while ensuring all global policies requirements are enforced.">
+  <properties
+      key="icon"
+      value="/Networking/AzureFirewallManager.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

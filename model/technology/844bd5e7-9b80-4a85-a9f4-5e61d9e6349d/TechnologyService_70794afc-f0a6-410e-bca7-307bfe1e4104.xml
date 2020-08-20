@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzurePrivateLink"
+    id="70794afc-f0a6-410e-bca7-307bfe1e4104"
+    documentation="Azure Private Link&#xA;Private access to services hosted on the Azure platform, keeping your data on the Microsoft network">
+  <properties
+      key="icon"
+      value="/Networking/AzurePrivateLink.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

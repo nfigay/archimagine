@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureResourceManager"
+    id="71744787-8c58-4ebb-a031-d44b9e273d76"
+    documentation="https://azure.microsoft.com/en-us/features/resource-manager/&#xA;&#xA;Azure Resource Manager&#xA;Simplify how you manage your app resources&#xA;&#xA;Deploy resources together and easily repeat deployment tasks&#xA;Categorize resources to clarify billing and management&#xA;Enable enterprise-grade access control&#xA;&#xA;&#xA;Deploy app resources&#xA;&#xA;Azure Resource Manager enables you to repeatedly deploy your app and have confidence your resources are deployed in a consistent state. You define the infrastructure and dependencies for your app in a single declarative template. This template is flexible enough to use for all of your environments such as test, staging or production. If you create a solution from the Azure Marketplace, the solution will automatically include a template that you can use for your app.&#xA;&#xA;Organize resources&#xA;&#xA;Azure Resource Manager makes it easy for you to manage and visualize resources in your app. You no longer have to deploy parts of your app separately and then manually stitch them together. You put resources with a common lifecycle into a resource group that can be deployed or deleted in a single action. You can see which resources are linked by a dependency. You can apply tags to resources to categorize them for management tasks, such as billing.&#xA;&#xA;Control access to resources&#xA;&#xA;With Azure Resource Manager, you can control who in your organization can perform actions on the resources. You manage permissions by defining roles and adding users or groups to the roles. For critical resources, you can apply an explicit lock that prevents users from deleting or modifying the resource. Azure Resource Manager logs all user actions so you can audit those actions. For each action, the audit log contains information about the user, time, events, and status.">
+  <properties
+      key="icon"
+      value="/Management/AzureResourceManager.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

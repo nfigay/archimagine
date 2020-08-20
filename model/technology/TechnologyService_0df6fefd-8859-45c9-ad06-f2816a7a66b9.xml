@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ImmersiveReader"
+    id="0df6fefd-8859-45c9-ad06-f2816a7a66b9"
+    documentation="Immersive Reader PREVIEW&#xA;Empower users of all ages and abilities to read and comprehend text">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/ImmersviveReader.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

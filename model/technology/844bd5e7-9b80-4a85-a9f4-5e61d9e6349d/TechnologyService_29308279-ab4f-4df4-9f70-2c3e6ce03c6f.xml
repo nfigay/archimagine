@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureLoadBalancer"
+    id="29308279-ab4f-4df4-9f70-2c3e6ce03c6f"
+    documentation="https://azure.microsoft.com/en-us/services/load-balancer/&#xA;&#xA;Load Balancer&#xA;Deliver high availability and network performance to your applications&#xA;&#xA;Instantly add scale to your applications&#xA;Load balance Internet and private network traffic&#xA;Improve application reliability via health checks&#xA;Flexible NAT rules for better security&#xA;Directly integrated into virtual machines and cloud services&#xA;Native IPv6 support&#xA;&#xA;Simplify load balancing for applications&#xA;With built-in load balancing for cloud services and virtual machines, you can create highly-available and scalable applications in minutes. Azure Load Balancer supports TCP/UDP-based protocols such as HTTP, HTTPS, and SMTP, and protocols used for real-time voice and video messaging applications.&#xA;High availability and robust performance for your applications&#xA;Load Balancer automatically scales with increasing application traffic. Without you needing to reconfigure or manage the load balancer, your applications provide a better customer experience.&#xA;Internal load balancer&#xA;Use the internal load balancer for traffic between virtual machines inside your private virtual networks, or use it to create multi-tiered hybrid applications.&#xA;Build highly reliable applications&#xA;Load Balancer probes the health of your application instances, automatically takes unhealthy instances out of rotation, and reinstates them when they become healthy again. Use Load Balancer to improve application uptime.&#xA;Secure your networks&#xA;Control your inbound and outbound network traffic, and protect private networks using built-in network address translation (NAT). Secure your network and integrate network security groups with Load Balancer.&#xA;Expand your reach using IPv6&#xA;Load-balanced IPv6 Internet connectivity all the way to native IPv6 endpoints on your Azure virtual machines. Native dual-stack endpoints help meet regulatory requirements and address the fast-growing number of devices in mobile and IoT markets looking to connect to Azure-based services.">
+  <properties
+      key="icon"
+      value="/Networking/AzureLoadBalancer.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

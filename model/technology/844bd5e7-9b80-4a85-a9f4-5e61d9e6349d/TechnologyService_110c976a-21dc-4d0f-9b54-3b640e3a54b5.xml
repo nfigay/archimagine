@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDKs"
+    id="110c976a-21dc-4d0f-9b54-3b640e3a54b5"
+    documentation="https://azure.microsoft.com/en-us/downloads/&#xA;Unified SDKs&#xA;&#xA;The Azure Unified SDKs are collections of libraries for .NET, Java, JavaScript, and Python. They’re built on a common core for easy use of Azure services, with a focus on consistency, familiarity, and language idiomaticity.&#xA;&#xA;If you’re starting a new project or migrating existing projects, Microsoft recommends adopting these libraries. If you’re looking for older versions, go to the SDKs tab.&#xA;Java&#xA;&#xA;Install Unified SDK&#xA;API reference&#xA;TypeScript / JavaScript&#xA;&#xA;Install Unified SDK&#xA;API reference&#xA;Python&#xA;&#xA;Install Unified SDK&#xA;API reference&#xA;.NET&#xA;&#xA;Download Visual Studio 2019&#xA;Download Visual Studio 2019 for Mac&#xA;Install Unified SDK&#xA;API reference">
+  <properties
+      key="icon"
+      value="/DeveloperTools/Apps-Sdk-icon.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ContentModerator"
+    id="0e0a9582-13f6-4b17-b609-0532da741a31"
+    documentation="Content Moderator&#xA;Machine-assisted content moderation APIs and human review tool for images, text, and videos&#xA;&#xA;https://azure.microsoft.com/en-us/services/cognitive-services/content-moderator/&#xA;&#xA;Detection of potential offensive and unwanted images&#xA;Filtering of possible profanity and undesirable text&#xA;Moderation of adult and racy content in videos&#xA;Built-in review tool for best results&#xA;&#xA;Image moderation&#xA;Enhance your ability to detect potentially offensive or unwanted images through machine learning-based classifiers, custom lists, and optical character recognition (OCR).&#xA;&#xA;&#xA;Text moderation&#xA;Use content filtering to detect potential profanity in more than 100 languages, flag text that may be deemed inappropriate depending on context (in public preview), and match text against your custom lists. Content Moderator also helps check for personally identifiable information (PII).&#xA;&#xA;&#xA;Video moderation&#xA;Enable machine-assisted detection of possible adult and racy content in videos. The video moderation service (in public preview) is available as part of Azure Media Services.&#xA;&#xA;&#xA;Human review tool&#xA;The best content moderation results come from humans and machines working together. Use the review tool when prediction confidence can be improved or tempered with a real-world context.&#xA;&#xA;&#xA;&quot;A safe and positive experience for our players in all interactions with the game is very important to who we are as a company. We utilize Content Moderator from Microsoft Cognitive Services for our player profile tools on Let's Dish, a new Match 3 cooking game. This is one way we are maintaining that trust and positive experience with our players.&quot;&#xA;Ashley Davidson, Manager, Marketing, at Big Fish Games&#xA;">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/Content Moderator.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

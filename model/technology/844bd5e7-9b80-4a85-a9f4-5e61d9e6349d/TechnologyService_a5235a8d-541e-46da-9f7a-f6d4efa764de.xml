@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureDiskStorage"
+    id="a5235a8d-541e-46da-9f7a-f6d4efa764de"
+    documentation="https://azure.microsoft.com/en-us/services/storage/disks/&#xA;Azure Disk Storage&#xA;Persistent and high-performing disks for Azure Virtual Machines&#x9;&#xA;&#xA;Choose the right disk storage for your workload&#xA;Get the durability, scalability, availability, and security you need for all of your data—from test scenarios to mission-critical workloads. Use Azure Ultra Disk Storage when you need sub-millisecond latency and extremely scalable performance, Azure Premium SSD for production workloads, and Azure Standard SSD for cost-effective and consistent performance.&#xA;&#xA;Automatic disk creation and management—simply select the disk type and size needed&#xA;&#xA;Create thousands of managed disks simultaneously in minutes with a single subscription&#xA;&#xA;Data encrypted at rest by default with Microsoft &amp; Customer Managed Key options&#xA;&#xA;99.999-percent availability and consistent enterprise-grade durability&#xA;&#xA;Disk storage for every workload&#xA;Get disk storage options for any virtual machine (VM) workload. Experience best-in-class throughput and speed as well as consistent low latency for building databases, scaling and running mission-critical apps, and working with development testing scenarios.&#xA;&#xA;Highest performing disk in the cloud&#xA;Get high-performance, low-latency disk support for VMs with I/O-intensive workloads and low-single millisecond latencies with Premium SSD. Dynamically change disk performance and get high IOPS for Azure infrastructure as a service (IaaS) VMs with Ultra Disk Storage.&#xA;&#xA;&#xA;Mitigate risks and save money&#xA;Reduce the risk of data loss during migration by choosing from a range of cost-effective disk offerings that help you easily migrate Microsoft or third-party apps to Azure with certified deployment solutions.">
+  <properties
+      key="icon"
+      value="/Storage/AzureDiskStorage.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

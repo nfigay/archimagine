@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureAnalysisServices"
+    id="04598281-f211-498b-85c2-761332f94911"
+    documentation="https://azure.microsoft.com/en-us/services/analysis-services/&#xA;&#xA;Azure Analysis Services&#xA;Proven analytics engine&#xA;&#xA;Get started quickly without managing an infrastructure&#xA;Scale resources to match your business needs&#xA;Visualize your data using your favorite data visualization tool&#xA;Govern, deploy, test, and deliver your BI solution with confidence&#xA;Get started quickly and scale with efficiency&#xA;Use Azure Resource Manager to create and deploy an Azure Analysis Services instance within seconds, and use backup restore to quickly move your existing models to Azure Analysis Services and take advantage of the scale, flexibility and management benefits of the cloud. Scale up, scale down, or pause the service and pay only for what you use.&#xA;Transform complex data into one version of the truth&#xA;Combine data from multiple sources into a single, trusted BI semantic model that’s easy to understand and use. Enable self-service and data discovery for business users by simplifying the view of data and its underlying structure.&#xA;Match performance to the speed of business&#xA;Reduce time-to-insights on large and complex datasets. Fast response times mean your BI solution can meet the needs of your business users and keep pace with your business. Connect to real-time operational data using DirectQuery and closely watch the pulse of your business.&#xA;Provide secured access anytime, from anywhere&#xA;Make sure only authorized users can access your data models, no matter where they are, with role-based security and Azure Active Directory support. With 99.9% availability, your users can access critical information when they need it.&#xA;Accelerate time to delivery&#xA;Release your BI solutions in a predictable and highly-secured way. Use the robust application lifecycle management capabilities to govern, deploy, test, and deliver your BI solution quickly and with confidence.&#xA;Develop in a familiar environment&#xA;Focus on solving business problems, not learning new skills, when you use the familiar, integrated development environment of Visual Studio. Easily deploy your existing SQL Server 2016 tabular models to the cloud.&#xA;">
+  <properties
+      key="icon"
+      value="/Analytics/AzureAnalysisServices.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

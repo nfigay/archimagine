@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BingImageSearch"
+    id="5a0a3d37-027d-454a-8108-889ea6d6dcae"
+    documentation="Bing Image Search&#xA;Search for images and get comprehensive results&#xA;&#xA;https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/&#xA;&#xA;Search for images and get comprehensive results&#xA;With Bing Image Search API v7, help users scour the web for images. Results include thumbnails, full image URLs, publishing website info, image metadata, and more. With the API v7, discover new sorting and filtering options that simplify finding specific results in image searches and enable paging of results. Try out the demo. Submit a query via the search box or click on one of the provided examples.&#xA;&#xA;Image insights&#xA;Image metadata includes machine-generated captions, visually similar images, shopping and recipe sources, related image searches, and more.&#xA;&#xA;&#xA;Image search filters&#xA;Narrow search results with filters including image type, layout, freshness, and license.&#xA;&#xA;&#xA;Powerful statistics for your queries&#xA;Inform your strategic decisions with the Bing Statistics add-in. Quickly retrieve statistics such as your top queries, call volume, market distribution, response code summary, and many more—and derive rich insights to advance your business. Visit the portal to consume these statistics. You can subscribe to Bing Statistics Add-in from Azure Portal.&#xA;&#xA;&#xA;Trending images&#xA;Customize a search for trending images from around the world.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/bing-search-engine-icon-hd-png-download.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

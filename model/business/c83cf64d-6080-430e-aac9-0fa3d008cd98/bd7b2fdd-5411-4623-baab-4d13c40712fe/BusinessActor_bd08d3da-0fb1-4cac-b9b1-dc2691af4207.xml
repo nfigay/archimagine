@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="my Threat Agent"
+    id="bd08d3da-0fb1-4cac-b9b1-dc2691af4207">
+  <properties
+      key="stereotype.RiskManagement"
+      value="Threat Agent"/>
+</archimate:BusinessActor>

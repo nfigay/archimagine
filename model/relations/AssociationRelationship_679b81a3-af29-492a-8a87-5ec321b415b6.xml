@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audits"
+    id="679b81a3-af29-492a-8a87-5ec321b415b6"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_083586f0-e9e3-4a0f-9ece-1d0403136ae4.xml#083586f0-e9e3-4a0f-9ece-1d0403136ae4"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_115bb7e6-1ff6-422d-901d-7552bbb2353f.xml#115bb7e6-1ff6-422d-901d-7552bbb2353f"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureInternetAnalyzer"
+    id="fb2f0a5d-be4b-47f2-98be-e298e3cc6b4f"
+    documentation="https://azure.microsoft.com/en-us/services/internet-analyzer/&#xA;Azure Internet Analyzer PREVIEW&#xA;Test how networking infrastructure changes will impact your customers’ performance.&#xA;&#xA;Test app and content delivery architectures in Azure&#xA;Test and measure how changes to your cloud network architecture affects your users’ performance over the Internet. Whether you’re migrating from on-premises to Azure or evaluating a new Azure service, learn from your users’ data and Microsoft’s rich analytics to better understand and optimize your network architecture with Azure—before you migrate.&#xA;&#xA;Test and compare the performance between your on-premise infrastructure and Azure, based on your customers&#xA;Evaluate new services, like Azure Front Door and Azure Content Delivery Network, to improve your customer’s performance&#xA;Utilize custom options to compare any of your current endpoints with Azure services&#xA;Get regular network performance test results with daily, weekly, and monthly reports&#xA;Understand how users experience your service&#xA;&#xA;Draw actionable insights from big data to make the best decisions for your users, customers, and employees. Learn how networking infrastructure changes affect user performance, and conduct a variety of tests as your architecture needs evolve.&#xA;Evaluate the impact of migration—at any stage&#xA;&#xA;Reduce risk at any stage of your migration, whether you are preparing to move your first workload to the cloud or considering changes to your existing cloud infrastructure. Learn about the performance benefits of different Azure services, including single and multiregional strategies, Azure Front Door, and Content Delivery Network.&#xA;Test a variety of Azure services before going live&#xA;&#xA;Accelerate your users’ performance by testing how changes to your network infrastructure will affect network —before you deploy. Choose the endpoints and Azure services you want to evaluate and set up a test. Before ever deploying a workload on Azure, you’ll understand how application and content delivery services may affect your user performance.">
+  <properties
+      key="icon"
+      value="/Networking/AzureInternetAnalyzer.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>

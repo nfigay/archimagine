@@ -1,0 +1,11 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureSubscription"
+    id="0fc95783-a47f-48ff-ae37-a81778933b41">
+  <properties
+      key="icon"
+      value="/Management/AzureSubscription.png"/>
+  <properties
+      key="icon size"
+      value="30x50"/>
+</archimate:TechnologyService>

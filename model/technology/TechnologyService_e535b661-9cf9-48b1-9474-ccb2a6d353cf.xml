@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SpeechToText"
+    id="e535b661-9cf9-48b1-9474-ccb2a6d353cf"
+    documentation="https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/&#xA;Speech to Text&#xA;A Speech service feature that accurately converts spoken audio to text&#xA;&#xA;Make spoken audio actionable&#xA;Quickly and accurately transcribe audio to text in more than 30 languages. Customize models to enhance accuracy for domain-specific terminology. Get more value from spoken audio by enabling search or analytics on transcribed text or facilitating action—all in your preferred programming language.&#xA;High-quality transcription&#xA;Get accurate transcriptions with state-of-the-art speech recognition.&#xA;&#xA;Customizable models&#xA;Add specific words to your base vocabulary or build your own models.&#xA;&#xA;Flexible deployment&#xA;Run Speech to Text anywhere—in the cloud or at the edge in containers.&#xA;&#xA;Production-ready&#xA;Access the same robust technology that powers speech recognition across Microsoft products.&#xA;Transcribe speech accurately from various sources&#xA;Convert audio to text from a range of sources, including microphones, audio files, and blob storage. Use speaker diarization to determine who said what when. Get readable transcripts with automatic formatting and punctuation.&#xA;&#xA;Customize speech models to your needs&#xA;Tailor your speech models to understand organization- and industry-specific terminology. Overcome speech recognition barriers such as background noise, accents, or unique vocabulary. Customize your models by uploading audio data and transcripts. Automatically generate custom models using Office 365 data to optimize speech recognition accuracy for your organization.&#xA;&#xA;Deploy anywhere, from the cloud to the edge&#xA;Run Speech to Text wherever your data resides. Build speech applications that are optimized for both robust cloud capabilities and edge locality using containers (preview). Speech containers support both standard and custom speech.">
+  <properties
+      key="icon"
+      value="/AIMachineLearning/speechtotext.png"/>
+  <properties
+      key="icon size"
+      value="50x50"/>
+</archimate:TechnologyService>
