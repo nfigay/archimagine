@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NexSys Cloud Services with Assignement of Cloud Business Roles"
+    name="myApplication Cloud Services with Assignement of Cloud Business Roles"
     id="dff522d3-1771-4fe8-8ee6-bf21ed6f53ad"
     documentation="Based on the usage of template &quot;Cloud Business Roles and Services&quot;"
     viewpoint="layered">

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NexSys as a Service Model "
+    name="myApplication as a Service Model "
     id="c16215a5-ba78-419c-ae80-40bf303c0c25"
     documentation="Based on the template &quot;Cloud Software as a Service Model&quot; applied to Microsoft SQL SaaS">
   <children

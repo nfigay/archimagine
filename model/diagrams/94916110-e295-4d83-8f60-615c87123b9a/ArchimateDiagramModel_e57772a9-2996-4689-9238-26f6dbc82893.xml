@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Terraform Resources for NexSys"
+    name="Terraform Resources for myApplication"
     id="e57772a9-2996-4689-9238-26f6dbc82893">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

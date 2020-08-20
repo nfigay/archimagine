@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NexSyS Business Context within a Cloud environment"
+    name="myApplication Business Context within a Cloud environment"
     id="c4e68138-9d33-43b3-b5c5-44eafffb991c"
     documentation="An attempt to identify where business relationships stands in order to identified requirements and constraints to consider from a security point of view.">
   <children

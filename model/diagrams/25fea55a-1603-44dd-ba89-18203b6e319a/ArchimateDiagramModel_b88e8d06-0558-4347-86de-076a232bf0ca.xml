@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NexSyS Business Context within a Cloud environment - NexSky2 and NexSky3 Plateau for timeline"
+    name="myApplication Business Context within a Cloud environment - myProject and myProject2 Plateau for timeline"
     id="b88e8d06-0558-4347-86de-076a232bf0ca">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
