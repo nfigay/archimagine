@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KeeeX Fusion"
+    id="id-17e2c6fdd9b1472f9ae7a35fc571e659"
+    documentation="KeeeX Fusion est notre brique de base. Il s’agit d’un utilitaire en lignes de commande qui permet d’injecter des métadonnées de confiance (intégrité, source, date) et de contexte (version, tags, liens, classification) dans les fichiers, de les horodater, d’ancrer leur empreinte sur une blockchain et de les vérifier. &#xA;Cas d’usage : installation On Premise (connexion à vos applications existantes), intégration dans votre IoT, SDK Mobile."/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ad928c841d264f2ca35be20365f3cb50"
+    documentation="Nous sommes Leader dans le rapport « The Forrester Wave™: API Management Solutions, Q3 2020 »&#xA;https://www.axway.com/fr&#xA;https://get.axway.com/ub/en/2020-forrester-wave-apim/">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3bf3055bf12e4d4eab5a69ae8a8c50b0.xml#id-3bf3055bf12e4d4eab5a69ae8a8c50b0"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-21730b2b8d914c809c8038dbffd938f1.xml#id-21730b2b8d914c809c8038dbffd938f1"/>
+</archimate:AssociationRelationship>

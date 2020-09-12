@@ -371,27 +371,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ee111603-099b-4731-8bae-74eceda61c24">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="eec0740d-7f99-4b09-ac30-2702d22bc2b4"
-        source="ee111603-099b-4731-8bae-74eceda61c24"
-        target="62968e49-e2ab-4d8f-a232-ad1481a08412">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_02bb3cd2-af82-41ee-9e4c-5019d1a719b8.xml#02bb3cd2-af82-41ee-9e4c-5019d1a719b8"/>
-    </sourceConnections>
-    <bounds
-        x="1092"
-        y="114"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Product"
-        href="Product_8a158e84-9d2e-4544-aa0c-512acd267a3a.xml#8a158e84-9d2e-4544-aa0c-512acd267a3a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="0291182a-06cf-4cba-81d6-228bf85515cb">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -960,5 +939,26 @@
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_e30f8a83-0860-4762-aec8-bd2880cd9dea.xml#e30f8a83-0860-4762-aec8-bd2880cd9dea"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7e7edeca33c3498a8a21e30d69eb2d1e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="eec0740d-7f99-4b09-ac30-2702d22bc2b4"
+        source="id-7e7edeca33c3498a8a21e30d69eb2d1e"
+        target="62968e49-e2ab-4d8f-a232-ad1481a08412">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_02bb3cd2-af82-41ee-9e4c-5019d1a719b8.xml#02bb3cd2-af82-41ee-9e4c-5019d1a719b8"/>
+    </sourceConnections>
+    <bounds
+        x="1092"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_1f98096a-805c-43dd-b263-08ccd7599fb3.xml#1f98096a-805c-43dd-b263-08ccd7599fb3"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Data Virtualization"
+    id="id-0133cdf35cd642bb8102489689926e2d"
+    documentation="Data virtualization is a logical data layer that integrates all enterprise data siloed across the disparate systems, manages the unified data for centralized security and governance, and delivers it to business users in real time."/>

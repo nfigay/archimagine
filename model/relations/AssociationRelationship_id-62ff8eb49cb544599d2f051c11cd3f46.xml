@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="supports"
+    id="id-62ff8eb49cb544599d2f051c11cd3f46"
+    documentation="https://cdn1.marklogic.com/wp-content/uploads/2018/01/Semantics-Datasheet.pdf">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_1f98096a-805c-43dd-b263-08ccd7599fb3.xml#1f98096a-805c-43dd-b263-08ccd7599fb3"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d90aa44e93e8441f8b1299aca38fa380.xml#id-d90aa44e93e8441f8b1299aca38fa380"/>
+</archimate:AssociationRelationship>

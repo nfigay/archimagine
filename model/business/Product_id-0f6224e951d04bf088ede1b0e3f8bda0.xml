@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KeeeX Stories"
+    id="id-0f6224e951d04bf088ede1b0e3f8bda0"
+    documentation="KeeeX Stories est une platforme de traçabilité qui permet de rendre vos processus vérifiables. Elle se compose d’un framework permettant d’enregistrer l’histoire d’un objet ou d’un produit (événement, information, document) et d’une interface de restitution pour vos équipes ou pour apporter plus de transparence à vos clients.&#xA;Cas d’usage : traçabilité logistique (suivi d’un processus multi-modal, data pipeline multi-acteurs, impact environnemental d’une marchandise), traçabilité agro-alimentaire (origine d’un produit, cheminement logistique, informations sur le producteur), traçabilité produit (pièces détachées, oeuvres d’art, objets de luxe), traçabilité documentaire (processus administratif, piste d’audit fiable, processus contractuel, processus achats), transfert de propriété (objets, actifs numériques)."/>

@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KeeeX Verifier"
+    id="id-035c5ec47b3543dc99706c7c308be13a"
+    documentation="KeeeX Verifier est un module de vérification qui permet de vérifier localement l’authenticité des fichiers keeexés. Ce service de vérification est disponible gratuitement sur notre site web et est également proposé pour intégration sur votre site. Avec KeeeX, pas besoin de déposer un certificat d’horodatage en plus du fichier pour le vérifier. Les preuves de confiance sont scellées de manière pérenne et inviolables dans les métadonnées du fichier, la vérification se fait en un clic (ou glisser déposer) !&#xA;Cas d’usage : vérificateur sur votre site de documents publics émis par votre entreprise (communiqués de presse, informations financières, médias), vérificateur sur votre intranet (collaboration inter-filiales, entreprise étendue, signature et validation de documents). "/>
