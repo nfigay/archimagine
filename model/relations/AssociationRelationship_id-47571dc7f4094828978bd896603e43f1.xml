@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-47571dc7f4094828978bd896603e43f1"
+    documentation="https://expertsystem.com/fr/products/text-analytics-software-cogito-discover/#1561736146800-a3c43e17-c9e2&#xA;&#xA;Cogito Discover met à disposition l’ensemble des informations découvertes aux formats XML, RDF ou autre, pour permettre aux systèmes incapables de lire (plateformes RPA, moteurs de recherche, systèmes de gestion des contenus) d’intégrer les valeurs des contenus textuels non structurés.">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_id-9286e6b9577d424598253c5071ea1917.xml#id-9286e6b9577d424598253c5071ea1917"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_6abfd86a-d4bc-4d24-84f7-53ac01922d3a.xml#6abfd86a-d4bc-4d24-84f7-53ac01922d3a"/>
+</archimate:AssociationRelationship>

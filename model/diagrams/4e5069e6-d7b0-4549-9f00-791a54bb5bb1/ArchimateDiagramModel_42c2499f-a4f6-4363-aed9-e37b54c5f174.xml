@@ -361,8 +361,8 @@
           href="SpecializationRelationship_b14af0d3-bc68-4655-8112-4d345ca443b6.xml#b14af0d3-bc68-4655-8112-4d345ca443b6"/>
     </sourceConnections>
     <bounds
-        x="1080"
-        y="230"
+        x="900"
+        y="212"
         width="120"
         height="55"/>
     <archimateElement
@@ -953,8 +953,8 @@
           href="SpecializationRelationship_02bb3cd2-af82-41ee-9e4c-5019d1a719b8.xml#02bb3cd2-af82-41ee-9e4c-5019d1a719b8"/>
     </sourceConnections>
     <bounds
-        x="1092"
-        y="96"
+        x="1080"
+        y="126"
         width="120"
         height="55"/>
     <archimateElement
