@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finland"
+    id="id-8a043ca2c7484b9c9ebda2bdf6f54910"
+    documentation="the Republic of Finland">
+  <properties
+      key="Country Code"
+      value="FIN"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Helsinki"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

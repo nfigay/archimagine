@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Estonia"
+    id="id-059cc9dc4fc04056bbcf87d7a7eab5ff"
+    documentation="the Republic of Estonia">
+  <properties
+      key="Country Code"
+      value="EST"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Tallinn"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

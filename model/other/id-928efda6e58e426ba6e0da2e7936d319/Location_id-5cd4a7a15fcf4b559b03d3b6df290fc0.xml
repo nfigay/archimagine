@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gambia"
+    id="id-5cd4a7a15fcf4b559b03d3b6df290fc0"
+    documentation="the Republic of the Gambia">
+  <properties
+      key="Country Code"
+      value="GMB"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Banjul"/>
+  <properties
+      key="Currency"
+      value="Dalasi (GMD)"/>
+</archimate:Location>

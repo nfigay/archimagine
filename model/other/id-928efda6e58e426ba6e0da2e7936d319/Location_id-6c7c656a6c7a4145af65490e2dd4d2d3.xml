@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zimbabwe"
+    id="id-6c7c656a6c7a4145af65490e2dd4d2d3"
+    documentation="the Republic of Zimbabwe">
+  <properties
+      key="Country Code"
+      value="ZWE"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Harare"/>
+  <properties
+      key="Currency"
+      value="Zimbabwe Dollar (ZWL)"/>
+</archimate:Location>

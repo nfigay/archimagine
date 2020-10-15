@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Madagascar"
+    id="id-cd63e96b77ad4f828a9ee6a7ec80950a"
+    documentation="the Republic of Madagascar">
+  <properties
+      key="Country Code"
+      value="MDG"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Antananarivo"/>
+  <properties
+      key="Currency"
+      value="Malagasy Ariary (MGA)"/>
+</archimate:Location>

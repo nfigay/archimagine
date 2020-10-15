@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guernsey"
+    id="id-37842a8373c54ac4b8a7a64e980329aa">
+  <properties
+      key="Country Code"
+      value="GGY"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="St Peter Port"/>
+  <properties
+      key="Currency"
+      value="Pound Sterling (GBP)"/>
+</archimate:Location>

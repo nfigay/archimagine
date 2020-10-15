@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lithuania"
+    id="id-6333ee7c35864f3082650608609384e3"
+    documentation="the Republic of Lithuania">
+  <properties
+      key="Country Code"
+      value="LTU"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Vilnius"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

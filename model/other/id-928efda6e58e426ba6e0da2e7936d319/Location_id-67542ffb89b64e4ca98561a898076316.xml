@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Croatia"
+    id="id-67542ffb89b64e4ca98561a898076316"
+    documentation="the Republic of Croatia">
+  <properties
+      key="Country Code"
+      value="HRV"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Zagreb"/>
+  <properties
+      key="Currency"
+      value="Kuna (HRK)"/>
+</archimate:Location>

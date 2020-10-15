@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ecuador"
+    id="id-7d184b7c967e45218f583d73bfda4819"
+    documentation="the Republic of Ecuador">
+  <properties
+      key="Country Code"
+      value="ECU"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Quito"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

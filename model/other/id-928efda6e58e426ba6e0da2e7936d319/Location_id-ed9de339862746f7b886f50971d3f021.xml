@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mauritania"
+    id="id-ed9de339862746f7b886f50971d3f021"
+    documentation="the Islamic Republic of Mauritania">
+  <properties
+      key="Country Code"
+      value="MRT"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Nouakchott"/>
+  <properties
+      key="Currency"
+      value="Ouguiya (MRO)"/>
+</archimate:Location>

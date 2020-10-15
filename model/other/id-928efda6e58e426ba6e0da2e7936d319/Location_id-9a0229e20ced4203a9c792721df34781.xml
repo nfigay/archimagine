@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Niue"
+    id="id-9a0229e20ced4203a9c792721df34781"
+    documentation="Niue">
+  <properties
+      key="Country Code"
+      value="NIU"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Alofi"/>
+  <properties
+      key="Currency"
+      value="New Zealand Dollar (NZD)"/>
+</archimate:Location>

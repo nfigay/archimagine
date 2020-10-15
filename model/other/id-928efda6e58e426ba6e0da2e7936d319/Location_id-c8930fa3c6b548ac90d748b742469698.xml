@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Congo"
+    id="id-c8930fa3c6b548ac90d748b742469698"
+    documentation="the Republic of the Congo">
+  <properties
+      key="Country Code"
+      value="COG"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Brazzaville"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BEAC (XAF)"/>
+</archimate:Location>

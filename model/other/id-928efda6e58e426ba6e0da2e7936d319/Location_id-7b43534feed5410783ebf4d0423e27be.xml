@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Iran (Islamic Republic of)"
+    id="id-7b43534feed5410783ebf4d0423e27be"
+    documentation="the Islamic Republic of Iran">
+  <properties
+      key="Country Code"
+      value="IRN"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Tehran"/>
+  <properties
+      key="Currency"
+      value="Iranian Rial (IRR)"/>
+</archimate:Location>

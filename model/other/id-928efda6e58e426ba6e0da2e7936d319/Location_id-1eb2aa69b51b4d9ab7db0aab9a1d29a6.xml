@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Somalia"
+    id="id-1eb2aa69b51b4d9ab7db0aab9a1d29a6"
+    documentation="the Federal Republic of Somalia">
+  <properties
+      key="Country Code"
+      value="SOM"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Mogadishu"/>
+  <properties
+      key="Currency"
+      value="Somali Shilling (SOS)"/>
+</archimate:Location>

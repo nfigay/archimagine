@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grenada"
+    id="id-7b6e6c57e0494d12b8dfbb07726dd076"
+    documentation="Grenada">
+  <properties
+      key="Country Code"
+      value="GRD"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="St. George's"/>
+  <properties
+      key="Currency"
+      value="East Caribbean Dollar (XCD)"/>
+</archimate:Location>

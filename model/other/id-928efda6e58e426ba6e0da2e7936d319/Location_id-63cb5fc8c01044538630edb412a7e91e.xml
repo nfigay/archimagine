@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Haiti"
+    id="id-63cb5fc8c01044538630edb412a7e91e"
+    documentation="the Republic of Haiti">
+  <properties
+      key="Country Code"
+      value="HTI"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Port-au-Prince"/>
+  <properties
+      key="Currency"
+      value="Gourde,US Dollar (HTG,USD)"/>
+</archimate:Location>

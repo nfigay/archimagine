@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Montenegro"
+    id="id-eb79586a314d4d07b2a8e58c17a75109"
+    documentation="Montenegro">
+  <properties
+      key="Country Code"
+      value="MNE"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Podgorica"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

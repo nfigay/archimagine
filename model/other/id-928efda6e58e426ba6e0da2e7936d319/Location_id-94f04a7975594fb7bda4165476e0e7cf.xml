@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anguilla"
+    id="id-94f04a7975594fb7bda4165476e0e7cf">
+  <properties
+      key="Country Code"
+      value="AIA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="The Valley"/>
+  <properties
+      key="Currency"
+      value="East Caribbean Dollar (XCD)"/>
+</archimate:Location>

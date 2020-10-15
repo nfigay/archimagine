@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nepal"
+    id="id-ab7479b8dabc46a7a8ba9039dcc13b1d"
+    documentation="the Federal Democratic Republic of Nepal">
+  <properties
+      key="Country Code"
+      value="NPL"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Kathmandu"/>
+  <properties
+      key="Currency"
+      value="Nepalese Rupee (NPR)"/>
+</archimate:Location>

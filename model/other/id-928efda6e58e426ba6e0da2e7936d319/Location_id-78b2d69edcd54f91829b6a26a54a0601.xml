@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Botswana"
+    id="id-78b2d69edcd54f91829b6a26a54a0601"
+    documentation="the Republic of Botswana">
+  <properties
+      key="Country Code"
+      value="BWA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Gaborone"/>
+  <properties
+      key="Currency"
+      value="Pula (BWP)"/>
+</archimate:Location>

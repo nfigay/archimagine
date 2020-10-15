@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aruba"
+    id="id-ac82f0b62f574f4abbf9398858daaf74">
+  <properties
+      key="Country Code"
+      value="ABW"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Oranjestad"/>
+  <properties
+      key="Currency"
+      value="Aruban Florin (AWG)"/>
+</archimate:Location>

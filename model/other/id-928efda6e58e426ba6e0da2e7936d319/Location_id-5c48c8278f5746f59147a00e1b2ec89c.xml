@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chad"
+    id="id-5c48c8278f5746f59147a00e1b2ec89c"
+    documentation="the Republic of Chad">
+  <properties
+      key="Country Code"
+      value="TCD"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="N'Djamena"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BEAC (XAF)"/>
+</archimate:Location>

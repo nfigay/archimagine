@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Armenia"
+    id="id-1626f55fcc6b4226bd53beb539a9c56c"
+    documentation="the Republic of Armenia">
+  <properties
+      key="Country Code"
+      value="ARM"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Yerevan"/>
+  <properties
+      key="Currency"
+      value="Armenian Dram (AMD)"/>
+</archimate:Location>

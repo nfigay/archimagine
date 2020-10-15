@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Georgia"
+    id="id-59100babc6194254b4b609f2cdbd90a2"
+    documentation="Georgia">
+  <properties
+      key="Country Code"
+      value="GEO"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Tbilisi"/>
+  <properties
+      key="Currency"
+      value="Lari (GEL)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cyprus"
+    id="id-d163bdb783c740c4a40894f361cac8cf"
+    documentation="the Republic of Cyprus">
+  <properties
+      key="Country Code"
+      value="CYP"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Nicosia"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

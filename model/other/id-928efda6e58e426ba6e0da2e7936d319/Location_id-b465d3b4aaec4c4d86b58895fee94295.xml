@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afghanistan"
+    id="id-b465d3b4aaec4c4d86b58895fee94295"
+    documentation="the Islamic Republic of Afghanistan">
+  <properties
+      key="Country Code"
+      value="AFG"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Kabul"/>
+  <properties
+      key="Currency"
+      value="Afghani (AFN)"/>
+</archimate:Location>

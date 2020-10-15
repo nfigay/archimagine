@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faroe Islands"
+    id="id-272487864c7d403a95f16d53cb03d2e4">
+  <properties
+      key="Country Code"
+      value="FRO"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Torshavn"/>
+  <properties
+      key="Currency"
+      value="Danish Krone (DKK)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equatorial Guinea"
+    id="id-e340edfe428c4a8ba706f1b6cab8cf13"
+    documentation="the Republic of Equatorial Guinea">
+  <properties
+      key="Country Code"
+      value="GNQ"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Malabo"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BEAC (XAF)"/>
+</archimate:Location>

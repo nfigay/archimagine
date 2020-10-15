@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lao People's Democratic Republic"
+    id="id-4019ff4793f645849c6e6485bd9a9ebf"
+    documentation="the Lao People's Democratic Republic">
+  <properties
+      key="Country Code"
+      value="LAO"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Vientiane"/>
+  <properties
+      key="Currency"
+      value="Lao Kip (LAK)"/>
+</archimate:Location>

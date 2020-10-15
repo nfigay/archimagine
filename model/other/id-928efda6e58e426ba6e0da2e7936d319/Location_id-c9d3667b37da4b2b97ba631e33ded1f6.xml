@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Japan"
+    id="id-c9d3667b37da4b2b97ba631e33ded1f6"
+    documentation="Japan">
+  <properties
+      key="Country Code"
+      value="JPN"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Tokyo"/>
+  <properties
+      key="Currency"
+      value="Yen (JPY)"/>
+</archimate:Location>

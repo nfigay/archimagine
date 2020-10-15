@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Czechia"
+    id="id-d699a465ecc644fdaff09e0af45eab9b"
+    documentation="the Czech Republic">
+  <properties
+      key="Country Code"
+      value="CZE"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Prague"/>
+  <properties
+      key="Currency"
+      value="Czech Koruna (CZK)"/>
+</archimate:Location>

@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="China, Hong Kong Special Administrative Region"
+    id="id-a3233749ba2d47d4b1f7bab65263d772">
+  <properties
+      key="Country Code"
+      value="HKG"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Hong Kong"/>
+  <properties
+      key="Currency"
+      value="Hong Kong Dollar (HKD)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cook Islands"
+    id="id-13a4501adc784ad98c1fa15b92f2885e"
+    documentation="the Cook Islands">
+  <properties
+      key="Country Code"
+      value="COK"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Avarua"/>
+  <properties
+      key="Currency"
+      value="New Zealand Dollar (NZD)"/>
+</archimate:Location>

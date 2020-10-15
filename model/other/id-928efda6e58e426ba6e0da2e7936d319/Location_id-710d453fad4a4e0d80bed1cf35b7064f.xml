@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mauritius"
+    id="id-710d453fad4a4e0d80bed1cf35b7064f"
+    documentation="the Republic of Mauritius">
+  <properties
+      key="Country Code"
+      value="MUS"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Port Louis"/>
+  <properties
+      key="Currency"
+      value="Mauritius Rupee (MUR)"/>
+</archimate:Location>

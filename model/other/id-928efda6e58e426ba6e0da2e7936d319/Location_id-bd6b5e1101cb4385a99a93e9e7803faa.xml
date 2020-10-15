@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bahamas"
+    id="id-bd6b5e1101cb4385a99a93e9e7803faa"
+    documentation="the Commonwealth of the Bahamas">
+  <properties
+      key="Country Code"
+      value="BHS"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Nassau"/>
+  <properties
+      key="Currency"
+      value="Bahamian Dollar (BSD)"/>
+</archimate:Location>

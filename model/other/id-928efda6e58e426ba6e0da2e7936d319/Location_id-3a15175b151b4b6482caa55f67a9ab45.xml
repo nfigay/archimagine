@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Latvia"
+    id="id-3a15175b151b4b6482caa55f67a9ab45"
+    documentation="the Republic of Latvia">
+  <properties
+      key="Country Code"
+      value="LVA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Riga"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

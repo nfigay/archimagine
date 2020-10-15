@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andorra"
+    id="id-f17f3045668443038c9007b36fb34a44"
+    documentation="the Principality of Andorra">
+  <properties
+      key="Country Code"
+      value="AND"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Andorra la Vella"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

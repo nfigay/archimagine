@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Svalbard and Jan Mayen Islands"
+    id="id-e9ee824f9f83473793321cbc414683ac">
+  <properties
+      key="Country Code"
+      value="SJM"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Longyearbyen"/>
+  <properties
+      key="Currency"
+      value="Norwegian Krone (NOK)"/>
+</archimate:Location>

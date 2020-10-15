@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="French Polynesia"
+    id="id-a83a366ff1f243cd973c634d5bd4e433">
+  <properties
+      key="Country Code"
+      value="PYF"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Papeete"/>
+  <properties
+      key="Currency"
+      value="CFP Franc (XPF)"/>
+</archimate:Location>

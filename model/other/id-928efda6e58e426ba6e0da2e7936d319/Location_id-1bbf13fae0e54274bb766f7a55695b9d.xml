@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Australia"
+    id="id-1bbf13fae0e54274bb766f7a55695b9d"
+    documentation="Australia">
+  <properties
+      key="Country Code"
+      value="AUS"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Canberra"/>
+  <properties
+      key="Currency"
+      value="Australian Dollar (AUD)"/>
+</archimate:Location>

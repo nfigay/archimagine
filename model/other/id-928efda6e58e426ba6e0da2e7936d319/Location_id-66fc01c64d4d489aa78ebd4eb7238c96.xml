@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Niger"
+    id="id-66fc01c64d4d489aa78ebd4eb7238c96"
+    documentation="the Republic of the Niger">
+  <properties
+      key="Country Code"
+      value="NER"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Niamey"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BCEAO (XOF)"/>
+</archimate:Location>

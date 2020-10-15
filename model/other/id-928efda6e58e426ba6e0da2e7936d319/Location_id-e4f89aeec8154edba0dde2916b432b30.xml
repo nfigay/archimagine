@@ -1,0 +1,16 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Heard Island and McDonald Islands"
+    id="id-e4f89aeec8154edba0dde2916b432b30">
+  <properties
+      key="Country Code"
+      value="HMD"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"/>
+  <properties
+      key="Currency"
+      value="Australian Dollar (AUD)"/>
+</archimate:Location>

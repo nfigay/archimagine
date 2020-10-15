@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Colombia"
+    id="id-6d29020bbca8444e8b5afe070042cd97"
+    documentation="the Republic of Colombia">
+  <properties
+      key="Country Code"
+      value="COL"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Bogota"/>
+  <properties
+      key="Currency"
+      value="Colombian Peso (COP)"/>
+</archimate:Location>

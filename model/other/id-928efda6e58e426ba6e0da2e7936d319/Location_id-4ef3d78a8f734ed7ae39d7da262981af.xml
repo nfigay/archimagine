@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="South Africa"
+    id="id-4ef3d78a8f734ed7ae39d7da262981af"
+    documentation="the Republic of South Africa">
+  <properties
+      key="Country Code"
+      value="ZAF"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Pretoria"/>
+  <properties
+      key="Currency"
+      value="Rand (ZAR)"/>
+</archimate:Location>

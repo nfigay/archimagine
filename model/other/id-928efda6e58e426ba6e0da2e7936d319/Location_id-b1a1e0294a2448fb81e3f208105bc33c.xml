@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dominican Republic"
+    id="id-b1a1e0294a2448fb81e3f208105bc33c"
+    documentation="the Dominican Republic">
+  <properties
+      key="Country Code"
+      value="DOM"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Santo Domingo"/>
+  <properties
+      key="Currency"
+      value="Dominican Peso (DOP)"/>
+</archimate:Location>

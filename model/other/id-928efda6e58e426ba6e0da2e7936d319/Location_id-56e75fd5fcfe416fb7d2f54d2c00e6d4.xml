@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spain"
+    id="id-56e75fd5fcfe416fb7d2f54d2c00e6d4"
+    documentation="the Kingdom of Spain">
+  <properties
+      key="Country Code"
+      value="ESP"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Madrid"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

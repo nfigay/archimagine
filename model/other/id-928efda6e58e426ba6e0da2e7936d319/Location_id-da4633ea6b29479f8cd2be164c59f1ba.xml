@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brazil"
+    id="id-da4633ea6b29479f8cd2be164c59f1ba"
+    documentation="the Federative Republic of Brazil">
+  <properties
+      key="Country Code"
+      value="BRA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Brasilia"/>
+  <properties
+      key="Currency"
+      value="Brazilian Real (BRL)"/>
+</archimate:Location>

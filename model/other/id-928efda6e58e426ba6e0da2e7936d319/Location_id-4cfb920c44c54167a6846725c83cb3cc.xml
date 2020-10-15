@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sierra Leone"
+    id="id-4cfb920c44c54167a6846725c83cb3cc"
+    documentation="the Republic of Sierra Leone">
+  <properties
+      key="Country Code"
+      value="SLE"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Freetown"/>
+  <properties
+      key="Currency"
+      value="Leone (SLL)"/>
+</archimate:Location>

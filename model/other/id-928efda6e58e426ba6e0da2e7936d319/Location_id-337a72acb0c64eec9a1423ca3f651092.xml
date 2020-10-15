@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Austria"
+    id="id-337a72acb0c64eec9a1423ca3f651092"
+    documentation="the Republic of Austria">
+  <properties
+      key="Country Code"
+      value="AUT"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Vienna"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mongolia"
+    id="id-7156b668116c4ce596f89cb8b011b812"
+    documentation="Mongolia">
+  <properties
+      key="Country Code"
+      value="MNG"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Ulan Bator"/>
+  <properties
+      key="Currency"
+      value="Tugrik (MNT)"/>
+</archimate:Location>

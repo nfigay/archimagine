@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Albania"
+    id="id-9bd2792cd1e841b1b6dc42c59080fb1d"
+    documentation="the Republic of Albania">
+  <properties
+      key="Country Code"
+      value="ALB"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Tirana"/>
+  <properties
+      key="Currency"
+      value="Lek (ALL)"/>
+</archimate:Location>

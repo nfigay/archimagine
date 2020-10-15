@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guatemala"
+    id="id-5b24abd1c82544ab843dda17e192287d"
+    documentation="the Republic of Guatemala">
+  <properties
+      key="Country Code"
+      value="GTM"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Guatemala City"/>
+  <properties
+      key="Currency"
+      value="Quetzal (GTQ)"/>
+</archimate:Location>

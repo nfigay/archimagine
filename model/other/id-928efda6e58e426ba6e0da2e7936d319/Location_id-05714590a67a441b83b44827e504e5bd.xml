@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Qatar"
+    id="id-05714590a67a441b83b44827e504e5bd"
+    documentation="the State of Qatar">
+  <properties
+      key="Country Code"
+      value="QAT"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Doha"/>
+  <properties
+      key="Currency"
+      value="Qatari Rial (QAR)"/>
+</archimate:Location>

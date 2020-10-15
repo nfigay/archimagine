@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ghana"
+    id="id-8a73d7b825a147f9b0d32166ebf1cc49"
+    documentation="the Republic of Ghana">
+  <properties
+      key="Country Code"
+      value="GHA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Accra"/>
+  <properties
+      key="Currency"
+      value="Ghana Cedi (GHS)"/>
+</archimate:Location>

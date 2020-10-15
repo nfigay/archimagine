@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samoa"
+    id="id-2eff9981f77b494dad0e272841117f14"
+    documentation="the Independent State of Samoa">
+  <properties
+      key="Country Code"
+      value="WSM"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Apia"/>
+  <properties
+      key="Currency"
+      value="Tala (WST)"/>
+</archimate:Location>

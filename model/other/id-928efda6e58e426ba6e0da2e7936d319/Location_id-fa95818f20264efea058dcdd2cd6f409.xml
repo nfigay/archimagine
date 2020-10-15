@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solomon Islands"
+    id="id-fa95818f20264efea058dcdd2cd6f409"
+    documentation="Solomon Islands">
+  <properties
+      key="Country Code"
+      value="SLB"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Honiara"/>
+  <properties
+      key="Currency"
+      value="Solomon Islands Dollar (SBD)"/>
+</archimate:Location>

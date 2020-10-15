@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tunisia"
+    id="id-58785bc4adff4b788b7ff6c6630e4f18"
+    documentation="the Republic of Tunisia">
+  <properties
+      key="Country Code"
+      value="TUN"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Tunis"/>
+  <properties
+      key="Currency"
+      value="Tunisian Dinar (TND)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cambodia"
+    id="id-4dea5b1598a54609aac5ef5c1de2834a"
+    documentation="the Kingdom of Cambodia">
+  <properties
+      key="Country Code"
+      value="KHM"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Phnom Penh"/>
+  <properties
+      key="Currency"
+      value="Riel (KHR)"/>
+</archimate:Location>

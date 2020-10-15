@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Syrian Arab Republic"
+    id="id-4ea20dd1c0974f3c928fd3da4530019a"
+    documentation="the Syrian Arab Republic">
+  <properties
+      key="Country Code"
+      value="SYR"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Damascus"/>
+  <properties
+      key="Currency"
+      value="Syrian Pound (SYP)"/>
+</archimate:Location>

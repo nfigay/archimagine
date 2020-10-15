@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Egypt"
+    id="id-c67ea46971dc43e28ec485507f3667dd"
+    documentation="the Arab Republic of Egypt">
+  <properties
+      key="Country Code"
+      value="EGY"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Cairo"/>
+  <properties
+      key="Currency"
+      value="Egyptian Pound (EGP)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ukraine"
+    id="id-48dbfc6e3d3847fb90acaac5f75624d4"
+    documentation="Ukraine">
+  <properties
+      key="Country Code"
+      value="UKR"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Kiev"/>
+  <properties
+      key="Currency"
+      value="Hryvnia (UAH)"/>
+</archimate:Location>

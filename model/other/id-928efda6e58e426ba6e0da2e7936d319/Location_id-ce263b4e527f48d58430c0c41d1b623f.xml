@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Peru"
+    id="id-ce263b4e527f48d58430c0c41d1b623f"
+    documentation="the Republic of Peru">
+  <properties
+      key="Country Code"
+      value="PER"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Lima"/>
+  <properties
+      key="Currency"
+      value="Sol (PEN)"/>
+</archimate:Location>

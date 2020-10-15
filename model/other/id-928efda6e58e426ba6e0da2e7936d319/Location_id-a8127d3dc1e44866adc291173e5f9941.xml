@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Panama"
+    id="id-a8127d3dc1e44866adc291173e5f9941"
+    documentation="the Republic of Panama">
+  <properties
+      key="Country Code"
+      value="PAN"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Panama City"/>
+  <properties
+      key="Currency"
+      value="Balboa,US Dollar (PAB,USD)"/>
+</archimate:Location>

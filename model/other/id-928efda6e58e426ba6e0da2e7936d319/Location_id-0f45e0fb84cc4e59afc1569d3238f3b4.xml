@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Israel"
+    id="id-0f45e0fb84cc4e59afc1569d3238f3b4"
+    documentation="the State of Israel">
+  <properties
+      key="Country Code"
+      value="ISR"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Jerusalem"/>
+  <properties
+      key="Currency"
+      value="New Israeli Sheqel (ILS)"/>
+</archimate:Location>

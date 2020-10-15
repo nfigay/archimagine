@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Republic of Moldova"
+    id="id-5ba65f68770342249a287dab4c29fe08"
+    documentation="the Republic of Moldova">
+  <properties
+      key="Country Code"
+      value="MDA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Chisinau"/>
+  <properties
+      key="Currency"
+      value="Moldovan Leu (MDL)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sudan"
+    id="id-fb66e7b3176243728372be4bb5bf8bc3"
+    documentation="the Republic of the Sudan">
+  <properties
+      key="Country Code"
+      value="SDN"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Khartoum"/>
+  <properties
+      key="Currency"
+      value="Sudanese Pound (SDG)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bahrain"
+    id="id-ab87a48afca34ea0ba50267bbb91923f"
+    documentation="the Kingdom of Bahrain">
+  <properties
+      key="Country Code"
+      value="BHR"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Manama"/>
+  <properties
+      key="Currency"
+      value="Bahraini Dinar (BHD)"/>
+</archimate:Location>

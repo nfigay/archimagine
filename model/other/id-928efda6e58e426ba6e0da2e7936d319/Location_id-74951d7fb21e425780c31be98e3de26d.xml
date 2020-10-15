@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Canada"
+    id="id-74951d7fb21e425780c31be98e3de26d"
+    documentation="Canada">
+  <properties
+      key="Country Code"
+      value="CAN"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Ottawa"/>
+  <properties
+      key="Currency"
+      value="Canadian Dollar (CAD)"/>
+</archimate:Location>

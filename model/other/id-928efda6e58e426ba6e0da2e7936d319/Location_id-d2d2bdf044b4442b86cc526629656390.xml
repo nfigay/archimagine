@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uzbekistan"
+    id="id-d2d2bdf044b4442b86cc526629656390"
+    documentation="the Republic of Uzbekistan">
+  <properties
+      key="Country Code"
+      value="UZB"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Tashkent"/>
+  <properties
+      key="Currency"
+      value="Uzbekistan Sum (UZS)"/>
+</archimate:Location>

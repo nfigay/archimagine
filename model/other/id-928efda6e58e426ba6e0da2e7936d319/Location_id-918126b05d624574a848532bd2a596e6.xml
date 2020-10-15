@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Turkmenistan"
+    id="id-918126b05d624574a848532bd2a596e6"
+    documentation="Turkmenistan">
+  <properties
+      key="Country Code"
+      value="TKM"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Ashgabat"/>
+  <properties
+      key="Currency"
+      value="Turkmenistan New Manat (TMT)"/>
+</archimate:Location>

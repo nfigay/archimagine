@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bolivia (Plurinational State of)"
+    id="id-008aeb895f8149c68d67865be58f4d88"
+    documentation="the Plurinational State of Bolivia">
+  <properties
+      key="Country Code"
+      value="BOL"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Sucre"/>
+  <properties
+      key="Currency"
+      value="Boliviano (BOB)"/>
+</archimate:Location>

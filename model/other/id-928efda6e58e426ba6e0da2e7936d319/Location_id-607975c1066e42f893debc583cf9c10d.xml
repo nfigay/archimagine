@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saint Kitts and Nevis"
+    id="id-607975c1066e42f893debc583cf9c10d"
+    documentation="Saint Kitts and Nevis">
+  <properties
+      key="Country Code"
+      value="KNA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Basseterre"/>
+  <properties
+      key="Currency"
+      value="East Caribbean Dollar (XCD)"/>
+</archimate:Location>

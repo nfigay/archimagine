@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Republic of Korea"
+    id="id-f39be5afa677469cbb4dc5da0f443815"
+    documentation="the Republic of Korea">
+  <properties
+      key="Country Code"
+      value="KOR"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Seoul"/>
+  <properties
+      key="Currency"
+      value="Won (KRW)"/>
+</archimate:Location>

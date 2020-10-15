@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slovenia"
+    id="id-3227ad904ca1477ab1081b84221c17f7"
+    documentation="the Republic of Slovenia">
+  <properties
+      key="Country Code"
+      value="SVN"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Ljubljana"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

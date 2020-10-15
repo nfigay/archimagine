@@ -9,4 +9,10 @@
   <properties
       key="icon size"
       value="50x50"/>
+  <properties
+      key="Editor"
+      value="Microsoft"/>
+  <properties
+      key="Editor"
+      value="Microsoft"/>
 </archimate:TechnologyService>

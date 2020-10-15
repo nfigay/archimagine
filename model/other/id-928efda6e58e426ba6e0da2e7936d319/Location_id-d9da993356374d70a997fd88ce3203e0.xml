@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Angola"
+    id="id-d9da993356374d70a997fd88ce3203e0"
+    documentation="the Republic of Angola">
+  <properties
+      key="Country Code"
+      value="AGO"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Luanda"/>
+  <properties
+      key="Currency"
+      value="Kwanza (AOA)"/>
+</archimate:Location>

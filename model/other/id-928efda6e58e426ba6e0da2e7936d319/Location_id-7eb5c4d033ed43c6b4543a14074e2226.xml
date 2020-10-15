@@ -1,0 +1,16 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bonaire, Sint Eustatius and Saba"
+    id="id-7eb5c4d033ed43c6b4543a14074e2226">
+  <properties
+      key="Country Code"
+      value="BES"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

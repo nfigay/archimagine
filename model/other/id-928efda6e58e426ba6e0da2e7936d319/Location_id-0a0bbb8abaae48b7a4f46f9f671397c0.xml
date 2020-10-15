@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="United Kingdom of Great Britain and Northern Ireland"
+    id="id-0a0bbb8abaae48b7a4f46f9f671397c0"
+    documentation="the United Kingdom of Great Britain and Northern Ireland">
+  <properties
+      key="Country Code"
+      value="GBR"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="London"/>
+  <properties
+      key="Currency"
+      value="Pound Sterling (GBP)"/>
+</archimate:Location>

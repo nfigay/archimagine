@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timor-Leste"
+    id="id-26970026150d4bc59c870e70827d687a"
+    documentation="the Democratic Republic of Timor-Leste">
+  <properties
+      key="Country Code"
+      value="TLS"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Dili"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

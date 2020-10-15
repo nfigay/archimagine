@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ExcelPlus 2.5"
+    id="id-4d953612ecbd4bbebf34d8516ffe3465"
+    documentation="https://aymkdn.github.io/ExcelPlus/&#xA;&#xA;&#xA;var debug = true;&#xA;console.show();&#xA;console.clear();&#xA;console.log(&quot;> excelplus-2.5.min loaded&quot;);&#xA;&#xA;load(__DIR__ + &quot;/lib/excelplus-2.5.min.js&quot;);&#xA;&#xA;&#xA;Error: Script Error: javax.script.ScriptException: TypeError: Cannot read property &quot;createElementNS&quot; from undefined in /Users/nicolasfigay/Library/Application Support/Archi4/scripts/examples/NFI//lib/excelplus-2.5.min.js at line number 20"/>

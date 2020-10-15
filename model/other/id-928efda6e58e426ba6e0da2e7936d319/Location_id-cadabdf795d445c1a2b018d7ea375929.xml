@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The former Yugoslav Republic of Macedonia"
+    id="id-cadabdf795d445c1a2b018d7ea375929"
+    documentation="the former Yugoslav Republic of Macedonia">
+  <properties
+      key="Country Code"
+      value="MKD"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Skopje"/>
+  <properties
+      key="Currency"
+      value="Denar (MKD)"/>
+</archimate:Location>

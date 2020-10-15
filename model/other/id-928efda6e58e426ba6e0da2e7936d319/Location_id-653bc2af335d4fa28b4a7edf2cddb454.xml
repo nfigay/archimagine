@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liechtenstein"
+    id="id-653bc2af335d4fa28b4a7edf2cddb454"
+    documentation="the Principality of Liechtenstein">
+  <properties
+      key="Country Code"
+      value="LIE"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Vaduz"/>
+  <properties
+      key="Currency"
+      value="Swiss Franc (CHF)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gabon"
+    id="id-f3d11ecea63f448b91365df4f7a777b7"
+    documentation="the Gabonese Republic">
+  <properties
+      key="Country Code"
+      value="GAB"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Libreville"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BEAC (XAF)"/>
+</archimate:Location>

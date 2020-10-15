@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Costa Rica"
+    id="id-bef752561c5d4108a674c30cc65a4252"
+    documentation="the Republic of Costa Rica">
+  <properties
+      key="Country Code"
+      value="CRI"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="San Jose"/>
+  <properties
+      key="Currency"
+      value="Costa Rican Colon (CRC)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="United Arab Emirates"
+    id="id-da59272cf4b843ff9ec1c950c0db9bde"
+    documentation="the United Arab Emirates">
+  <properties
+      key="Country Code"
+      value="ARE"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Abu Dhabi"/>
+  <properties
+      key="Currency"
+      value="UAE Dirham (AED)"/>
+</archimate:Location>

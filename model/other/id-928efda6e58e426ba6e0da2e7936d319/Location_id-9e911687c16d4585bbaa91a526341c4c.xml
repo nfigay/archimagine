@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Belize"
+    id="id-9e911687c16d4585bbaa91a526341c4c"
+    documentation="Belize">
+  <properties
+      key="Country Code"
+      value="BLZ"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Belmopan"/>
+  <properties
+      key="Currency"
+      value="Belize Dollar (BZD)"/>
+</archimate:Location>

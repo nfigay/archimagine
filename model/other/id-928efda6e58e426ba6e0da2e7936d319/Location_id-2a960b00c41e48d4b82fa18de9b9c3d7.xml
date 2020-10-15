@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mexico"
+    id="id-2a960b00c41e48d4b82fa18de9b9c3d7"
+    documentation="the United Mexican States">
+  <properties
+      key="Country Code"
+      value="MEX"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Mexico City"/>
+  <properties
+      key="Currency"
+      value="Mexican Peso (MXN)"/>
+</archimate:Location>

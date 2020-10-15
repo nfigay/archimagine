@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Belarus"
+    id="id-f8024449400a4a199c019b1f0cf01fff"
+    documentation="the Republic of Belarus">
+  <properties
+      key="Country Code"
+      value="BLR"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Minsk"/>
+  <properties
+      key="Currency"
+      value="Belarusian Ruble (BYN)"/>
+</archimate:Location>

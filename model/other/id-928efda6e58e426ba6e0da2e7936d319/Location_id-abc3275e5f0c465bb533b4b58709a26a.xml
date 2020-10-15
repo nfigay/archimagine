@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="United Republic of Tanzania"
+    id="id-abc3275e5f0c465bb533b4b58709a26a"
+    documentation="the United Republic of Tanzania">
+  <properties
+      key="Country Code"
+      value="TZA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Dodoma"/>
+  <properties
+      key="Currency"
+      value="Tanzanian Shilling (TZS)"/>
+</archimate:Location>

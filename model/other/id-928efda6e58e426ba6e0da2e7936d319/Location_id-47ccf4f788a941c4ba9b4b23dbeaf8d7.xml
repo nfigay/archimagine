@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiji"
+    id="id-47ccf4f788a941c4ba9b4b23dbeaf8d7"
+    documentation="the Republic of Fiji">
+  <properties
+      key="Country Code"
+      value="FJI"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Suva"/>
+  <properties
+      key="Currency"
+      value="Fiji Dollar (FJD)"/>
+</archimate:Location>

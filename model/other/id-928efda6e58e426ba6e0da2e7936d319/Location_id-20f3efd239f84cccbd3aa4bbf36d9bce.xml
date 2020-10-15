@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Romania"
+    id="id-20f3efd239f84cccbd3aa4bbf36d9bce"
+    documentation="Romania">
+  <properties
+      key="Country Code"
+      value="ROU"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Bucharest"/>
+  <properties
+      key="Currency"
+      value="Romanian Leu (RON)"/>
+</archimate:Location>

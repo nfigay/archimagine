@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Democratic People's Republic of Korea"
+    id="id-0c5b2c21feec4786bfb63d2127bdb618"
+    documentation="the Democratic People's Republic of Korea">
+  <properties
+      key="Country Code"
+      value="PRK"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Pyongyang"/>
+  <properties
+      key="Currency"
+      value="North Korean Won (KPW)"/>
+</archimate:Location>

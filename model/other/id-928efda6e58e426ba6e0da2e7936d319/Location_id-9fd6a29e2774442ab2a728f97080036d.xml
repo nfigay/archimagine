@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sri Lanka"
+    id="id-9fd6a29e2774442ab2a728f97080036d"
+    documentation="the Democratic Socialist Republic of Sri Lanka">
+  <properties
+      key="Country Code"
+      value="LKA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Colombo"/>
+  <properties
+      key="Currency"
+      value="Sri Lanka Rupee (LKR)"/>
+</archimate:Location>

@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="South Georgia and the South Sandwich Islands"
+    id="id-cffb2b1c3c074ed8afd0a2e69622754b">
+  <properties
+      key="Country Code"
+      value="SGS"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Grytviken"/>
+  <properties
+      key="Currency"
+      value="No universal currency"/>
+</archimate:Location>

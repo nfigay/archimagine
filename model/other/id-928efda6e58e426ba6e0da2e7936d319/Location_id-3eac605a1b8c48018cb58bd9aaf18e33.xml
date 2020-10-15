@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lesotho"
+    id="id-3eac605a1b8c48018cb58bd9aaf18e33"
+    documentation="the Kingdom of Lesotho">
+  <properties
+      key="Country Code"
+      value="LSO"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Maseru"/>
+  <properties
+      key="Currency"
+      value="Loti,Rand (LSL,ZAR)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Iceland"
+    id="id-8b82a46761f14c829e1527b0dbfa6a43"
+    documentation="the Republic of Iceland">
+  <properties
+      key="Country Code"
+      value="ISL"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Reykjavik"/>
+  <properties
+      key="Currency"
+      value="Iceland Krona (ISK)"/>
+</archimate:Location>

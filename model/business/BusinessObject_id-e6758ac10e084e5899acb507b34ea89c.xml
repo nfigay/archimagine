@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP Data Warehouse Cloud"
+    id="id-e6758ac10e084e5899acb507b34ea89c"
+    documentation="est la solution de virtualization des données et de la modélisation par-dessus des données issues de multiple sources, en gérant la réplication des données ou la délégation des calculs. L'offre serait logiquement en compétition par rapport Denodo (en tout cas pour les clients SAP). L'outil est un des services de &quot;SAP HANA Cloud Services&quot; qui comprends d'autres services comme: SAP Analytics Cloud et SAP Data Intelligence Cloud"/>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Morocco"
+    id="id-e4535278ec9240a0b36a092ca7ea5e07"
+    documentation="the Kingdom of Morocco">
+  <properties
+      key="Country Code"
+      value="MAR"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Rabat"/>
+  <properties
+      key="Currency"
+      value="Moroccan Dirham (MAD)"/>
+</archimate:Location>

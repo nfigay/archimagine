@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zambia"
+    id="id-cddee171888340f19dbfb9544451295d"
+    documentation="the Republic of Zambia">
+  <properties
+      key="Country Code"
+      value="ZMB"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Lusaka"/>
+  <properties
+      key="Currency"
+      value="Zambian Kwacha (ZMW)"/>
+</archimate:Location>

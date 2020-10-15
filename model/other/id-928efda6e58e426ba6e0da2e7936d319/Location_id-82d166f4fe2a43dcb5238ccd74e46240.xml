@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tuvalu"
+    id="id-82d166f4fe2a43dcb5238ccd74e46240"
+    documentation="Tuvalu">
+  <properties
+      key="Country Code"
+      value="TUV"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Funafuti"/>
+  <properties
+      key="Currency"
+      value="Australian Dollar (AUD)"/>
+</archimate:Location>

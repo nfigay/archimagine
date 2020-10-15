@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poland"
+    id="id-d1d833b4b41642bea0c4acd5d3020b9f"
+    documentation="the Republic of Poland">
+  <properties
+      key="Country Code"
+      value="POL"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Warsaw"/>
+  <properties
+      key="Currency"
+      value="Zloty (PLN)"/>
+</archimate:Location>

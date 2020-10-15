@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nauru"
+    id="id-ef7e591b2a604f3ab3034ae9ea030fbb"
+    documentation="the Republic of Nauru">
+  <properties
+      key="Country Code"
+      value="NRU"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Yaren"/>
+  <properties
+      key="Currency"
+      value="Australian Dollar (AUD)"/>
+</archimate:Location>

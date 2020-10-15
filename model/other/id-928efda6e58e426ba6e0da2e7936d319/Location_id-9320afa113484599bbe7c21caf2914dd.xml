@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Namibia"
+    id="id-9320afa113484599bbe7c21caf2914dd"
+    documentation="the Republic of Namibia">
+  <properties
+      key="Country Code"
+      value="NAM"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Windhoek"/>
+  <properties
+      key="Currency"
+      value="Namibia Dollar,Rand (NAD,ZAR)"/>
+</archimate:Location>

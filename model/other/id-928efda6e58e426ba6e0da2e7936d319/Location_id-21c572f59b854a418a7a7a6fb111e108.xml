@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dominica"
+    id="id-21c572f59b854a418a7a7a6fb111e108"
+    documentation="the Commonwealth of Dominica">
+  <properties
+      key="Country Code"
+      value="DMA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Roseau"/>
+  <properties
+      key="Currency"
+      value="East Caribbean Dollar (XCD)"/>
+</archimate:Location>

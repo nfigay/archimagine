@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nigeria"
+    id="id-f04fa95efad048149875e98e89c26687"
+    documentation="the Federal Republic of Nigeria">
+  <properties
+      key="Country Code"
+      value="NGA"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Abuja"/>
+  <properties
+      key="Currency"
+      value="Naira (NGN)"/>
+</archimate:Location>

@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Greece"
+    id="id-df37e6729e854df88f4cd102df608fe7"
+    documentation="the Hellenic Republic">
+  <properties
+      key="Country Code"
+      value="GRC"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Athens"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

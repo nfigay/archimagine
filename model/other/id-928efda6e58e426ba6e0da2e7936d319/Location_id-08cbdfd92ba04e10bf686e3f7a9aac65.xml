@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paraguay"
+    id="id-08cbdfd92ba04e10bf686e3f7a9aac65"
+    documentation="the Republic of Paraguay">
+  <properties
+      key="Country Code"
+      value="PRY"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Asuncion"/>
+  <properties
+      key="Currency"
+      value="Guarani (PYG)"/>
+</archimate:Location>

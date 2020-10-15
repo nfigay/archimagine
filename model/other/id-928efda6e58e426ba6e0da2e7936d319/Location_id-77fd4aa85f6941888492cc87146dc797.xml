@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liberia"
+    id="id-77fd4aa85f6941888492cc87146dc797"
+    documentation="the Republic of Liberia">
+  <properties
+      key="Country Code"
+      value="LBR"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Monrovia"/>
+  <properties
+      key="Currency"
+      value="Liberian Dollar (LRD)"/>
+</archimate:Location>

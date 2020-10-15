@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vanuatu"
+    id="id-ec055dd779aa4aa6802cef68713b1cb2"
+    documentation="the Republic of Vanuatu">
+  <properties
+      key="Country Code"
+      value="VUT"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Port Vila"/>
+  <properties
+      key="Currency"
+      value="Vatu (VUV)"/>
+</archimate:Location>

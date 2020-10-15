@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portugal"
+    id="id-5b25a04c369a492aac9d80c9b5be0fc1"
+    documentation="the Portuguese Republic">
+  <properties
+      key="Country Code"
+      value="PRT"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Lisbon"/>
+  <properties
+      key="Currency"
+      value="Euro (EUR)"/>
+</archimate:Location>

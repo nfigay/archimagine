@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saint Vincent and the Grenadines"
+    id="id-57fad1ac873a4610a801863dbd3dc81b"
+    documentation="Saint Vincent and the Grenadines">
+  <properties
+      key="Country Code"
+      value="VCT"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Kingstown"/>
+  <properties
+      key="Currency"
+      value="East Caribbean Dollar (XCD)"/>
+</archimate:Location>

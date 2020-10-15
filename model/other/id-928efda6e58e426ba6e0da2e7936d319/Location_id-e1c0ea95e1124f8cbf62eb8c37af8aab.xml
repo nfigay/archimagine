@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sao Tome and Principe"
+    id="id-e1c0ea95e1124f8cbf62eb8c37af8aab"
+    documentation="the Democratic Republic of Sao Tome and Principe">
+  <properties
+      key="Country Code"
+      value="STP"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Sao Tome"/>
+  <properties
+      key="Currency"
+      value="Dobra (STD)"/>
+</archimate:Location>

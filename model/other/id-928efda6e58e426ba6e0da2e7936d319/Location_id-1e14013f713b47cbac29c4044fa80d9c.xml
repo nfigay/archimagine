@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tonga"
+    id="id-1e14013f713b47cbac29c4044fa80d9c"
+    documentation="the Kingdom of Tonga">
+  <properties
+      key="Country Code"
+      value="TON"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Nuku'alofa"/>
+  <properties
+      key="Currency"
+      value="Pa’anga (TOP)"/>
+</archimate:Location>

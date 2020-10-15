@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Central African Republic"
+    id="id-c908263f05d54021ab98d5c0b94ebf1e"
+    documentation="the Central African Republic">
+  <properties
+      key="Country Code"
+      value="CAF"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Bangui"/>
+  <properties
+      key="Currency"
+      value="CFA Franc BEAC (XAF)"/>
+</archimate:Location>

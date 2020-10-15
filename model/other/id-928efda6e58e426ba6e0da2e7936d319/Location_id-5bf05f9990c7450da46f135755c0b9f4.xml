@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Micronesia (Federated States of)"
+    id="id-5bf05f9990c7450da46f135755c0b9f4"
+    documentation="the Federated States of Micronesia">
+  <properties
+      key="Country Code"
+      value="FSM"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Palikir"/>
+  <properties
+      key="Currency"
+      value="US Dollar (USD)"/>
+</archimate:Location>

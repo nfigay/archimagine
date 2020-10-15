@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uruguay"
+    id="id-b973967316fe4a0e9566ec6a14078f04"
+    documentation="the Eastern Republic of Uruguay">
+  <properties
+      key="Country Code"
+      value="URY"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Montevideo"/>
+  <properties
+      key="Currency"
+      value="Peso Uruguayo (UYU)"/>
+</archimate:Location>

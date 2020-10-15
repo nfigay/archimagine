@@ -1,0 +1,18 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Iraq"
+    id="id-f93723f2cfcd45e5842740f84564bc7d"
+    documentation="the Republic of Iraq">
+  <properties
+      key="Country Code"
+      value="IRQ"/>
+  <properties
+      key="Latest Sync Date"
+      value="15/10/2020 17:22:39"/>
+  <properties
+      key="Capital"
+      value="Baghdad"/>
+  <properties
+      key="Currency"
+      value="Iraqi Dinar (IQD)"/>
+</archimate:Location>
