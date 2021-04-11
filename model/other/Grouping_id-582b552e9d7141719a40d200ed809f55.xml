@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NLP Products"
+    id="id-582b552e9d7141719a40d200ed809f55"
+    documentation="Spark NLP&#xA;spaCy&#xA;NLTK&#xA;OpenNLP&#xA;Stanford CoreNLP"/>

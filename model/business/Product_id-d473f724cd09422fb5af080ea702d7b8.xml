@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SpaCy"
+    id="id-d473f724cd09422fb5af080ea702d7b8"
+    documentation="https://spacy.io/&#xA;Features:&#xA;Support for 64+ languages&#xA;55 trained pipelines for 17 languages&#xA;Multi-task learning with pretrained transformers like BERT&#xA;Pretrained word vectors&#xA;State-of-the-art speed&#xA;Production-ready training system&#xA;Linguistically-motivated tokenization&#xA;Components for named entity recognition, part-of-speech tagging, dependency parsing, sentence segmentation, text classification, lemmatization, morphological analysis, entity linking and more&#xA;Easily extensible with custom components and attributes&#xA;Support for custom models in PyTorch, TensorFlow and other frameworks&#xA;Built in visualizers for syntax and NER&#xA;Easy model packaging, deployment and workflow management&#xA;Robust, rigorously evaluated accuracy"/>
