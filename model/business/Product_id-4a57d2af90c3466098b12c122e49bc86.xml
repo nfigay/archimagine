@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AdaptNLP"
+    id="id-4a57d2af90c3466098b12c122e49bc86"
+    documentation="https://github.com/Novetta/adaptnlp&#xA;A high level framework and library for running, training, and deploying state-of-the-art Natural Language Processing (NLP) models for end to end tasks.&#xA;AdaptNLP allows users ranging from beginner python coders to experienced machine learning engineers to leverage state-of-the-art NLP models and training techniques in one easy-to-use python package.&#xA;&#xA;Built atop Zalando Research's Flair and Hugging Face's Transformers library, AdaptNLP provides Machine Learning Researchers and Scientists a modular and adaptive approach to a variety of NLP tasks with an Easy API for training, inference, and deploying NLP-based microservices."/>

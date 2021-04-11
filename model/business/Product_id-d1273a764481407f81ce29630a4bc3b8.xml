@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OpenNLP"
     id="id-d1273a764481407f81ce29630a4bc3b8"
-    documentation="http://opennlp.apache.org/"/>
+    documentation="http://opennlp.apache.org/&#xA;OpenNLP: It is hosted by the Apache Foundation, making it easy to integrate it into other Apache projects, like Apache Flink, Apache NiFi, and Apache Spark. It is a general NLP tool that covers all the common processing components of NLP, and it can be used from the command line or within an application as a library. It also has wide support for multiple languages. OpenNLP also includes maximum entropy and perceptron based machine learning."/>

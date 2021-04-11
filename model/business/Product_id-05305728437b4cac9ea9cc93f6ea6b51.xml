@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoreNLP"
+    id="id-05305728437b4cac9ea9cc93f6ea6b51"
+    documentation="https://stanfordnlp.github.io/CoreNLP/&#xA;CoreNLP: It was developed at Stanford University, and it’s written in Java. Still, it’s equipped with wrappers for many different languages, including Python. Like NLTK, Stanford CoreNLP provides many different natural language processing software. One can use this tool for information scraping from open sources, sentiment analysis, conversational interfaces, and text processing, and generation. It also integrates many of Stanford’s NLP tools, like the part-of-speech (POS) tagger, the named entity recognizer (NER), the parser, the coreference resolution system, and bootstrapped pattern learning."/>

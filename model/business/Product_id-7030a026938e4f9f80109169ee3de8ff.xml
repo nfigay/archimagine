@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CogCompNLP"
+    id="id-7030a026938e4f9f80109169ee3de8ff"
+    documentation="https://github.com/CogComp/cogcomp-nlp&#xA;&#xA;CogCompNLP: This is developed by the University of Illinois, also has a Python library with similar functionality. It can be used to process text, either locally or on remote systems, which can remove a tremendous burden from your local device. It provides processing functions such as tokenization, part-of-speech tagging, chunking, named-entity tagging, lemmatization, dependency and constituency parsing, and semantic role labeling"/>

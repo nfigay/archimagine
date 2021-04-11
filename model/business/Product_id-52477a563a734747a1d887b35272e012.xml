@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PyTorch-NLP"
+    id="id-52477a563a734747a1d887b35272e012"
+    documentation="https://pytorch.org/&#xA;&#xA;PyTorch-NLP: It is an excellent python library for quick prototyping. It’s updated with the latest research, researchers and apex companies have released many tools to perform total sorts of amazing processing, like image conversations. Though PyTorch is targeted at researchers, it is also be used for workload production and prototypes with the most sophisticated algorithms. This library is used primarily for neural network layers, datasets, and text processing modules."/>

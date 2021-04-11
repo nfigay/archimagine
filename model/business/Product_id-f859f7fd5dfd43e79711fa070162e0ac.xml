@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Natural"
+    id="id-f859f7fd5dfd43e79711fa070162e0ac"
+    documentation="Github: https://github.com/NaturalNode/natural&#xA;&#xA;Natural is another famous NLP library for Node.js. “Natural” is a general natural language facility for Node.js. It currently supports tokenizing, stemming, classification, phonetics, tf-idf, WordNet, string similarity, and some inflections."/>

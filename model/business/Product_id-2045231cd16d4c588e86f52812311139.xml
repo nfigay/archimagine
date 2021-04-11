@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TextBlob"
+    id="id-2045231cd16d4c588e86f52812311139"
+    documentation="https://textblob.readthedocs.io/en/dev/&#xA;&#xA;TextBlob: It is helpful for developers who are starting out with NLP in Python and want to make the most of their first encounter with NLTK. It basically provides beginners with an easy interface to help them learn most basic NLP tasks like sentiment analysis, noun phrase extraction, text classification, part-of-speech tagging, and more. . TextBlob also includes functionality from the Pattern library.  It can be used for rapid prototyping of various NLP models and can easily grow into full-scale projects."/>

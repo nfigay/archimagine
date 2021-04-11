@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wink.js"
+    id="id-6649d0b9b2084f2a8e5a0873772101ef"
+    documentation="Github: https://github.com/winkjs/wink-nlp-utils&#xA;&#xA;Wink provides NLP functions for amplifying negations, managing elisions, creating ngrams, stems, phonetic codes to tokens, and more."/>

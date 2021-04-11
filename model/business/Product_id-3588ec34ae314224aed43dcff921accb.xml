@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NLTK"
     id="id-3588ec34ae314224aed43dcff921accb"
-    documentation="https://www.nltk.org/&#xA;"/>
+    documentation="The Natural Language Toolkit, or more commonly NLTK, is a suite of libraries and programs for symbolic and statistical natural language processing for English written in the Python programming language. With NLTK, we can search for a word meaning by using a built-in lexical database called WordNet. WordNet presents nouns, verbs, adjectives, and adverbs grouped in sets of cognitive synonyms — synsets — with each synset representing a distinct concept.&#xA;https://www.nltk.org/&#xA;"/>

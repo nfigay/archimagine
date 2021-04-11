@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gensim"
+    id="id-4ff62aa7dc02475183735e91d7d1a7e1"
+    documentation="https://github.com/RaRe-Technologies/gensim&#xA;&#xA;gensim: It is a highly specialized Python library that largely deals with topic modeling tasks using algorithms like Latent Dirichlet Allocation (LDA). It is also excellent at statistical semantics and recognizing text similarities, indexing texts, and navigating different documents. genism has also been designed to extend with other vector space algorithms. Further, it is licensed under the OSI approved GNU LGPLv2.1 license. Also, it is free for both personal and commercial use."/>

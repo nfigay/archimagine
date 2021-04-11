@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fastText"
+    id="id-fc20a225aa9a43d1bcc5dc100cdd8f8f"
+    documentation="https://fasttext.cc/&#xA;&#xA;FastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. It works on standard, generic hardware. Models can later be reduced in size to even fit on mobile devices."/>

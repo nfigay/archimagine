@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nlp.js"
+    id="id-25bfe79bbb414109a2b81d9c2daa6015"
+    documentation="https://github.com/axa-group/nlp.js?utm_source=recordnotfound.com&#xA;&#xA;Nlp.js: This tool is great for unstructured data applications like translation and chatbots. It identifies 34 different languages and includes a natural language processing classifier and a natural language generation manager. This tool is completely open-source and relies on the contributions of programmers around the world. It is built on top of several other NLP libraries, including Franc and Brain.js."/>

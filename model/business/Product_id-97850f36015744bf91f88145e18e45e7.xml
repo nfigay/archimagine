@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AllenNLP"
+    id="id-97850f36015744bf91f88145e18e45e7"
+    documentation="https://allennlp.org/&#xA;AllenNLP: It is an Apache 2.0 NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks. Built on spaCy, it is simple to use and enables dynamic computation graphs, and provides a flexible data API that handles intelligent batching and padding. AllenNLP also offers high-level abstractions for common operations in working with text, and a modular and extensible experiment framework."/>
