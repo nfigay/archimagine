@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Experiences writing a reactive Kafka application"
+    id="id-cd61e536a2e64f8d8d404ee96fdfbd95"
+    documentation="https://developer.ibm.com/components/kafka/tutorials/transforming-a-kafka-application-to-be-reactive/"/>

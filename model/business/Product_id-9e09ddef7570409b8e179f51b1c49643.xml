@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project Reactor"
+    id="id-9e09ddef7570409b8e179f51b1c49643"
+    documentation="Reactor is a fourth-generation reactive library, based on the Reactive Streams specification, for building non-blocking applications on the JVM.&#xA;&#xA;https://projectreactor.io"/>

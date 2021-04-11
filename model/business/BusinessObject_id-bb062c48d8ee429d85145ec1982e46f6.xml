@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reactive Performance on GraalVM"
+    id="id-bb062c48d8ee429d85145ec1982e46f6"
+    documentation="Reactive Libraries such as RxJava and Project Reactor are great tools that allow writing async, functional and declarative code which looks clean and works like a charm.Today we ponder: can we make reactive code not only look clean but also run faster? Maybe you heard about the performance improvements the Graal compiler brings to the Scala code at Twitter. We hope that the performance of reactive code written with RxJava 2 and Reactor 3 can be improved as well. In this session, we are going to see whether Reactor and RxJava work faster on GraalVM (spoiler alert: they do), analyze why exactly that happens and which Graal compiler optimizations contribute the most to the performance of the reactive code.&#xA;https://2019.javacro.hr/eng/Program/Reactive-Performance-on-GraalVM"/>

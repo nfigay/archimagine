@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Akka"
+    id="id-581b832672ab4333bebb6c4ae6389622"
+    documentation="https://akka.io/&#xA;Build powerful reactive, concurrent, and distributed applications more easily&#xA;Akka is a toolkit for building highly concurrent, distributed, and resilient message-driven applications for Java and Scala"/>

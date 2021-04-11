@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ReactiveX"
+    id="id-bc5ceb9f6dc640c08f9b3e2f411e62a4"
+    documentation="ReactiveX is a library for composing asynchronous and event-based programs by using observable sequences.&#xA;&#xA;It extends the observer pattern to support sequences of data and/or events and adds operators that allow you to compose sequences together declaratively while abstracting away concerns about things like low-level threading, synchronization, thread-safety, concurrent data structures, and non-blocking I/O.&#xA;&#xA;http://reactivex.io/intro.html"/>

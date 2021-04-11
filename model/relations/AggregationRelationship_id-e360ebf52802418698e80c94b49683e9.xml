@@ -1,0 +1,14 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e360ebf52802418698e80c94b49683e9">
+  <properties
+      key="URL"
+      value="https://observablehq.com/"/>
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-d75a36b9611c447fa8d240ceeec8e62b.xml#id-d75a36b9611c447fa8d240ceeec8e62b"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-1edc20706fbb4bae81349e9b1b17bbc9.xml#id-1edc20706fbb4bae81349e9b1b17bbc9"/>
+</archimate:AggregationRelationship>

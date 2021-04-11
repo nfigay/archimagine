@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vert.x"
+    id="id-f731f33d8b4647a28dd8e6c653cdedc5"
+    documentation="Eclipse Vert.x is event driven and non blocking. This means your app can handle a lot of concurrency using a small number of kernel threads. Vert.x lets your app scale with minimal hardware.&#xA;https://vertx.io&#xA;"/>

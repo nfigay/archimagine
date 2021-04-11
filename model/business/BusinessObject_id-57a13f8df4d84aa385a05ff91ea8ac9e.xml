@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Where does Kafka fit in a reactive architecture?"
+    id="id-57a13f8df4d84aa385a05ff91ea8ac9e"
+    documentation="https://developer.ibm.com/depmodels/reactive-systems/articles/kafka-fit-reactive-system/"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programmation asynchrone avec Async et Await"
+    id="id-4bc01b4e1e1a49d592091fc34649c5c5"
+    documentation="https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/concepts/async/"/>
