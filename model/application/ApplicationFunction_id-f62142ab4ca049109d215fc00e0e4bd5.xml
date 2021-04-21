@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lexical Analysis"
+    id="id-f62142ab4ca049109d215fc00e0e4bd5"
+    documentation="Divides a whole chunk of text into paragraphs, sentences and words.&#xA;Involves identification and analysis of the structure of the words"/>

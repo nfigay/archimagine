@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Syntactic Analysis"
+    id="id-3315abd8d62e450d93818e7653edd91a"
+    documentation="analysis of words in a sentence for grammar&#xA;Arraging words in a manner that shows the relationship among the words"/>

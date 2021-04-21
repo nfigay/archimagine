@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Analysis"
+    id="id-9f8a191f0bb84360a80a7652518c90bd"
+    documentation="Draws the exact meaning for the words&#xA;Meaningfullness Analysis of the text&#xA; E.g. hot ice cream doen't pass"/>

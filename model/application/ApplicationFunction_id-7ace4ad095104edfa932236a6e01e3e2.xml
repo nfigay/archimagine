@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Discourse Analysis with disclosure integration"
+    id="id-7ace4ad095104edfa932236a6e01e3e2"
+    documentation="Take into account the contex of the text&#xA;Consides the meaning of the sentence before it ends&#xA;e.g. &quot;He works at Google &quot;required  to know who &quot;He&quot; references before to interpret the sentence"/>
