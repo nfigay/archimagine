@@ -121,8 +121,8 @@
         source="79a4a13f-db1f-4830-8ac9-09e3b61280ef"
         target="b3611d38-7bc3-4a6d-9ea4-7e797fc1ceb3"/>
     <bounds
-        x="24"
-        y="266"
+        x="23"
+        y="275"
         width="120"
         height="55"/>
     <archimateElement
@@ -594,10 +594,10 @@
       id="a472529c-e891-48b5-9a1d-b8ad9cf6e4a8"
       targetConnections="cb2536d9-a8eb-4dc5-b673-82f814727893">
     <bounds
-        x="633"
-        y="528"
-        width="221"
-        height="85"/>
+        x="630"
+        y="554"
+        width="298"
+        height="57"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_cee3cd7e-f08d-472f-9e62-f6804530d99f.xml#cee3cd7e-f08d-472f-9e62-f6804530d99f"/>
@@ -650,10 +650,10 @@
       id="92b0bcba-4dc4-466c-9ecc-47a5b4a98ed3"
       targetConnections="c00eb57d-d46b-4b98-ae5c-1343b33cc27d">
     <bounds
-        x="465"
-        y="234"
+        x="464"
+        y="252"
         width="120"
-        height="55"/>
+        height="36"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_3f3955e4-0241-4bf3-8595-14802286de43.xml#3f3955e4-0241-4bf3-8595-14802286de43"/>
