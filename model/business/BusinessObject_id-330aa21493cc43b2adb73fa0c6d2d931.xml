@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Flows"
+    id="id-330aa21493cc43b2adb73fa0c6d2d931"
+    documentation="The behavioral and structural representation of the interactions between Activities (which are performed by Performers) that is both temporal and results in the flow or exchange of objects such as information, data, materiel, and performers."/>

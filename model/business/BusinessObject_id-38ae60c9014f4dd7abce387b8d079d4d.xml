@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Locations"
+    id="id-38ae60c9014f4dd7abce387b8d079d4d"
+    documentation="A point or extent in space that may be referred to physically or logically."/>

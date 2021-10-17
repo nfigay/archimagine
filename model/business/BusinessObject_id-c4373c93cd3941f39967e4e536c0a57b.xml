@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Measures"
+    id="id-c4373c93cd3941f39967e4e536c0a57b"
+    documentation="All form of measures (metrics) applicable to architectures including needs satisfaction measures, performance measures, interoperability measures, organizational measures, and resource physical measures (e.g., mass.). The magnitude of some attribute of an individual"/>
