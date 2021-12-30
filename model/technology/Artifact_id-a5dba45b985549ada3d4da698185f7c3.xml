@@ -1,0 +1,8 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTML Page with the OMG Specification Catalog"
+    id="id-a5dba45b985549ada3d4da698185f7c3">
+  <properties
+      key="URL"
+      value="https://www.omg.org/spec/About"/>
+</archimate:Artifact>

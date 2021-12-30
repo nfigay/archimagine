@@ -1,8 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Protege"
-    id="1b3bc86d-64b3-4b30-a26b-781f26b1f210">
+    name="OpenLink Structured Data Editor"
+    id="id-56447498c127480bbd51dd7e14d5e6b4">
   <properties
       key="Version"
-      value="5.5"/>
+      value="0.17_git164"/>
 </archimate:Product>

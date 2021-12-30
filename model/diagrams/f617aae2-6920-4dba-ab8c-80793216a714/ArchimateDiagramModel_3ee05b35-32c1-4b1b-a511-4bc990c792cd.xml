@@ -67,7 +67,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="75d584ee-1e7a-4f48-8e49-26b834e06921">
+      id="75d584ee-1e7a-4f48-8e49-26b834e06921"
+      type="1">
     <bounds
         x="389"
         y="96"
@@ -79,7 +80,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="fdd93085-d922-4c1e-9d06-ad90e0f16cf5">
+      id="fdd93085-d922-4c1e-9d06-ad90e0f16cf5"
+      type="1">
     <bounds
         x="508"
         y="96"
@@ -115,7 +117,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="d89d1709-80aa-41c3-9ca5-8d162d7c760d">
+      id="d89d1709-80aa-41c3-9ca5-8d162d7c760d"
+      type="1">
     <bounds
         x="151"
         y="150"
@@ -127,7 +130,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="f9824c3f-28c1-4d6e-951d-639cf66a5a20">
+      id="f9824c3f-28c1-4d6e-951d-639cf66a5a20"
+      type="1">
     <bounds
         x="270"
         y="150"
@@ -187,7 +191,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="10de0320-3404-45df-80de-38f740df7c66">
+      id="10de0320-3404-45df-80de-38f740df7c66"
+      type="1">
     <bounds
         x="270"
         y="204"
@@ -223,7 +228,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="5b2382cd-3c68-449d-9a9c-2676f08ea424">
+      id="5b2382cd-3c68-449d-9a9c-2676f08ea424"
+      type="1">
     <bounds
         x="627"
         y="204"
@@ -235,7 +241,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="86e8c124-cb64-4d3f-ae17-dd8af5b20cf5">
+      id="86e8c124-cb64-4d3f-ae17-dd8af5b20cf5"
+      type="1">
     <bounds
         x="36"
         y="258"
@@ -247,7 +254,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b0407008-7a3b-49c7-bcb2-616714c22d76">
+      id="b0407008-7a3b-49c7-bcb2-616714c22d76"
+      type="1">
     <bounds
         x="155"
         y="258"

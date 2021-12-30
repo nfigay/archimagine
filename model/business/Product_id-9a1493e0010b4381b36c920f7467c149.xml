@@ -1,8 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Protege"
-    id="1b3bc86d-64b3-4b30-a26b-781f26b1f210">
+    name="Google Chrome"
+    id="id-9a1493e0010b4381b36c920f7467c149">
   <properties
       key="Version"
-      value="5.5"/>
+      value="95.0.4638.69"/>
 </archimate:Product>
