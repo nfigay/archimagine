@@ -49,8 +49,8 @@
       id="id-893ab682f75b472db2f258a1c022aad8"
       targetConnections="id-71edb1aca5544acf9531ebf30044923f id-1ebb5c94809b4fe483521fbe891b7386">
     <bounds
-        x="329"
-        y="173"
+        x="332"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement
@@ -189,12 +189,24 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9b7a00aa41ed4e7d9a6ed6f32ba232ee">
     <bounds
-        x="460"
-        y="276"
+        x="408"
+        y="273"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Location"
         href="Location_id-9fb1b4cf49e44e2489b7cc58ef7b6088.xml#id-9fb1b4cf49e44e2489b7cc58ef7b6088"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5530185d8e02437fadf96415b2e7c03c">
+    <bounds
+        x="594"
+        y="276"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_id-f971f6a849034dc489da3f1b5f64ba15.xml#id-f971f6a849034dc489da3f1b5f64ba15"/>
   </children>
 </archimate:ArchimateDiagramModel>
